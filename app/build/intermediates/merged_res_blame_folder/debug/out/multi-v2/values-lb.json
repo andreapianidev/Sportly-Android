@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "de.tadris.fitness.app-mergeDebugResources-42:/values-lb/values-lb.xml",
+            "map": [
+                {
+                    "source": "/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/res/values-lb/strings.xml",
+                    "from": {
+                        "startLines": "6,3,5,2,4",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "228,106,187,55,149",
+                        "endColumns": "46,42,40,50,37",
+                        "endOffsets": "270,144,223,101,182"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,102,145,186,237",
+                        "endColumns": "46,42,40,50,37",
+                        "endOffsets": "97,140,181,232,270"
+                    }
+                }
+            ]
+        }
+    ]
+}

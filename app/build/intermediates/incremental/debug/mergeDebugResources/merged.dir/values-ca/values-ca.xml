@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d notificació nova</item>
+    <item quantity="other">%d notificacions noves</item>
+  </plurals>
+    <plurals name="workoutJump">
+        <item quantity="one">Salt</item>
+        <item quantity="other">Salts</item>
+    </plurals>
+    <plurals name="workoutPushUp">
+        <item quantity="one">Flexió</item>
+        <item quantity="other">Flexions</item>
+    </plurals>
+    <plurals name="workoutStep">
+        <item quantity="one">Pas</item>
+        <item quantity="other">Passos</item>
+    </plurals>
+    <string name="OpenStreetMapAttribution">© OpenStreetMap contributors</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navega fins a la pàgina d\'inici"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navega cap amunt"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Més opcions"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Fet"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Mostra-ho tot"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Selecciona una aplicació"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESACTIVA"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ACTIVA"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Supr"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Retorn"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funció+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Maj+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Espai"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menú+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Cerca…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Esborra la consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de cerca"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Envia la consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Cerca per veu"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Comparteix amb"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Comparteix amb <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Replega"</string>
+    <string name="aboutVersion">Versió</string>
+    <string name="about_contact_us">Contacte</string>
+    <string name="about_facebook">Segueix-nos a Facebook</string>
+    <string name="about_github">Fes una còpia a GitHub</string>
+    <string name="about_instagram">Segueix-nos a Instagram</string>
+    <string name="about_play_store">Puntua\'ns a Play Store</string>
+    <string name="about_twitter">Segueix-nos a Twitter</string>
+    <string name="about_website">Visita la nostra pàgina web</string>
+    <string name="about_youtube">Mira els nostres vídeos a Youtube</string>
+    <string name="add">Afegeix</string>
+    <string name="add_interval">Afegeix interval</string>
+    <string name="and">i</string>
+    <string name="announcementGPSStatus">Estat del GPS</string>
+    <string name="announcementWorkoutActions">Accions d\'entrenament (pausa, recuperació, etc.)</string>
+    <string name="app_name">FitoTrack</string>
+    <string name="authenticationFailed">L\'autentificació ha fallat.</string>
+    <string name="backup">Còpia de seguretat</string>
+    <string name="bottomsheet_action_collapse">Replega el full inferior</string>
+    <string name="bottomsheet_action_expand">Desplega el full inferior</string>
+    <string name="bottomsheet_action_expand_halfway">Desplega fins a la meitat</string>
+    <string name="bottomsheet_drag_handle_clicked">Has fet doble toc a l\'ansa per arrossegar</string>
+    <string name="bottomsheet_drag_handle_content_description">Ansa per arrossegar</string>
+    <string name="cancel">Cancel·lar</string>
+    <string name="cannotStart">No es pot començar</string>
+    <string name="character_counter_content_description">Caràcters introduïts: %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">S\'ha superat el límit de caràcters (%1$d de %2$d)</string>
+    <string name="chooseBackupFile">Trieu Còpia de seguretat del fitxer</string>
+    <string name="clear_text_end_icon_content_description">Esborra el text</string>
+    <string name="comment">Comentari</string>
+    <string name="continue_">Continuar</string>
+    <string name="converting">Conversió</string>
+    <string msgid="6083905920877235314" name="copy">"Copia"</string>
+    <string name="day">Dia</string>
+    <string name="delete">Esborra</string>
+    <string name="deleteWorkout">Eliminar entrenament</string>
+    <string name="deleteWorkoutMessage">De debò vols eliminar l\'entrenament\?</string>
+    <string name="description">Descripció</string>
+    <string name="edit_interval">Edita l\'interval</string>
+    <string name="enable">Activar</string>
+    <string name="enterComment">Introduïu comentari</string>
+    <string name="enterVerificationCode">Introduïu el codi de verificació</string>
+    <string name="enterWorkout">Introduïu l\'entrenament</string>
+    <string name="error">Error</string>
+    <string name="errorEnterValidDuration">Introduïu una durada vàlida</string>
+    <string name="errorEnterValidNumber">Introduïu un número vàlid</string>
+    <string name="errorExportFailed">L\'exportació de la informació ha fallat.</string>
+    <string name="errorGpxExportFailed">L\'exportació del GPX ha fallat.</string>
+    <string name="errorImportFailed">L\'importació de la informació ha fallat.</string>
+    <string name="errorWorkoutAddFuture">L’entrenament no pot ser en el futur</string>
+    <string name="error_icon_content_description">Error</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Opcions avançades"</string>
+    <string name="exportAsGpxFile">Exportar com a fitxer GPX</string>
+    <string name="exportData">Exportar les dades</string>
+    <string name="exporting">Exportant</string>
+    <string name="exposed_dropdown_menu_content_description">Mostra el menú desplegable</string>
+    <string name="finished">Acabat</string>
+    <string name="gps">GPS</string>
+    <string name="gpsFound">Senyal GPS trobat</string>
+    <string name="gpsLost">Senyal de GPS perdut</string>
+    <string name="height">Altura</string>
+    <string name="hintRestart">Si us plau, reinicieu l\'aplicació per aplicar canvis</string>
+    <string name="icon_content_description">Icona del quadre de diàleg</string>
+    <string name="importBackup">Importar còpia de seguretat de dades</string>
+    <string name="importBackupMessage">ADVERTÈNCIA: s\'esborraran totes les dades existents a l\'aplicació. Si no els voleu perdre, primer feu una altra còpia de seguretat. Esteu segur que voleu restaurar aquesta còpia de seguretat\?</string>
+    <string name="importBackupSummary">Restaura una còpia de seguretat realitzada</string>
+    <string name="importWorkout">Importar entrenament</string>
+    <string name="info">Info</string>
+    <string name="initialising">Inicialitzant</string>
+    <string name="item_view_role_description">Tabulador</string>
+    <string name="loadingFile">S\'està carregant el fitxer</string>
+    <string name="locationData">Dades d’ubicació</string>
+    <string name="mapStyle">Estil del mapa</string>
+    <string name="material_clock_toggle_content_description">Selecciona a. m. o p. m.</string>
+    <string name="material_hour_24h_suffix">%1$s hores</string>
+    <string name="material_hour_selection">Seleccioneu l\'hora</string>
+    <string name="material_hour_suffix">%1$s en punt</string>
+    <string name="material_minute_selection">Selecciona els minuts</string>
+    <string name="material_minute_suffix">%1$s minuts</string>
+    <string name="material_timepicker_am">a. m.</string>
+    <string name="material_timepicker_clock_mode_description">Canvia al mode de rellotge per introduir l\'hora.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">p. m.</string>
+    <string name="material_timepicker_select_time">Selecció de l\'hora</string>
+    <string name="material_timepicker_text_input_mode_description">Canvia al mode d\'introducció de text per introduir l\'hora.</string>
+    <string name="max">Max</string>
+    <string name="min">Min</string>
+    <string name="month">Mes</string>
+    <string name="mtrl_badge_numberless_content_description">Notificació nova</string>
+    <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Més de %1$d notificacions noves</string>
+    <string name="mtrl_picker_a11y_next_month">Canvia al mes següent</string>
+    <string name="mtrl_picker_a11y_prev_month">Canvia al mes anterior</string>
+    <string name="mtrl_picker_announce_current_selection">Selecció actual: %1$s</string>
+    <string name="mtrl_picker_cancel">Cancel·la</string>
+    <string name="mtrl_picker_confirm">D’acord</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selecciona una data</string>
+    <string name="mtrl_picker_date_header_unselected">Data seleccionada</string>
+    <string name="mtrl_picker_day_of_week_column_header">Columna de dies: %1$s</string>
+    <string name="mtrl_picker_invalid_format">El format no és vàlid.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemple: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Utilitza: %1$s</string>
+    <string name="mtrl_picker_invalid_range">L\'interval no és vàlid.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Canvia a l\'any %1$s</string>
+    <string name="mtrl_picker_out_of_range">La data està fora de l\'interval: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data d\'inici - %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s - data de finalització</string>
+    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selecciona un interval</string>
+    <string name="mtrl_picker_range_header_unselected">Data d\'inici - data de finalització</string>
+    <string name="mtrl_picker_save">Desa</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data de finalització</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data d\'inici</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Canvia al mode d\'introducció de dades del calendari</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Toca per canviar a la selecció del dia</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Canvia al mode d\'introducció de text</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Toca per canviar a la selecció de l\'any</string>
+    <string name="mtrl_timepicker_cancel">Cancel·la</string>
+    <string name="mtrl_timepicker_confirm">D’acord</string>
+    <string name="noComment">Sense comentaris</string>
+    <string name="noGpsMessage">Si us plau, activeu el GPS per fer el seguiment de l\'entrenament.</string>
+    <string name="noGpsTitle">GPS desactivat</string>
+    <string msgid="6573031135582639649" name="not_set">"No definit"</string>
+    <string name="okay">Dacord</string>
+    <string name="password_toggle_content_description">Mostra la contrasenya</string>
+    <string name="pref_announcement_mode">Mode d\'anunci</string>
+    <string name="pref_announcements_config_summary">Trieu el temps i la distància entre els anuncis de veu</string>
+    <string name="pref_announcements_config_title">Activador de l\'anunci</string>
+    <string name="pref_announcements_content">Contingut dels anuncis</string>
+    <string name="pref_step_length">Longitud de la passa</string>
+    <string name="pref_unit_system">Sistema d\'unitats preferit</string>
+    <string name="pref_voice_announcements_summary">Configureu els missatges de veu que us informin durant l\'entrenament</string>
+    <string name="pref_weight">El teu pes</string>
+    <string name="pref_weight_summary">El teu pes és necessari per calcular les calories cremades</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" s\'ha copiat al porta-retalls"</string>
+    <string name="preferencesCategoryAppearance">Aparença</string>
+    <string name="recordWorkout">Enregistrar entrenament</string>
+    <string name="restore">Restaura</string>
+    <string name="save">Guardar</string>
+    <string name="savedSuccessfully">Desat</string>
+    <string name="savingFailed">Desant el fitxer</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Cerca"</string>
+    <string name="setPreferencesMessage">Podeu configurar el vostre sistema d’unitat preferit i el vostre pes a la configuració.</string>
+    <string name="setPreferencesTitle">Estableix les preferències</string>
+    <string name="settings">Configuració</string>
+    <string name="share">Comparteix</string>
+    <string name="shareFile">Comparteix el fitxer</string>
+    <string name="start">Començar</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop">Atura</string>
+    <string name="stopRecordingQuestion">Aturar l\'enregistrament\?</string>
+    <string name="stopRecordingQuestionMessage">Esteu segur que voleu aturar la gravació\?</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="theme">Tema</string>
+    <string name="timeHourPlural">Hores</string>
+    <string name="timeHourShort">h</string>
+    <string name="timeHourSingular">Hora</string>
+    <string name="timeMinutePlural">Minuts</string>
+    <string name="timeMinuteShort">min</string>
+    <string name="timeMinuteSingular">Minut</string>
+    <string name="timeSecondsPlural">Segons</string>
+    <string name="timeSecondsShort">s</string>
+    <string name="timeSecondsSingular">Segon</string>
+    <string name="trackerWaitingMessage">Esperant per començar l\'entrenament</string>
+    <string name="trackingInfo">Informació de seguiment</string>
+    <string name="ttsNotAvailable">TextToSpeech no està disponible</string>
+    <string name="type">Tipus</string>
+    <string name="unknown">Desconegut</string>
+    <string name="upload">Pujar</string>
+    <string name="uploadFailed">La pujada ha fallat</string>
+    <string name="uploadFailedOsmNotAuthorized">No autoritzat, torneu-ho a provar</string>
+    <string name="uploadSuccessful">La càrrega s\'ha fet correctament</string>
+    <string name="uploading">Pujant</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"DESACTIVAT"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ACTIVAT"</string>
+    <string name="voiceAnnouncementsTitle">Anuncis de veu</string>
+    <string name="waiting_gps">Esperant el GPS</string>
+    <string name="week">Setmana</string>
+    <string name="workoutAscent">Ascens</string>
+    <string name="workoutAvgFrequencyLong">Freqüència mitjana</string>
+    <string name="workoutAvgFrequencyShort">Freqüència mitjana</string>
+    <string name="workoutAvgHeartRate">Ritme cardíac mitjà</string>
+    <string name="workoutAvgIntensityShort">Intensitat mitjana</string>
+    <string name="workoutAvgSpeedLong">Velocitat Mitjana</string>
+    <string name="workoutAvgSpeedShort">Vel. Mitjana</string>
+    <string name="workoutBurnedEnergy">Energia cremada</string>
+    <string name="workoutCurrentFrequency">Freqüència actual</string>
+    <string name="workoutDate">Data</string>
+    <string name="workoutDescent">Descens</string>
+    <string name="workoutDistance">Distància</string>
+    <string name="workoutDuration">Duració</string>
+    <string name="workoutEdited">Aquest entrenament ha estat editat.</string>
+    <string name="workoutEndTime">Hora de finalització</string>
+    <string name="workoutEnergyConsumption">Consum d\'energia</string>
+    <string name="workoutFrequency">Freqüència</string>
+    <string name="workoutHeartRate">Ritme cardíac</string>
+    <string name="workoutIntensity">Intensitat</string>
+    <string name="workoutMaxFrequency">Freqüència màxima</string>
+    <string name="workoutMaxHeartRate">Ritme cardíac màxim</string>
+    <string name="workoutMaxHeight">Alçada màxima</string>
+    <string name="workoutMaxIntensity">Intensitat màxima</string>
+    <string name="workoutMinHeight">Alçada mínima</string>
+    <string name="workoutPace">Ritme</string>
+    <string name="workoutPauseDuration">Durada Pausa</string>
+    <string name="workoutRecordingTypeGps">Entrenaments gps</string>
+    <string name="workoutRecordingTypeIndoor">Entrenaments interiors</string>
+    <string name="workoutRepetitions">Repeticions</string>
+    <string name="workoutRoute">Ruta</string>
+    <string name="workoutSpeed">Velocitat</string>
+    <string name="workoutStartTime">Hora d\'inici</string>
+    <string name="workoutTime">Temps</string>
+    <string name="workoutTopSpeed">Velocitat Màxima</string>
+    <string name="workoutTotalEnergy">Energia total</string>
+    <string name="workoutTypeAdd">Afegeix</string>
+    <string name="workoutTypeAll">Tots</string>
+    <string name="workoutTypeCycling">Ciclisme</string>
+    <string name="workoutTypeHiking">Senderisme</string>
+    <string name="workoutTypeInlineSkating">Patins en línia</string>
+    <string name="workoutTypeOther">Altre</string>
+    <string name="workoutTypePushUps">Flexions</string>
+    <string name="workoutTypeRopeSkipping">Saltar a corda</string>
+    <string name="workoutTypeRowing">Rem</string>
+    <string name="workoutTypeRunning">Córrer</string>
+    <string name="workoutTypeSkateboarding">Skateboarding</string>
+    <string name="workoutTypeTrampolineJumping">Salt de trampolí</string>
+    <string name="workoutTypeTreadmill">Cinta de córrer</string>
+    <string name="workoutTypeWalking">Caminar</string>
+    <string name="workouts">Entrenaments</string>
+    <string name="year">Any</string>
+</resources>

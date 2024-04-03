@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d νέα ειδοποίηση</item>
+    <item quantity="other">%d νέες ειδοποιήσεις</item>
+  </plurals>
+    <string name="OpenStreetMapAttribution">Συνεργάτες του © OpenStreetMap</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Πλοήγηση στην αρχική σελίδα"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Πλοήγηση προς τα επάνω"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Περισσότερες επιλογές"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Τέλος"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Εμφάνιση όλων"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Επιλέξτε μια εφαρμογή"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"διάστημα"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Αναζήτηση…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Διαγραφή ερωτήματος"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Ερώτημα αναζήτησης"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Αναζήτηση"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Υποβολή ερωτήματος"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Φωνητική αναζήτηση"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Κοινοποίηση σε"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Κοινοποίηση στην εφαρμογή <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Σύμπτυξη"</string>
+    <string name="abort">Ακύρωση</string>
+    <string name="aboutAuthor">Δημιουργός</string>
+    <string name="aboutChangelog">Κατάλογος αλλαγών</string>
+    <string name="aboutContributors">Συνεργάτες</string>
+    <string name="aboutHelpTranslating">Συμβάλετε στη μετάφραση</string>
+    <string name="aboutLinks">Σύνδεσμοι</string>
+    <string name="aboutOpenSourceLibraries">Βιβλιοθήκες ανοιχτού κώδικα</string>
+    <string name="aboutPrivacyPolicy">Πολιτική Απορρήτου</string>
+    <string name="aboutReportBug">Αναφορά σφάλματος</string>
+    <string name="aboutSendFeedback">Αποστολή σχολίων στο δημιουργό</string>
+    <string name="aboutSourceCode">Προβολή πηγαίου κώδικα</string>
+    <string name="aboutTitle">Σχετικά με</string>
+    <string name="aboutUnlistedContributors">Ευχαριστούμε όλους τους μη καταχωρημένους συνεργάτες που βοήθησαν στη μετάφραση και την επέκταση του FitoTrack!</string>
+    <string name="aboutVersion">Έκδοση</string>
+    <string name="about_contact_us">Επικοινωνήστε μαζί μας</string>
+    <string name="about_facebook">Κάντε like στην σελίδα μας στο Facebook</string>
+    <string name="about_github">Καντε μας fork στο Github</string>
+    <string name="about_instagram">Ακολουθήστε μας στο Instagram</string>
+    <string name="about_play_store">Αξιολογήστε μας στο Play Store</string>
+    <string name="about_twitter">Ακολουθήστε μας στο Twitter</string>
+    <string name="about_website">Επισκεφθείτε την ιστοσελίδα μας</string>
+    <string name="about_youtube">Παρακολουθήστε μας στο YouTube</string>
+    <string name="actionApply">Εφαρμογή</string>
+    <string name="actionCancelDownload">Ακύρωση λήψης</string>
+    <string name="actionDownloadMap">Λήψη χάρτη</string>
+    <string name="actionGrant">Παραχώρηση</string>
+    <string name="actionImport">Εισαγωγή</string>
+    <string name="actionImportMultiple">Εισαγωγή πολλαπλών</string>
+    <string name="actionPause">Παύση</string>
+    <string name="actionResume">Συνέχεια</string>
+    <string name="actionSave">Αποθήκευση</string>
+    <string name="actionUploadToOSM">Ανέβασμα στο OSM</string>
+    <string name="action_nfc_settings">Προβολή ρυθμίσεων NFC</string>
+    <string name="add">Προσθήκη</string>
+    <string name="add_interval">Προσθήκη Διαλείμματος</string>
+    <string name="alreadyDownloading">Γίνεται ήδη λήψη ενός αρχείου</string>
+    <string name="and">και</string>
+    <string name="announcementCountdown">Ενέργειες Αυτόματης Έναρξης (αντίστροφη μέτρηση, κατάσταση, κλπ.)</string>
+    <string name="announcementGPSStatus">Κατάσταση GPS</string>
+    <string name="announcementSuppressDuringCall">Σίγαση κατά τη διάρκεια κλήσεων</string>
+    <string name="announcementWorkoutActions">Ενέργειες Προπόνησης (παύση, συνέχεια, κλπ.)</string>
+    <string name="app_name">FitoTrack</string>
+    <string name="authenticationFailed">Η επιβεβαίωση απέτυχε.</string>
+    <string name="autoPauseSummary">Αυτόματη παύση και συνέχεια προπονήσεων</string>
+    <string name="autoPauseTitle">Αυτόματη παύση</string>
+    <string name="autoStartCountdownMsg">Έναρξη προπόνησης σε</string>
+    <string name="autoStartCountdownMsgGps">Έναρξη προπόνησης όταν η θέση GPS είναι ακριβής</string>
+    <string name="autoStartCountdownMsgMove">Έναρξη προπόνησης μόλις αρχίσετε να κινείστε</string>
+    <string name="avg">Μέσος όρος</string>
+    <string name="avgSpeedInMotion">Μέση Ταχύτητα (εν Κινήσει)</string>
+    <string name="avgSpeedTotalLong">Μέση Ταχύτητα συνολικά</string>
+    <string name="avgSpeedTotalShort">Μέση Ταχύτητα (Σύνολο)</string>
+    <string name="backup">Αντίγραφο ασφαλείας</string>
+    <string name="bottomsheet_action_collapse">Σύμπτυξη του φύλλου κάτω μέρους</string>
+    <string name="bottomsheet_action_expand">Ανάπτυξη του φύλλου κάτω μέρους</string>
+    <string name="bottomsheet_action_expand_halfway">Ανάπτυξη μέχρι τη μέση</string>
+    <string name="bottomsheet_drag_handle_clicked">Η λαβή μεταφοράς πατήθηκε δύο φορές</string>
+    <string name="bottomsheet_drag_handle_content_description">Λαβή μεταφοράς</string>
+    <string name="calendarWeekYear">Εβδομάδα / Έτος</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="cancelDownloadConfirmation">Θέλετε να ακυρώσετε την τρέχουσα λήψη;</string>
+    <string name="cannotFindWorkout">Δεν βρέθηκε προπόνηση</string>
+    <string name="cannotStart">Αποτυχία έναρξης</string>
+    <string name="character_counter_content_description">Εισήχθησαν %1$d από %2$d χαρακτήρες</string>
+    <string name="character_counter_overflowed_content_description">Υπέρβαση ορίου χαρακτήρων %1$d από %2$d</string>
+    <string name="chooseBackupFile">Επέλεξε αρχείο ανάκτησης</string>
+    <string name="chooseMapHint">Επιλέξτε αρχείο χάρτη</string>
+    <string name="clear_text_end_icon_content_description">Διαγραφή κειμένου</string>
+    <string name="comment">Σχόλιο</string>
+    <string name="connectHeartRateDevice">Σύνδεση συσκευής καρδιακού ρυθμού</string>
+    <string name="continue_">Συνέχεια</string>
+    <string name="converting">μετατροπή</string>
+    <string msgid="6083905920877235314" name="copy">"Αντιγραφή"</string>
+    <string name="create">Δημιουργία</string>
+    <string name="createIntervalSet">Δημιουργία Νέου Σετ Διαλειμμάτων</string>
+    <string name="currentSpeed">Τρέχουσα Ταχύτητα</string>
+    <string name="currentTime">Τρέχων Χρόνος</string>
+    <string name="customAutoStartDelay">Άλλο</string>
+    <string name="customWorkoutTypesTitle">Είδη Προσαρμοσμένων Προπονήσεων</string>
+    <string name="cut">Αποκοπή των πρώτων/τελευταίων 300 μέτρων</string>
+    <string name="day">Ημέρα</string>
+    <string name="dayInMonth">Ημέρα του Μήνα</string>
+    <string name="delete">διαγραφή</string>
+    <string name="deleteIntervalSet">Διαγραφή Σετ Διαλειμμάτων</string>
+    <string name="deleteIntervalSetMessage">Θέλετε να διαγράψετε το σετ διαλειμμάτων;</string>
+    <string name="deleteWorkout">Διαγραφή Προπόνησης</string>
+    <string name="deleteWorkoutMessage">Θέλετε να διαγράψετε την προπόνηση;</string>
+    <string name="deleteWorkoutType">Διαγραφή Είδους Προπόνησης</string>
+    <string name="deleteWorkoutTypeConfirmation">Θέλετε να διαγράψετε αυτό το είδος προπόνησης;</string>
+    <string name="description">Περιγραφή</string>
+    <string name="dialog_nfc_disabled">Για να χρησιμοποιήσετε ετικέτες NFC για την έναρξη και διακοπή προπονήσεων πρέπει πρώτα να ενεργοποιήσετε το NFC στις ρυθμίσεις συσκευής</string>
+    <string name="dialog_nfc_disabled_title">Το NFC είναι απενεργοποιημένο</string>
+    <string name="downloadCanceled">Η λήψη ακυρώθηκε</string>
+    <string name="downloadFailed">Μη επιτυχής λήψη</string>
+    <string name="downloadMapConfirmation">Θέλετε να κάνετε λήψη του αρχείου χάρτη %s;</string>
+    <string name="downloadMapsSpecifyDirectory">Προσδιορίστε πρώτα μία τοποθεσία για τους χάρτες εκτός σύνδεσης</string>
+    <string name="downloadMapsTitle">Λήψη Χαρτών</string>
+    <string name="downloadSuccess">Λήψεις</string>
+    <string name="downloading">Λήψη αρχείου…</string>
+    <string name="editDisplayedInformation">Επεξεργασία προβαλλόμενων πληροφοριών</string>
+    <string name="editDisplayedInformationHint">Εφόσον δεν έχει ξεκινήσει η προπόνηση, μπορείτε να επεξεργαστείτε τις προβαλλόμενες τιμές πατώντας σε ένα από τα τέσσερα πεδία.</string>
+    <string name="editWorkout">Επεξεργασία Προπόνησης</string>
+    <string name="editWorkoutStartEnd">Επεξεργασία Έναρξης/Λήξης</string>
+    <string name="editWorkoutType">Επεξεργασία είδους προπόνησης</string>
+    <string name="enable">Ενεργοποίηση</string>
+    <string name="enterComment">Εισαγωγή Σχολίου</string>
+    <string name="enterDescription">Εισάγετε μία περιγραφή</string>
+    <string name="enterName">Εισάγετε όνομα</string>
+    <string name="enterVerificationCode">Εισάγετε Κωδικό Επαλήθευσης</string>
+    <string name="enterWorkout">Καταχώρηση Προπόνησης</string>
+    <string name="error">σφάλμα</string>
+    <string name="errorEnterValidDuration">Εισάγετε έγκυρη διάρκεια</string>
+    <string name="errorEnterValidNumber">Εισάγετε έγκυρο αριθμό</string>
+    <string name="errorExportFailed">Η εξαγωγή Δεδομένων απέτυχε.</string>
+    <string name="errorGpxExportFailed">Η εξαγωγή GPX απέτυχε.</string>
+    <string name="errorImportFailed">Η εισαγωγή Δεδομένων απέτυχε.</string>
+    <string name="errorWorkoutAddFuture">Η προπόνηση δεν μπορεί να πραγματοποιήθηκε στο μέλλον</string>
+    <string name="error_icon_content_description">Σφάλμα</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Σύνθετες"</string>
+    <string name="exportAsGpxFile">Εξαγωγή ως αρχείο GPX</string>
+    <string name="exportData">Εξαγωγή Δεδομένων</string>
+    <string name="exportDataSummary">Δημιουργία αντιγράφου ασφαλείας για όλες τις προπονήσεις</string>
+    <string name="exporting">εξαγωγή</string>
+    <string name="exposed_dropdown_menu_content_description">Εμφάνιση αναπτυσσόμενου μενού</string>
+    <string name="finished">Τερματισμός</string>
+    <string name="gps">GPS</string>
+    <string name="gpsFound">Το σήμα GPS βρέθηκε</string>
+    <string name="gpsLost">Το σήμα GPS χάθηκε</string>
+    <string name="heartRateNotAvailable">Καρδιακός ρυθμός μη διαθέσιμος.</string>
+    <string name="height">Υψομετρική διαφορά</string>
+    <string name="help">Βοήθεια</string>
+    <string name="hintAddWorkout">Πατήστε το εικονίδιο \'συν\' για να καταγράψετε ή να καταχωρήσετε μία προπόνηση.</string>
+    <string name="hintEditIntervalSet">Προσθήκη φωνητικών διαλειμμάτων.</string>
+    <string name="hintManageIntervalSets">Προσθήκη σετ διαλειμμάτων για χρήση στις προπονήσεις σας.</string>
+    <string name="hintManageWorkoutTypes">Πατήστε στο συν για προσθήκη προσαρμοσμένων ειδών προπόνησης.</string>
+    <string name="hintRestart">Επανεκκινήστε την εφαρμογή για να πραγματοποιηθούν οι αλλαγές</string>
+    <string name="icon_content_description">Εικονίδιο παραθύρου διαλόγου</string>
+    <string name="importBackup">Εισαγωγή Αντιγράφου Ασφαλείας Δεδομένων</string>
+    <string name="importBackupMessage">ΠΡΟΣΟΧΗ: Όλα τα υπάρχοντα δεδομένα της εφαρμογής θα διαγραφτούν. Εάν δεν θέλεις να τα χάσεις, δημιούργησε πρώτα ένα αντίγραφο ασφαλείας. Είσαι σίγουρος πως θέλεις να ανακτήσεις από αυτό το αρχείο;</string>
+    <string name="importBackupSummary">Επαναφορά αντιγράφου ασφαλείας</string>
+    <string name="importMultipleGpxFiles">Εισαγωγή πολλαπλών αρχείων GPX</string>
+    <string name="importMultipleMessageSelectFolder">Επιλέξτε ένα φάκελο που περιέχει όλα τα αρχεία GPX που θέλετε να εισάγετε.</string>
+    <string name="importWorkout">Εισαγωγή Προπόνησης</string>
+    <string name="importWorkoutMultipleQuestion">Θέλετε να κάνετε εισαγωγή ενός αρχείου GPX ή πολλαπλών;</string>
+    <string name="importingFiles">Γίνεται εισαγωγή αρχείων</string>
+    <string name="inclination">Κλίση</string>
+    <string name="info">Πληροφορίες</string>
+    <string name="initialising">αρχικοποίηση</string>
+    <string name="intervalAutoStartDelayTraining">Αναβολή Αυτόματης Έναρξης Προπόνησης</string>
+    <string name="intervalAutoTimeoutTraining">Αυτόματη Διακοπή Προπόνησης</string>
+    <string name="intervalSet">Σετ Διαλειμμάτων</string>
+    <string name="intervalSetSelected">Επιτυχής επιλογή Σετ Διαλειμμάτων</string>
+    <string name="intervalSets">Σετ Διαλειμμάτων</string>
+    <string name="intervalTraining">Διαλειμματική Προπόνηση</string>
+    <string name="interval_name">Όνομα:</string>
+    <string name="intervalsIncludePauseSummary">Αν ενεργοποιηθεί, τα σετ θα συνεχιστούν ακόμα κι αν κάνετε παύσεις στην προπόνησή σας.</string>
+    <string name="intervalsIncludePauseTitle">Ένταξη Παύσης Χρόνου στη Διαλειμματική Προπόνηση</string>
+    <string name="item_view_role_description">Καρτέλα</string>
+    <string name="length_in_minutes">Διάρκεια (λεπτά):</string>
+    <string name="loadingFile">Φόρτωση αρχείου</string>
+    <string name="locationData">Δεδομένα τοποθεσίας</string>
+    <string name="manageAutoStartDelaySummary">Επιλέξτε προεπιλεγμένη αντίστροφη μέτρηση για την αυτόματη έναρξη προπόνησης</string>
+    <string name="manageAutoTimeoutSummary">Επεξεργασία του διαστήματος για αυτόματη διακοπή προπόνησης</string>
+    <string name="manageIntervalSets">Διαχείριση Σετ Διαλειμμάτων</string>
+    <string name="manageIntervalsSummary">Επεξεργασία των σετ διαλειμμάτων που θα χρησιμοποιείτε κατά τη διάρκεια της προπόνησης με φωνητικές εντολές.</string>
+    <string name="mapStyle">Στυλ Χάρτη</string>
+    <string name="material_clock_toggle_content_description">Επιλέξτε π.μ. ή μ.μ.</string>
+    <string name="material_hour_24h_suffix">%1$s ώρες</string>
+    <string name="material_hour_selection">Επιλογή ώρας</string>
+    <string name="material_hour_suffix">%1$s ακριβώς</string>
+    <string name="material_minute_selection">Επιλογή λεπτών</string>
+    <string name="material_minute_suffix">%1$s λεπτά</string>
+    <string name="material_timepicker_am">ΠΜ</string>
+    <string name="material_timepicker_clock_mode_description">Κάντε εναλλαγή στη λειτουργία ρολογιού, για την εισαγωγή της ώρας.</string>
+    <string name="material_timepicker_hour">Ώρα</string>
+    <string name="material_timepicker_minute">Λεπτό</string>
+    <string name="material_timepicker_pm">ΜΜ</string>
+    <string name="material_timepicker_select_time">Επιλέξτε ώρα</string>
+    <string name="material_timepicker_text_input_mode_description">Κάντε εναλλαγή στη λειτουργία εισαγωγής κειμένου, για την εισαγωγή της ώρας.</string>
+    <string name="max">Μέγιστο</string>
+    <string name="merge">Συγχωνεύση</string>
+    <string name="min">Ελάχιστο</string>
+    <string name="month">Μήνας</string>
+    <string name="moveEndOfWorkout">Αποκοπή λήξης</string>
+    <string name="moveStartOfWorkout">Αποκοπή έναρξης</string>
+    <string name="mtrl_badge_numberless_content_description">Νέα ειδοποίηση</string>
+    <string name="mtrl_chip_close_icon_content_description">Κατάργηση %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Πάνω από %1$d νέες ειδοποιήσεις</string>
+    <string name="mtrl_picker_a11y_next_month">Αλλαγή στον επόμενο μήνα</string>
+    <string name="mtrl_picker_a11y_prev_month">Αλλαγή στον προηγούμενο μήνα</string>
+    <string name="mtrl_picker_announce_current_selection">Τρέχουσα επιλογή: %1$s</string>
+    <string name="mtrl_picker_cancel">Ακύρωση</string>
+    <string name="mtrl_picker_confirm">ΟΚ</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Επιλογή ημερομηνίας</string>
+    <string name="mtrl_picker_date_header_unselected">Επιλεγμένη ημερομηνία</string>
+    <string name="mtrl_picker_day_of_week_column_header">Στήλη ημερών: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Μη έγκυρη μορφή.</string>
+    <string name="mtrl_picker_invalid_format_example">Παράδειγμα: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Χρησιμοποιήστε: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Μη έγκυρο εύρος.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Πλοήγηση στο έτος %1$s</string>
+    <string name="mtrl_picker_out_of_range">Εκτός εύρους: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Ημερομηνία έναρξης – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Ημερομηνία λήξης</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Επιλογή εύρους</string>
+    <string name="mtrl_picker_range_header_unselected">Ημερομηνία έναρξης – Ημερομηνία λήξης</string>
+    <string name="mtrl_picker_save">Αποθήκευση</string>
+    <string name="mtrl_picker_text_input_date_hint">Ημερομηνία</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Ημερομηνία λήξης</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Ημερομηνία έναρξης</string>
+    <string name="mtrl_picker_text_input_day_abbr">η</string>
+    <string name="mtrl_picker_text_input_month_abbr">μ</string>
+    <string name="mtrl_picker_text_input_year_abbr">ε</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Εναλλαγή στη λειτουργία εισαγωγής ημερολογίου</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Πατήστε για εναλλαγή για την επιλογή ημέρας</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Εναλλαγή στη λειτουργία εισαγωγής κειμένου</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Πατήστε για εναλλαγή για την επιλογή έτους</string>
+    <string name="mtrl_timepicker_cancel">Ακύρωση</string>
+    <string name="mtrl_timepicker_confirm">ΟΚ</string>
+    <string name="nfcStartSummary">Αν ενεργοποιηθεί, θα μπορείτε να αρχίσετε και να διακόψετε προπονήσεις σαρώνοντας ετικέτες NFC</string>
+    <string name="nfcStartTitle">Σάρωση για έναρξη</string>
+    <string name="noAutoStartDelay">Καμία</string>
+    <string name="noComment">Ουδέν σχόλιο</string>
+    <string name="noGpsMessage">Παρακαλώ ενεργοποιήστε το GPS για καταγραφή προπόνησης.</string>
+    <string name="noGpsTitle">GPS απενεργοποιημένο</string>
+    <string name="noWorkoutStarted">Δεν έχει ξεκινήσει προπόνηση</string>
+    <string name="no_workouts_recorded">Δεν έχουν καταγραφεί προπονήσεις</string>
+    <string name="no_workouts_recorded_for_this_activity">Δεν έχει καταχωρηθεί αυτή η δραστηριότητα</string>
+    <string msgid="6573031135582639649" name="not_set">"Δεν έχει οριστεί"</string>
+    <string name="nothingSelected">Δεν έχει επιλεγεί τίποτα</string>
+    <string name="okay">Εντάξει</string>
+    <string name="overwriteMapConfirmation">Θέλετε να αντικαταστήσετε ένα υπάρχον αρχείο χάρτη %s;</string>
+    <string name="password_toggle_content_description">Εμφάνιση κωδικού πρόσβασης</string>
+    <string name="per">ανά</string>
+    <string name="popup_auto_start">Με προεπιλεγμένη αναβολή</string>
+    <string name="popup_auto_start_delay">Με προσαρμοσμένη αναβολή</string>
+    <string name="popup_auto_start_immediately">Άμεση έναρξη</string>
+    <string name="popup_auto_start_on_move">Μόλις αρχίσω να κινούμαι</string>
+    <string name="popup_auto_start_wait_for_gps">Όταν η τοποθεσία GPS είναι ακριβής</string>
+    <string name="prefShowOnLockScreenSummary">Προβολή πληροφοριών προπονήσης ακόμα κι όταν η συσκευή είναι κλειδωμένη.</string>
+    <string name="prefShowOnLockScreenTitle">Ορατό στην οθόνη κλειδώματος</string>
+    <string name="pref_announcement_mode">Λειτουργία Ανακοίνωσης</string>
+    <string name="pref_announcements_config_summary">Επιλέξτε το χρόνο και την απόσταση μεταξή φωνητικών ανακοινώσεων</string>
+    <string name="pref_announcements_config_title">Έναυσμα ανακοίνωσης</string>
+    <string name="pref_announcements_content">Περιεχόμενο ανακοινώσεων</string>
+    <string name="pref_auto_start_delay_title">Αντίστροφη Μέτρηση Αυτόματης Έναρξης</string>
+    <string name="pref_auto_timeout_title">Χρόνος μέχρι Αυτόματη Διακοπή</string>
+    <string name="pref_energy_unit">Μονάδα ενέργειας</string>
+    <string name="pref_unit_system">Προτιμώμενo σύστημα μονάδων</string>
+    <string name="pref_voice_announcements_summary">Ρύθμιση φωνητικών εντολών κατά τη διάρκεια της προπόνησης</string>
+    <string name="pref_weight">Το Βάρος Σας</string>
+    <string name="pref_weight_summary">Για τον υπολογισμό καύσης θερμιδών απαιτείται το βάρος σας</string>
+    <string name="preferenceCategoryVoiceFeedback">Φωνητικές εντολές</string>
+    <string name="preferenceCurrentSpeedAverageTimeSummary">Αντικατάσταση του τρέχοντος υπολογισμού ταχύτητας με υπολογισμό μέσου όρου.</string>
+    <string name="preferenceCurrentSpeedAverageTimeTitle">Τρέχουσα Ταχύτητα κατά Μέσο Όρο</string>
+    <string name="preferenceCurrentSpeedTime">Διάστημα χρόνου για τον υπολογισμό μέσου όρου</string>
+    <string name="preferenceDateFormat">Μορφή Ημερομηνίας</string>
+    <string name="preferenceTimeFormat">Μορφή Χρόνου</string>
+    <string msgid="6685851473431805375" name="preference_copied">"Το \"<ns1:g id="SUMMARY">%1$s</ns1:g>\" αντιγράφηκε στο πρόχειρο."</string>
+    <string name="preferencesBackupSummary">Αντίγραφο Ασφαλείας/Επαναφορά των δεδομένων από τις προπονήσεις σας</string>
+    <string name="preferencesBackupTitle">Βάση Δεδομένων</string>
+    <string name="preferencesCategoryAppearance">Εμφάνιση</string>
+    <string name="preferencesCategoryMap">Χάρτης</string>
+    <string name="preferencesRecordingSummary">Διαχείριση της καταγραφής προπονήσεων</string>
+    <string name="preferencesRecordingTitle">Καταγραφή</string>
+    <string name="preferencesUserInterfaceSummary">Εξατομίκευση εφαρμογής</string>
+    <string name="preferencesUserInterfaceTitle">Διεπαφή Χρήστη</string>
+    <string name="recordWorkout">Καταγραφή Προπόνησης</string>
+    <string name="recordingPermissionNotGrantedMessage">Το FitoTrack χρειάζεται άδεια τοποθεσίας για να ιχνηλατήσει τις κινήσεις σας κατά τη διάρκεια της προπόνησης σας. Το FitoTrack συλλέγει επίσης δεδομένα τοποθεσία όσο η εφαρμογή βρίσκεται στο παρασκήνιο ή η οθόνη είναι σβηστή για να καταγράψει τις προπονήσεις σας. Τα δεδομένα τοποθεσίας παραμένουν πάντα στη συσκευή σας χωρίς την ξεκάθαρη συναίνεση σας για διαμοιρασμό τους.</string>
+    <string name="recordingPermissionNotGrantedTitle">Δεν έχουν δοθεί άδειες</string>
+    <string name="recordingStateIdle">Αδρανής</string>
+    <string name="recordingStatePaused">Σε Παύση</string>
+    <string name="recordingStateRunning">Τρέξιμο</string>
+    <string name="recordingStateStopped">Σε Διακοπή</string>
+    <string name="replace">Αντικατάσταση</string>
+    <string name="replaceOrMergeMessage">Αντικατάσταση ή συγχώνευση της βάσης δεδομένων με αρχείο αντιγράφου ασφαλείας;</string>
+    <string name="restore">Επαναφορά</string>
+    <string name="resumeWorkout">Συνέχεια Προπόνησης</string>
+    <string name="resumeWorkoutConfirmation">Θέλετε να συνεχίσετε αυτή την προπόνηση; Αυτό θα προσθέσει μία παύση από τη στιγμή που διακόπηκε η προπόνηση.</string>
+    <string name="save">Αποθήκευση</string>
+    <string name="savedSuccessfully">Αποθηκεύτηκε</string>
+    <string name="savingFailed">Αποτυχία αποθήκευσης</string>
+    <string name="scanFailed">Μη επιτυχής σάρωση</string>
+    <string name="scanning">Σάρωση…</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Αναζήτηση"</string>
+    <string name="sections">Τμήματα</string>
+    <string name="selectBluetoothDevice">Επιλογή συσκευής Bluetooth</string>
+    <string name="selectIntervalSet">Επιλογή Σετ Διαλειμμάτων</string>
+    <string name="setDuration">Ρύθμιση Διάρκειας</string>
+    <string name="setPreferencesMessage">Μπορείς να ρυθμίσεις το σύστημα μονάδων και να προσθέσεις το βάρος σου.</string>
+    <string name="setPreferencesTitle">Ρύθμισε</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="share">Διαμοιρασμός</string>
+    <string name="shareFile">Διαμοιρασμός αρχείου</string>
+    <string name="showIntervals">Προβολή διαλειμμάτων</string>
+    <string name="singleWorkout">Προπόνηση</string>
+    <string name="speechConfigNoSpeech">Δεν υπάρχουν ανακοινώσεις</string>
+    <string name="speedLastMinute">Μέση Ταχύτητα (Τελευταίο Λεπτό)</string>
+    <string name="speedLastMinuteSpoken">Η ταχύτητα μέσα στο τελευταίο λεπτό</string>
+    <string name="start">Έναρξη</string>
+    <string name="statsFilter">Φίλτρο:</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop">τερματισμός</string>
+    <string name="stopRecordingQuestion">Τερματισμός Καταγραφής;</string>
+    <string name="stopRecordingQuestionMessage">Θέλετε να τερματίσετε την καταγραφή;</string>
+    <string name="sum">Σύνολο</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="theme">Θέμα</string>
+    <string name="timeHourPlural">Ώρες</string>
+    <string name="timeHourShort">ώ</string>
+    <string name="timeHourSingular">Ώρα</string>
+    <string name="timeMinutePlural">Λεπτά</string>
+    <string name="timeMinuteShort">λ</string>
+    <string name="timeMinuteSingular">Λεπτό</string>
+    <string name="timeSecondsPlural">Δευτερόλεπτα</string>
+    <string name="timeSecondsShort">δ</string>
+    <string name="timeSecondsSingular">Δευτερόλεπτο</string>
+    <string name="trackVisibilityPref">Ορατότητα ίχνους</string>
+    <string name="trackerRunning">Η ιχνηλάτηση είναι ενεργή</string>
+    <string name="trackerWaitingMessage">Αναμονή για εκκίνηση προπόνησης</string>
+    <string name="trackingInfo">Πληροφορίες Ιχνηλάτησης</string>
+    <string name="trackingInfoDescription">Πληροφορίες για την ενεργή ιχνηλάτηση</string>
+    <string name="ttsNotAvailable">Η λειτουργία Κείμενο σε Ομιλία δεν είναι διαθέσιμη</string>
+    <string name="type">Είδος</string>
+    <string name="unitFootPlural">Πόδια</string>
+    <string name="unitFootSingular">Πόδι</string>
+    <string name="unitHeartBeatsPerMinute">παλ</string>
+    <string name="unitKJoule">Κιλοτζούλ</string>
+    <string name="unitKcalLong">Θερμίδα</string>
+    <string name="unitKilometersPerHour">Χιλιόμετρα ανά ώρα</string>
+    <string name="unitKilometersPlural">Χιλιόμετρα</string>
+    <string name="unitKilometersSingular">Χιλιόμετρο</string>
+    <string name="unitMetersPerSecond">Μέτρα ανά δευτερόλεπτο</string>
+    <string name="unitMetersPlural">Μέτρα</string>
+    <string name="unitMetersSingular">Μέτρο</string>
+    <string name="unitMilesPerHour">Μίλια ανά ώρα</string>
+    <string name="unitMilesPlural">Μίλια</string>
+    <string name="unitMilesSingular">Μίλι</string>
+    <string name="unitYardsPlural">Γιάρδες</string>
+    <string name="unitYardsSingular">Γιάρδα</string>
+    <string name="unknown">Άγνωστο</string>
+    <string name="unlockPhoneStopWorkout">Ξεκλειδώστε το κινητό σας για να σταματήσετε την καταγραφή</string>
+    <string name="upload">Ανέβασμα</string>
+    <string name="uploadFailed">Ανέβασμα δεδομένων απέτυχε</string>
+    <string name="uploadFailedOsmNotAuthorized">Δεν είσαι εξουσιοδοτημένος, προσπάθησε ξανά</string>
+    <string name="uploadSuccessful">Ανέβασμα δεδομένων επιτυχές</string>
+    <string name="uploading">Ανέβασμα</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"ΑΝΕΝΕΡΓΗ"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ΕΝΕΡΓΗ"</string>
+    <string name="voiceAnnouncementsTitle">Φωνητικές Ανακοινώσεις</string>
+    <string name="waiting_gps">Αναμονή για GPS</string>
+    <string name="week">Εβδομάδα</string>
+    <string name="workoutAscent">Ανάβαση</string>
+    <string name="workoutAutoStartAborted">Η αυτόματη έναρξη ματαιώθηκε</string>
+    <string name="workoutAutoStarted">Αυτόματη έναρξη προπόνησης</string>
+    <string name="workoutAvgHeartRate">Μέσος Καρδιακός Ρυθμός</string>
+    <string name="workoutAvgSpeedLong">Μέσος όρος ταχύτητας</string>
+    <string name="workoutAvgSpeedShort">Μέσος όρος ταχύτητας</string>
+    <string name="workoutBurnedEnergy">Καταναλωμένη ενέργεια</string>
+    <string name="workoutDate">Ημερομηνία</string>
+    <string name="workoutDescent">Κατάβαση</string>
+    <string name="workoutDiscarded">Απόρριψη προπόνησης</string>
+    <string name="workoutDistance">Απόσταση</string>
+    <string name="workoutDuration">Διάρκεια</string>
+    <string name="workoutEdited">Αυτή η προπόνηση έχει τροποποιηθεί.</string>
+    <string name="workoutEndTime">Ώρα τερματισμού</string>
+    <string name="workoutEnergyConsumption">Κατανάλωση ενέργειας</string>
+    <string name="workoutHeartRate">Καρδιακός ρυθμός</string>
+    <string name="workoutImported">Επιτυχής εισαγωγή προπόνησης</string>
+    <string name="workoutMaxHeartRate">Μέγιστος καρδιακός ρυθμός</string>
+    <string name="workoutMaxHeight">Μεγ. ύψος</string>
+    <string name="workoutMinHeight">Ελαχ. ύψος</string>
+    <string name="workoutNumber">Αριθμός προπονήσεων</string>
+    <string name="workoutPace">Ρυθμός</string>
+    <string name="workoutPauseDuration">Διάρκεια διακοπών</string>
+    <string name="workoutPaused">Προπόνηση σε παύση</string>
+    <string name="workoutResumed">Προπόνηση σε συνέχεια</string>
+    <string name="workoutRoute">Διαδρομή</string>
+    <string name="workoutSpeed">Ταχύτητα</string>
+    <string name="workoutStartTime">Ώρα εκκίνησης</string>
+    <string name="workoutStarted">Προπόνηση σε έναρξη</string>
+    <string name="workoutStatsHelpText">Αυτό το μενού δείχνει το ιστορικό στατιστικών για τις προπονήσεις σας. Για να το χρησιμοποιήσετε πρέπει πρώτα να προσδιορίσετε το είδος της προπόνησης. Μετά επιλέξτε τις πληροφορίες που θέλετε να μάθετε καθώς και το χρονικό διάστημα.
+\n
+\nΠ.χ. αν επιλέξετε \"Εβδομάδα\" ως το χρονικό διάστημα, όλες οι προπονήσεις κάθε εβδομάδας θα συγχωνευτούν σε μία στατιστική υπολογίζοντας είτε το μέσο όρο είτε το σύνολο κάθε εβδομάδας.</string>
+    <string name="workoutStopped">Προπόνηση σε διακοπή</string>
+    <string name="workoutTime">Χρόνος</string>
+    <string name="workoutTopSpeed">Κορυφαία ταχύτητα</string>
+    <string name="workoutTotalEnergy">Σύνολο ενέργειας</string>
+    <string name="workoutTypeAdd">Προσθήκη</string>
+    <string name="workoutTypeAll">Γενικά</string>
+    <string name="workoutTypeCycling">Ποδηλασία</string>
+    <string name="workoutTypeEditIcon">Σύμβολο</string>
+    <string name="workoutTypeEditId">Αναγνωριστικό</string>
+    <string name="workoutTypeEditIdErrorCharacters">Επιτρεπόμενοι χαρακτήρες: a–z, A–Z, 0–9, _, -</string>
+    <string name="workoutTypeEditIdErrorEmpty">Εισάγετε ένα αναγνωριστικό</string>
+    <string name="workoutTypeEditIdErrorUnique">Υπάρχει ήδη είδος προπόνησης με αυτό το αναγνωριστικό</string>
+    <string name="workoutTypeEditMET">Μεταβολικό ισοδύναμο (MET)</string>
+    <string name="workoutTypeEditMinDistance">Δειγματική απόσταση</string>
+    <string name="workoutTypeEditName">Όνομα</string>
+    <string name="workoutTypeEditNameError">Εισάγετε ένα όνομα</string>
+    <string name="workoutTypeHiking">Πεζοπορία</string>
+    <string name="workoutTypeInlineSkating">Τροχοπεδιλισμός</string>
+    <string name="workoutTypeOther">Άλλα αθλήματα</string>
+    <string name="workoutTypeRowing">Κωπηλασία</string>
+    <string name="workoutTypeRunning">Τρέξιμο</string>
+    <string name="workoutTypeSkateboarding">Σκέιτμπορντ</string>
+    <string name="workoutTypeWalking">Περπάτημα</string>
+    <string name="workout_statistics">Στατιστικές Προπονήσεων</string>
+    <string name="workouts">Προπονήσεις</string>
+    <string name="year">Έτος</string>
+</resources>

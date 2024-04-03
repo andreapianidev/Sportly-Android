@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="importedWorkouts">
+        <item quantity="one">Importado un adestramento</item>
+        <item quantity="other">Importados %d adestramentos</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one"><ns1:g example="1" id="mins">%1$d</ns1:g> minuto</item>
+        <item quantity="other"><ns1:g example="5" id="mins">%1$d</ns1:g> minutos</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d notificación nova</item>
+    <item quantity="other">%d notificacións novas</item>
+  </plurals>
+    <plurals name="satelliteCount">
+        <item quantity="one">Un satélite</item>
+        <item quantity="other">%d satélites</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one"><ns1:g example="1" id="secs">%1$d</ns1:g> segundo</item>
+        <item quantity="other"><ns1:g example="12" id="secs">%1$d</ns1:g> segundos</item>
+    </plurals>
+    <plurals name="workoutJump">
+        <item quantity="one">Salto</item>
+        <item quantity="other">Saltos</item>
+    </plurals>
+    <plurals name="workoutPullUp">
+        <item quantity="one">Dominada</item>
+        <item quantity="other">Dominadas</item>
+    </plurals>
+    <plurals name="workoutPushUp">
+        <item quantity="one">flexión</item>
+        <item quantity="other">Flexións</item>
+    </plurals>
+    <plurals name="workoutStep">
+        <item quantity="one">Paso</item>
+        <item quantity="other">Pasos</item>
+    </plurals>
+    <string name="OpenStreetMapAttribution">© Colaboradoras de OpenStreetMap</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Vai ao inicio"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Vai cara arriba"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Máis opcións"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Feito"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Selecciona unha aplicación"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESACTIVADO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ACTIVADO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"eliminar"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"intro"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Función +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Maiús +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espazo"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menú +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Busca…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Borra a consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Busca a consulta"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Realiza buscas"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Envía a consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Busca por voz"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Comparte contido con"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Comparte contido coa aplicación <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Contrae"</string>
+    <string name="abort">Cancelar</string>
+    <string name="aboutAuthor">Autor</string>
+    <string name="aboutChangelog">Rexistro de cambios</string>
+    <string name="aboutContributors">Colaboradores</string>
+    <string name="aboutHelpTranslating">Axuda a traducir</string>
+    <string name="aboutLinks">Ligazóns</string>
+    <string name="aboutOpenSourceLibraries">Bibliotecas de código aberto</string>
+    <string name="aboutPrivacyPolicy">Política de Privacidade</string>
+    <string name="aboutReportBug">Informar dun erro</string>
+    <string name="aboutSendFeedback">Enviar comentarios ao desenvolvedor</string>
+    <string name="aboutSourceCode">Ver código fonte</string>
+    <string name="aboutTitle">Acerca de</string>
+    <string name="aboutUnlistedContributors">Grazas a todas as colaboradoras non mencionadas que axudaron a traducir e mellorar FitoTrack!</string>
+    <string name="aboutVersion">Versión</string>
+    <string name="actionApply">Aplicar</string>
+    <string name="actionCancelDownload">Cancelar a descarga</string>
+    <string name="actionDownloadMap">Descargar mapa</string>
+    <string name="actionGrant">Conceder</string>
+    <string name="actionImport">Importar</string>
+    <string name="actionImportMultiple">Importar varios</string>
+    <string name="actionPause">Pausar</string>
+    <string name="actionResume">Retomar</string>
+    <string name="actionSave">Gardar</string>
+    <string name="actionUploadToOSM">Subir a OSM</string>
+    <string name="action_nfc_settings">Ir aos axustes NFC</string>
+    <string name="add">Engadir</string>
+    <string name="add_interval">Engadir intervalo</string>
+    <string name="alreadyDownloading">Xa se está descargando un ficheiro</string>
+    <string name="always_mode">Sempre</string>
+    <string name="always_track_style">Sempre</string>
+    <string name="and">e</string>
+    <string name="announcementCountdown">Accións de Inicio automático (contra atrás, estado, etc.)</string>
+    <string name="announcementGPSStatus">Estado do GPS</string>
+    <string name="announcementSuppressDuringCall">Suprimir durante unha chamada</string>
+    <string name="announcementWorkoutActions">Accións do adestramento (pausar, retomar, etc.)</string>
+    <string name="app_name">FitoTrack</string>
+    <string name="authenticationFailed">Erro na autenticación.</string>
+    <string name="auto">Auto</string>
+    <string name="autoBackupTitle">Copias automáticas</string>
+    <string name="autoExportBackupExplanation">Nos prazos indicados aquí será exportada a copia:</string>
+    <string name="autoExportBackupSummary">Exportar copias automáticamente</string>
+    <string name="autoExportBackupTitle">Copias de apoio automáticas da app</string>
+    <string name="autoExportWorkoutExplanation">Despois de gravar un adestramento, aquí gardarase un ficheiro GPX:</string>
+    <string name="autoExportWorkoutsSummary">Exportar adestramentos recentemente gravados</string>
+    <string name="autoPauseSummary">Deter automáticamente e retomar o adestramento</string>
+    <string name="autoPauseTitle">Pausa automática</string>
+    <string name="autoStartCountdownMsg">Iniciar adestramento en</string>
+    <string name="autoStartCountdownMsgGps">Iniciar adestramento cando a posición GPS sexa precisa abondo</string>
+    <string name="autoStartCountdownMsgMove">Inicar adestramento cando te comeces a mover</string>
+    <string name="avg">Prom</string>
+    <string name="avgSpeedInMotion">Vel. Promedio (en movemento)</string>
+    <string name="avgSpeedTotalLong">Velocidade promedio en Total</string>
+    <string name="avgSpeedTotalShort">Vel. Promedio (Total)</string>
+    <string name="backup">Copia de apoio</string>
+    <string name="bottomsheet_action_collapse">Contrae o panel inferior</string>
+    <string name="bottomsheet_action_expand">Desprega o panel inferior</string>
+    <string name="bottomsheet_action_expand_halfway">Despregar ata a metade</string>
+    <string name="bottomsheet_drag_handle_clicked">Controlador de arrastre tocado dúas veces</string>
+    <string name="bottomsheet_drag_handle_content_description">Controlador de arrastre</string>
+    <string name="bright_night">Noite Brillante</string>
+    <string name="calendarWeekYear">Calendario Semana/Ano</string>
+    <string name="calibrating">Calibrando</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cancelDownloadConfirmation">Queres cancelar a descarga actual\?</string>
+    <string name="cannotFindWorkout">Non se atopa o adestramento</string>
+    <string name="cannotStart">Non pode comezar</string>
+    <string name="character_counter_content_description">Introducíronse %1$d caracteres de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Introducíronse %1$d caracteres, pero o límite é de %2$d</string>
+    <string name="chooseBackupFile">Ficheiro de copia de apoio</string>
+    <string name="chooseMapHint">Escolle o ficheiro do mapa</string>
+    <string name="clear_text_end_icon_content_description">Borra texto</string>
+    <string name="comment">Comentario</string>
+    <string name="configureHttpPostRequest">Configurar solicitude HTTP POST</string>
+    <string name="connectHeartRateDevice">Conectar monitor pulso cardíaco</string>
+    <string name="continue_">Continuar</string>
+    <string name="converting">Converter</string>
+    <string msgid="6083905920877235314" name="copy">"Copiar"</string>
+    <string name="create">Crear</string>
+    <string name="createIntervalSet">Crear novo conxunto de intervalos</string>
+    <string name="currentSpeed">Velocidade actual</string>
+    <string name="currentTime">Tempo actual</string>
+    <string name="currentTimeStructure">%s %s</string>
+    <string name="customAutoStartDelay">Outro</string>
+    <string name="customWorkoutTypesTitle">Adestramentos personalizados</string>
+    <string name="cut">Corta os primeiros/últimos 300m</string>
+    <string name="dark_theme">Escuro</string>
+    <string name="day">Día</string>
+    <string name="dayInMonth">Día do mes</string>
+    <string name="debugPressureSensor">Depurar sensor de presión</string>
+    <string name="debugSensorsSummary">Recoller datos dos sensores que aparecen no ficheiro de rexistro</string>
+    <string name="debugSensorsTitle">Depurar sensores</string>
+    <string name="debugShareLogsSummary">Comparte o rexistro onde se atopan datos útiles para solucinar problemas ao gravar. Normalmente non contén datos de localización.</string>
+    <string name="debugShareLogsTitle">Compartir rexistro</string>
+    <string name="delete">Eliminar</string>
+    <string name="deleteExportTargetConfirmation">Eliminar este obxectivo de exportación\?</string>
+    <string name="deleteIntervalSet">Eliminar conxunto de intervalos</string>
+    <string name="deleteIntervalSetMessage">Desexas eliminar o conxunto de intervalos\?</string>
+    <string name="deleteWorkout">Eliminar adestramento</string>
+    <string name="deleteWorkoutMessage">Realmente queres eliminar o adestramento\?</string>
+    <string name="deleteWorkoutType">Eliminar tipo de adestramento</string>
+    <string name="deleteWorkoutTypeConfirmation">Queres eliminar este tipo de adestramento\?</string>
+    <string name="description">Descrición</string>
+    <string name="details">Pormenores</string>
+    <string name="dialog_nfc_disabled">Para poder usar etiquetas NFC para iniciar e deter adestramentos tes que activar o NFC no dispositivo</string>
+    <string name="dialog_nfc_disabled_title">NFC está desactivado</string>
+    <string name="downloadCanceled">Descarga cancelada</string>
+    <string name="downloadFailed">A descarga fallou</string>
+    <string name="downloadMapConfirmation">Queres descargar o ficheiro de mapa \\\"%s\"\\\?</string>
+    <string name="downloadMapsSpecifyDirectory">Indica o directorio para os mapas sen conexión</string>
+    <string name="downloadMapsTitle">Descargar Mapas</string>
+    <string name="downloadSuccess">Descargado</string>
+    <string name="downloading">Descargando…</string>
+    <string name="editDisplayedInformation">Editar a información presentada</string>
+    <string name="editDisplayedInformationHint">Sempre que o adestramento non tivese comezado, podes editar os valores mostrados premendo nalgún dos catro campos.</string>
+    <string name="editStartEndHelp">Elixe unha posición no mapa ou diagrama. Despois preme nunha das frechas para elexir un novo punto de inicio e fin. Cando remates preme na icona de gardar para aplicar os cambios.</string>
+    <string name="editWorkout">Editar adestramento</string>
+    <string name="editWorkoutStartEnd">Editar Inicio/Fin</string>
+    <string name="editWorkoutType">Edita tipo de adestramento</string>
+    <string name="edit_interval">Editar intervalo</string>
+    <string name="enable">Activar</string>
+    <string name="enterComment">Escribe comentario</string>
+    <string name="enterDescription">Escribe unha descrición</string>
+    <string name="enterName">Dalle un nome</string>
+    <string name="enterValidUrl">Escribe un URL HTTP válido</string>
+    <string name="enterVerificationCode">Escribe o código de verificación</string>
+    <string name="enterWorkout">Novo adestramento</string>
+    <string name="error">Erro</string>
+    <string name="errorEnterValidDuration">Escribe unha duración válida</string>
+    <string name="errorEnterValidNumber">Escribe un número válido</string>
+    <string name="errorExportFailed">A exportación de datos fallou.</string>
+    <string name="errorGpxExportFailed">A exportación GPX fallou.</string>
+    <string name="errorImportFailed">A importación de datos fallou.</string>
+    <string name="errorWorkoutAddFuture">O adestramento non pode ser no futuro</string>
+    <string name="error_icon_content_description">Produciuse un erro</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Configuración avanzada"</string>
+    <string name="exportAsGpxFile">Exportar como arquivo GPX</string>
+    <string name="exportData">Exportar datos</string>
+    <string name="exportDataSummary">Isto fai unha copia de apoio de todos os adestramentos</string>
+    <string name="exportIntervalTitle">Intervalo de copia</string>
+    <string name="exportTargetDirectory">Directorio</string>
+    <string name="exportTargetHttpPost">Solicitude HTTP POST</string>
+    <string name="exporting">Exportar</string>
+    <string name="exposed_dropdown_menu_content_description">Mostra o menú despregable</string>
+    <string name="fileNotFound">Non se atopa o ficheiro</string>
+    <string name="finished">Rematado</string>
+    <string name="friday">Venres</string>
+    <string name="gps">GPS</string>
+    <string name="gpsFound">Sinal GPS atopado</string>
+    <string name="gpsLost">Sinal de GPS perdido</string>
+    <string name="heartRateNotAvailable">O pulso cardíaco non está dispoñible.</string>
+    <string name="heartRateSensorBattery">Sensor da batería</string>
+    <string name="height">Altitude</string>
+    <string name="height_map">Mapa de altitude</string>
+    <string name="help">Axuda</string>
+    <string name="hidden">Agochado</string>
+    <string name="hintAddWorkout">Preme na icona máis para engadir un adestramento.</string>
+    <string name="hintConfigureExportTargets">Indicar a que ficheiros se deben exportar.</string>
+    <string name="hintEditIntervalSet">Engade intervalos que se falarán.</string>
+    <string name="hintManageIntervalSets">Engade un conxunto de intervalos para usalo nos teus adestramentos.</string>
+    <string name="hintManageWorkoutTypes">Preme na icona máis para engadir tipos de adestramento.</string>
+    <string name="hintRestart">Por favor reinicia a aplicación para aplicar os cambios</string>
+    <string name="histogram">Histograma</string>
+    <string name="httpUrl">URL</string>
+    <string name="humanitarian_clean_map_but_sometimes_not_available">Humanitario
+\nMapa claro, pero non está sempre dispoñible</string>
+    <string name="icon_content_description">Icona de cadro de diálogo</string>
+    <string name="identifiable_visibility">Identificable</string>
+    <string name="imperial_unit_system">Imperial</string>
+    <string name="imperial_with_meters_unit_system">Imperial con metros</string>
+    <string name="importBackup">Importar copia de apoio</string>
+    <string name="importBackupMessage">Fai unha copia de apoio dos datos se queres conservalos. Restablecer unha copia anterior agora\?</string>
+    <string name="importBackupSummary">Restaurar unha copia de apoio</string>
+    <string name="importMultipleGpxFiles">Importa varios ficheiros GPX</string>
+    <string name="importMultipleMessageSelectFolder">Escolle un cartafol que conteña todos os ficheiros GPX que desexas importar.</string>
+    <string name="importWorkout">Importar adestramento</string>
+    <string name="importWorkoutMultipleQuestion">Queres importar un só ficheiro GPX ou varios\?</string>
+    <string name="importingFiles">Importación de ficheiros</string>
+    <string name="in_the_diagram_screen_track_style">Na pantalla de diagrama</string>
+    <string name="inclination">Inclinación</string>
+    <string name="info">Información</string>
+    <string name="initialising">Inicializando</string>
+    <string name="intervalAutoStartDelayTraining">Retraso no Inicio Automático do adestramento</string>
+    <string name="intervalAutoStartModeTraining">Modo de Adestramento de inicio automático</string>
+    <string name="intervalAutoTimeoutTraining">Parada automática do adestramento</string>
+    <string name="intervalSet">Conxunto de intervalos</string>
+    <string name="intervalSetSelected">Conxunto de intervalos seleccionado</string>
+    <string name="intervalSets">Conxunto de intervalos</string>
+    <string name="intervalTraining">Adestramento por intervalos</string>
+    <string name="interval_name">Nome:</string>
+    <string name="intervalsIncludePauseSummary">Se está activado, os intervalos continuarán incluso se fas pausas no adestramento.</string>
+    <string name="intervalsIncludePauseTitle">Incluír tempo de pausa no adestramento por intervalos</string>
+    <string name="invalidNumberFormat">Formato de número non válido.</string>
+    <string name="item_view_role_description">Pestana</string>
+    <string name="joule_unit">Xulio</string>
+    <string name="kcal_unit">quilocaloría (kcal)</string>
+    <string name="launchError">Non se puido iniciar a aplicación</string>
+    <string name="length_in_minutes">Tempo (minutos):</string>
+    <string name="light_theme">Claro</string>
+    <string name="loadingFile">Cargando arquivo</string>
+    <string name="locationData">Datos da localización</string>
+    <string name="lowerPaceLimit">Límite inferior de ritmo</string>
+    <string name="manageAutoStartDelaySummary">Escolle a conta atrás por defecto para o inicio automático do adestramento</string>
+    <string name="manageAutoStartModeSummary">Cambia o xeito en que se inicia o adestramento automático</string>
+    <string name="manageAutoTimeoutSummary">Edita o intervalo para a parada automática do adestramento</string>
+    <string name="manageIntervalSets">Xestionar conxuntos de intervalos</string>
+    <string name="manageIntervalsSummary">Edita os conxuntos de intervalos que poderás utilizar durante o adestramento mediante o asistente de voz.</string>
+    <string name="mapStyle">Estilo do mapa</string>
+    <string name="mapnik_default_osm_mapstyle">Mapnik
+\nEstilo de mapas por defecto en OSM</string>
+    <string name="massExportGpxSummary">Crea un ficheiro ZIP que contén todolos adestramentos como documentos GPX</string>
+    <string name="massExportGpxTitle">Exporta todolos adestramentos como GPX</string>
+    <string name="material_clock_toggle_content_description">Seleccionar a.m. ou p.m.</string>
+    <string name="material_hour_24h_suffix">%1$s horas</string>
+    <string name="material_hour_selection">Seleccionar hora</string>
+    <string name="material_hour_suffix">%1$s en punto</string>
+    <string name="material_minute_selection">Seleccionar minutos</string>
+    <string name="material_minute_suffix">%1$s minutos</string>
+    <string name="material_timepicker_am">a.m.</string>
+    <string name="material_timepicker_clock_mode_description">Cambiar ao modo de reloxo para introducir a hora.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">p.m.</string>
+    <string name="material_timepicker_select_time">Seleccionar hora</string>
+    <string name="material_timepicker_text_input_mode_description">Cambia ao modo de introdución de texto para introducir a hora.</string>
+    <string name="max">Máx</string>
+    <string name="merge">Combinar</string>
+    <string name="metric_unit_system">Métrico</string>
+    <string name="metric_with_m_s_unit_system">Métrico con m/s</string>
+    <string name="min">Min</string>
+    <string name="monday">Luns</string>
+    <string name="mondriaan">Mondriaan DC</string>
+    <string name="month">Mes</string>
+    <string name="monthYear">Mes/Ano</string>
+    <string name="moveEndOfWorkout">Cortar fin</string>
+    <string name="moveStartOfWorkout">Cortar inicio</string>
+    <string name="mtrl_badge_numberless_content_description">Notificación nova</string>
+    <string name="mtrl_chip_close_icon_content_description">Quita %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Máis de %1$d notificacións novas</string>
+    <string name="mtrl_picker_a11y_next_month">Cambiar ao mes seguinte</string>
+    <string name="mtrl_picker_a11y_prev_month">Cambiar ao mes anterior</string>
+    <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
+    <string name="mtrl_picker_cancel">Cancelar</string>
+    <string name="mtrl_picker_confirm">Aceptar</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selecciona unha data</string>
+    <string name="mtrl_picker_date_header_unselected">Data seleccionada</string>
+    <string name="mtrl_picker_day_of_week_column_header">Columna de días: %1$s</string>
+    <string name="mtrl_picker_invalid_format">O formato non é válido.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemplo: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Usa este formato: %1$s</string>
+    <string name="mtrl_picker_invalid_range">O intervalo de datas non é válido.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Ir ao ano %1$s</string>
+    <string name="mtrl_picker_out_of_range">Só se admiten datas do intervalo: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data de inicio - %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s - data de finalización</string>
+    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selecciona un intervalo de datas</string>
+    <string name="mtrl_picker_range_header_unselected">Data de inicio - data de finalización</string>
+    <string name="mtrl_picker_save">Gardar</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data de finalización</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data de inicio</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambiar ao modo de entrada de calendario</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tocar para cambiar a selección de día</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar ao modo de introdución de texto</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tocar para cambiar a selección de ano</string>
+    <string name="mtrl_timepicker_cancel">Cancelar</string>
+    <string name="mtrl_timepicker_confirm">Aceptar</string>
+    <string name="never_track_style">Nunca</string>
+    <string name="nfcStartSummary">Se se activa, poderás iniciar e deter os adestramentos escaneando unha etiqueta NFC</string>
+    <string name="nfcStartTitle">Escanear para iniciar</string>
+    <string name="noAutoStartDelay">Nada</string>
+    <string name="noColoring">Sen cores</string>
+    <string name="noComment">Sen comentario</string>
+    <string name="noGpsMessage">Por favor, activa o GPS para facer un seguimento do teu adestramento.</string>
+    <string name="noGpsTitle">GPS desactivado</string>
+    <string name="noSensorAvailable">Non hai sensor</string>
+    <string name="noWorkoutStarted">Non se iniciou o adestramento</string>
+    <string name="no_workouts_recorded">Non se gravaron adestramentos</string>
+    <string name="no_workouts_recorded_for_this_activity">Non existen adestramentos para esta actividade</string>
+    <string msgid="6573031135582639649" name="not_set">"Sen configurar"</string>
+    <string name="nothingSelected">Nada seleccionado</string>
+    <string name="notimeout">Sen caducidade</string>
+    <string name="offline_local_map_file_with_local_render_theme">Sen conexión
+\nFicheiro local de mapa con decorado local</string>
+    <string name="okay">Si</string>
+    <string name="only_on_headphones_mode">Só con auriculares</string>
+    <string name="overwriteMapConfirmation">Sobrescribir o ficheiro de mapas existente \\\"%s\"\\\?</string>
+    <string name="password_toggle_content_description">Mostra o contrasinal</string>
+    <string name="per">por</string>
+    <string name="pink_mist">Néboa Rosa</string>
+    <string name="popup_auto_start">Con retraso por defecto</string>
+    <string name="popup_auto_start_delay">Con retraso personalizado</string>
+    <string name="popup_auto_start_immediately">Iniciar inmediatamente</string>
+    <string name="popup_auto_start_on_move">Cando comece a moverme</string>
+    <string name="popup_auto_start_wait_for_gps">Cando a posición GPS sexa precisa</string>
+    <string name="prefShowOnLockScreenSummary">Mostrar información do adestramento aínda que o dispositivo esté bloqueado.</string>
+    <string name="prefShowOnLockScreenTitle">Visible na pantalla de bloqueo</string>
+    <string name="prefTrackStyleUsageTitle">Usar automáticamente cores para ruta</string>
+    <string name="pref_announcement_mode">Modo de anuncio</string>
+    <string name="pref_announcements_config_summary">Elixe o tempo e a distancia entre os anuncios de voz</string>
+    <string name="pref_announcements_config_title">Activador do anuncio</string>
+    <string name="pref_announcements_content">Contido dos anuncios</string>
+    <string name="pref_announcements_pace_control_summary">Aviso cando estás por enriba ou embaixo da velocidade indicada</string>
+    <string name="pref_announcements_pace_control_title">Avisos de ritmo</string>
+    <string name="pref_auto_start_delay_title">Conta atrás do Inicio Automático</string>
+    <string name="pref_auto_start_mode_instant">Comezar inmediatamente</string>
+    <string name="pref_auto_start_mode_on_move">Agardar a que comeces a moverte</string>
+    <string name="pref_auto_start_mode_title">Modo Auto-Inicio</string>
+    <string name="pref_auto_start_mode_unknown">Descoñecido (non usar)</string>
+    <string name="pref_auto_start_mode_wait_for_gps">Agardo por localización precisa</string>
+    <string name="pref_auto_timeout_title">Intervalo de tempo para a parada automática</string>
+    <string name="pref_energy_unit">Unidade de enerxía</string>
+    <string name="pref_map_directory">Directorio de mapas sen conexión</string>
+    <string name="pref_render_theme_style">Estilo de debuxado</string>
+    <string name="pref_render_theme_style_info">Sen menú dispoñible para o decorado seleccionado.</string>
+    <string name="pref_step_length">Lonx. da zancada</string>
+    <string name="pref_unit_system">Sistema preferido de unidades</string>
+    <string name="pref_voice_announcements_summary">Configura as indicacións de voz que te informarán durante o adestramento</string>
+    <string name="pref_weight">O teu peso</string>
+    <string name="pref_weight_summary">O teu peso é necesario para calcular as calorías queimadas</string>
+    <string name="preferenceCategoryRenderThemeCategories">Categorías</string>
+    <string name="preferenceCategoryVoiceFeedback">Axuda por voz</string>
+    <string name="preferenceCurrentSpeedAverageTimeSummary">Substituír velocidade actual pola media</string>
+    <string name="preferenceCurrentSpeedAverageTimeTitle">Velocidade media</string>
+    <string name="preferenceCurrentSpeedTime">Período de tempo para a media</string>
+    <string name="preferenceDateFormat">Formato da data</string>
+    <string name="preferenceFirstDayOfWeek">Comezo da semana</string>
+    <string name="preferenceTimeFormat">Formato da hora</string>
+    <string name="preferenceUseAverageForCurrentSpeed">Usar a velocidade media durante unha marxe de tempo no lugar da última velocidade rexistrada do cálculo actual de velocidade.</string>
+    <string msgid="6685851473431805375" name="preference_copied">"Copiouse \"<ns1:g id="SUMMARY">%1$s</ns1:g>\" no portapapeis."</string>
+    <string name="preferencesBackupSummary">Copia/Restauración dos teus datos de adestramento</string>
+    <string name="preferencesBackupTitle">Base de datos</string>
+    <string name="preferencesCategoryAppearance">Aspecto</string>
+    <string name="preferencesCategoryMap">Mapa</string>
+    <string name="preferencesDebugTitle">Depurar</string>
+    <string name="preferencesRecordingSummary">Xestionar a gravación do adestramento</string>
+    <string name="preferencesRecordingTitle">Ao gravar</string>
+    <string name="preferencesUserInterfaceSummary">Personalizar a aplicación</string>
+    <string name="preferencesUserInterfaceTitle">Interface da usuaria</string>
+    <string name="private_visibility">Privado</string>
+    <string name="purple_rain">Chuvia Púrpura</string>
+    <string name="rainbow_warrior">Arco da Vella</string>
+    <string name="recordWorkout">Gravar adestramento</string>
+    <string name="recordingActivityPermissionMessage">FitoTrack require o permiso para rexistrar a túa actividade física e gravar adestramentos en interior.</string>
+    <string name="recordingPermissionNotGrantedMessage">FitoTrack precisa do permiso de acceso á localización para seguir o teu adestramento. FitoTrack tamén recolle datos de localización cando a app está en segundo plano ou a coa pantalla apagada para poder gravar os adestramentos. Os datos de localización permanecen en todo momento no teu dispositivo a non ser que queiras compartilos de xeito explícito.</string>
+    <string name="recordingPermissionNotGrantedTitle">Permisos non concedidos</string>
+    <string name="recordingStateIdle">Inactivo</string>
+    <string name="recordingStatePaused">En pausa</string>
+    <string name="recordingStateRunning">A funcionar</string>
+    <string name="recordingStateStopped">Detido</string>
+    <string name="replace">Reemplazar</string>
+    <string name="replaceOrMergeMessage">Reemplazar ou combinar a base de datos co arquivo de respaldo\?</string>
+    <string name="restore">Restaurar</string>
+    <string name="resumeWorkout">Retomar adestramento</string>
+    <string name="resumeWorkoutConfirmation">Continuar co adestramento\? Esto engadirá unha pausa desde o momento en que o adestramento se detivo.</string>
+    <string name="runningMigrations">Migración de carreiras</string>
+    <string name="saturday">Sábado</string>
+    <string name="save">Gardar</string>
+    <string name="savedSuccessfully">Gardado</string>
+    <string name="savingFailed">Erro ó gardar</string>
+    <string name="scanFailed">Fallo o escaneo</string>
+    <string name="scanning">Escaneando…</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Buscar"</string>
+    <string name="sections">Tramos</string>
+    <string name="selectBluetoothDevice">Selecciona dispositivo Bluetooth</string>
+    <string name="selectColoring">Elixe cor</string>
+    <string name="selectExportTarget">Elexir obxectivo da exportación</string>
+    <string name="selectIntervalSet">Seleccionar conxunto de intervalos</string>
+    <string name="setDuration">Indicar duración</string>
+    <string name="setPreferencesMessage">Podes establecer o sistema de unidades preferido e o teu peso nos axustes.</string>
+    <string name="setPreferencesTitle">Establecer preferencias</string>
+    <string name="settings">Axustes</string>
+    <string name="share">Compartir</string>
+    <string name="shareFile">Compartir arquivo</string>
+    <string name="showIntervals">Mostrar intervalos</string>
+    <string name="showWorkoutZoomControlsSummary">Permitir zoom e desprazamento no mapa mentras grava adestramentos GPS</string>
+    <string name="showWorkoutZoomControlsTitle">Zoom e desprazamento</string>
+    <string name="show_sum">Mostrar suma</string>
+    <string name="singleWorkout">Adestramento único</string>
+    <string name="speechConfigNoSpeech">Sen anuncio</string>
+    <string name="speedLastMinute">Velocidade prom. (último minuto)</string>
+    <string name="speedLastMinuteSpoken">Velocidade no último minuto</string>
+    <string name="start">Comezar</string>
+    <string name="statistics">Estatísticas</string>
+    <string name="statsFilter">Filtro:</string>
+    <string name="stats_explore_title">Explora</string>
+    <string name="stats_history_title">Historia</string>
+    <string name="stats_overview_title">Visión xeral</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="stop">Deter</string>
+    <string name="stopRecordingQuestion">Deter a gravación\?</string>
+    <string name="stopRecordingQuestionMessage">Realmente queres deter a gravación\?</string>
+    <string name="sum">Suma</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="sunday">Domingo</string>
+    <string name="system_default">Por defecto no sistema</string>
+    <string name="system_theme">Sistema</string>
+    <string name="takeBackups1">Cada día</string>
+    <string name="takeBackups14">Cada dúas semanas</string>
+    <string name="takeBackups2">Cada dous días</string>
+    <string name="takeBackups3">Cada tres días</string>
+    <string name="takeBackups7">Cada semana</string>
+    <string name="theme">Decorado</string>
+    <string name="thursday">Xoves</string>
+    <string name="timeHourPlural">Horas</string>
+    <string name="timeHourShort">h</string>
+    <string name="timeHourSingular">Hora</string>
+    <string name="timeMinutePlural">Minutos</string>
+    <string name="timeMinuteShort">min</string>
+    <string name="timeMinuteSingular">Minuto</string>
+    <string name="timeSecondsPlural">Segundos</string>
+    <string name="timeSecondsShort">s</string>
+    <string name="timeSecondsSingular">Segundo</string>
+    <string name="trackStyle">Estilo da ruta</string>
+    <string name="trackVisibilityPref">Visibilidade da ruta</string>
+    <string name="trackable_visibility">Trazable</string>
+    <string name="trackerRunning">O rastrexador está gravando</string>
+    <string name="trackerWaitingMessage">Agardando para comezar o adestramento</string>
+    <string name="trackingInfo">Información seguimento</string>
+    <string name="trackingInfoDescription">Información sobre o rastrexador en execución</string>
+    <string name="ttsAboveTargetSpeed">Demasiado rápido</string>
+    <string name="ttsBelowTargetSpeed">Demasiado lento</string>
+    <string name="ttsLongSecondCountdownAnnouncement"> <ns1:g example="5 seconds" id="secs">%1$s</ns1:g> para o inicio </string>
+    <string name="ttsMinuteCountdownAnnouncement"> <ns1:g example="12 minutes" id="mins">%1$s</ns1:g> para o inicio </string>
+    <string name="ttsMinuteSecondCountdownAnnouncement"> <ns1:g example="1 minute" id="mins">%1$s</ns1:g> e <ns1:g example="7 seconds" id="secs">%2$s</ns1:g> para o inicio </string>
+    <string name="ttsNotAvailable">TextToSpeech non está dispoñible</string>
+    <string name="tuesday">Martes</string>
+    <string name="type">Tipo</string>
+    <string name="unitFootPlural">Pés</string>
+    <string name="unitFootSingular">Pé</string>
+    <string name="unitHeartBeatsPerMinute">ppm</string>
+    <string name="unitHeartRateSensorBattery">%</string>
+    <string name="unitHertzLong">Hercios</string>
+    <string name="unitKJoule">Quiloxulios</string>
+    <string name="unitKcalLong">Calorías</string>
+    <string name="unitKilometersPerHour">Quilómetros por hora</string>
+    <string name="unitKilometersPlural">Quilómetros</string>
+    <string name="unitKilometersSingular">Quilómetro</string>
+    <string name="unitMetersPerSecond">Metros por segundo</string>
+    <string name="unitMetersPlural">Metros</string>
+    <string name="unitMetersSingular">Metro</string>
+    <string name="unitMilesPerHour">Millas por hora</string>
+    <string name="unitMilesPlural">Millas</string>
+    <string name="unitMilesSingular">Milla</string>
+    <string name="unitYardsPlural">Iardas</string>
+    <string name="unitYardsSingular">Iarda</string>
+    <string name="unknown">Descoñecido</string>
+    <string name="unlockPhoneStopWorkout">Por favor desbloquea o teléfono para deter a gravación</string>
+    <string name="upload">Subir</string>
+    <string name="uploadFailed">Fallo na subida</string>
+    <string name="uploadFailedOsmNotAuthorized">Non autorizado, inténtao novamente</string>
+    <string name="uploadSuccessful">Suba exitosa</string>
+    <string name="uploading">Subindo</string>
+    <string name="upperPaceLimit">Límite superior de ritmo</string>
+    <string name="us_customary_unit_system">Propio de USA</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"DESACTIVADO"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ACTIVADO"</string>
+    <string name="voiceAnnouncementsTitle">Anuncios de voz</string>
+    <string name="waiting_gps">Agardando polo GPS</string>
+    <string name="wednesday">Mércores</string>
+    <string name="week">Semana</string>
+    <string name="workoutAscent">Ascenso</string>
+    <string name="workoutAutoStartAborted">Inicio automático abortado</string>
+    <string name="workoutAutoStarted">Adestramento iniciado automáticamente</string>
+    <string name="workoutAvgDistance">Distancia media</string>
+    <string name="workoutAvgDurationLong">Duración media</string>
+    <string name="workoutAvgFrequencyLong">Frecuencia media</string>
+    <string name="workoutAvgFrequencyShort">Frecuencia Media</string>
+    <string name="workoutAvgHeartRate">Pulso promedio</string>
+    <string name="workoutAvgIntensityShort">Intensidade Med</string>
+    <string name="workoutAvgPauseDuration">Duración media da pausa</string>
+    <string name="workoutAvgSpeedLong">Velocidade promedio</string>
+    <string name="workoutAvgSpeedShort">Vel. Promedio</string>
+    <string name="workoutBurnedEnergy">Calorías queimadas</string>
+    <string name="workoutCount">Número de adestramentos</string>
+    <string name="workoutCurrentFrequency">Frecuencia actual</string>
+    <string name="workoutDate">Data</string>
+    <string name="workoutDescent">Descenso</string>
+    <string name="workoutDiscarded">Adestramento descartado</string>
+    <string name="workoutDistance">Distancia</string>
+    <string name="workoutDistanceSum">Suma da distancia</string>
+    <string name="workoutDuration">Tempo</string>
+    <string name="workoutDurationSum">Suma de tempo</string>
+    <string name="workoutEdited">Este adestramento foi editado.</string>
+    <string name="workoutEndTime">Hora de remate</string>
+    <string name="workoutEnergyConsumption">Consumo de enerxía</string>
+    <string name="workoutFrequency">Frecuencia</string>
+    <string name="workoutGPXExportTitle">Exportación GPX adestramentos</string>
+    <string name="workoutHeartRate">Pulso cardíaco</string>
+    <string name="workoutImported">Adestramento importado con éxito</string>
+    <string name="workoutIntensity">Intensidade</string>
+    <string name="workoutMaxFrequency">Frecuencia Máx</string>
+    <string name="workoutMaxHeartRate">Pulso Máximo</string>
+    <string name="workoutMaxHeight">Altitude máx.</string>
+    <string name="workoutMaxIntensity">Intensidade Máx</string>
+    <string name="workoutMinHeight">Altitude min.</string>
+    <string name="workoutNumber">Número de adestramentos</string>
+    <string name="workoutPace">Ritmo</string>
+    <string name="workoutPauseDuration">En pausa</string>
+    <string name="workoutPauseDurationSum">Tempo total en pausa</string>
+    <string name="workoutPaused">Adestramento pausado</string>
+    <string name="workoutRecordingTypeGps">Adestramentos GPS</string>
+    <string name="workoutRecordingTypeIndoor">Adestramentos en interior</string>
+    <string name="workoutRepetitions">Repeticións</string>
+    <string name="workoutResumed">Adestramento retomado</string>
+    <string name="workoutRoute">Ruta</string>
+    <string name="workoutSets">Conxuntos</string>
+    <string name="workoutSpeed">Velocidade</string>
+    <string name="workoutStartTime">Hora de inicio</string>
+    <string name="workoutStarted">Adestramento iniciado</string>
+    <string name="workoutStatsHelpText">Esta pantalla mostra as estatísticas históricas dos adestramentos. Para usalas, primeiro debes indicar o tipo de adestramento premendo nel. Após, configura a información que desexas coñecer e o período de tempo.
+\n
+\nEx. Se escolles \"Semana\" como período de tempo, todos os adestramentos de cada semana fusionaranse nun punto de datos, xa sexa calculando o promedio ou a suma de cada semana.</string>
+    <string name="workoutStopped">Adestramento detido</string>
+    <string name="workoutTime">Hora</string>
+    <string name="workoutTopSpeed">Velocidade máxima</string>
+    <string name="workoutTotalEnergy">Enerxía total</string>
+    <string name="workoutTypeAdd">Engadir</string>
+    <string name="workoutTypeAll">Todo</string>
+    <string name="workoutTypeCycling">Ciclismo</string>
+    <string name="workoutTypeEditIcon">Icona</string>
+    <string name="workoutTypeEditId">ID</string>
+    <string name="workoutTypeEditIdErrorCharacters">Caracteres permitidos: a-z, A-Z, 0-9, _, -</string>
+    <string name="workoutTypeEditIdErrorEmpty">Escribe un ID</string>
+    <string name="workoutTypeEditIdErrorUnique">Xa existe un tipo de adestramento usando ese ID</string>
+    <string name="workoutTypeEditMET">MET</string>
+    <string name="workoutTypeEditMinDistance">Distancia de mostra</string>
+    <string name="workoutTypeEditName">Nome</string>
+    <string name="workoutTypeEditNameError">Escribe un nome</string>
+    <string name="workoutTypeHiking">Sendeirismo</string>
+    <string name="workoutTypeInlineSkating">Patíns en liña</string>
+    <string name="workoutTypeOther">Outro</string>
+    <string name="workoutTypePullUps">Dominadas</string>
+    <string name="workoutTypePushUps">Flexións</string>
+    <string name="workoutTypeRopeSkipping">Saltar á corda</string>
+    <string name="workoutTypeRowing">Remo</string>
+    <string name="workoutTypeRunning">Correr</string>
+    <string name="workoutTypeSkateboarding">Patinaxe</string>
+    <string name="workoutTypeSwimming">Natación</string>
+    <string name="workoutTypeTrampolineJumping">Salto de trampolín</string>
+    <string name="workoutTypeTreadmill">Cinta de correr</string>
+    <string name="workoutTypeWalking">Camiñar</string>
+    <string name="workout_statistics">Estatísticas</string>
+    <string name="workouts">Adestramentos</string>
+    <string name="year">Ano</string>
+    <string name="zoomWithVolumeButtonsSummary">Os botóns de volume controlan o nivel de zoom</string>
+    <string name="zoomWithVolumeButtonsTitle">Zoom cos botóns de volume</string>
+</resources>

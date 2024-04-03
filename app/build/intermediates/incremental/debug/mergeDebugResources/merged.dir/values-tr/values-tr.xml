@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="importedWorkouts">
+        <item quantity="one">Bir egzersiz içe aktarıldı</item>
+        <item quantity="other">%d egzersiz içe aktarıldı</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one"><ns1:g example="1" id="mins">%1$d</ns1:g> dakika</item>
+        <item quantity="other"><ns1:g example="1" id="mins">%1$d</ns1:g> dakika</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d yeni bildirim</item>
+    <item quantity="other">%d yeni bildirim</item>
+  </plurals>
+    <plurals name="satelliteCount">
+        <item quantity="one">Bir uydu</item>
+        <item quantity="other">%d uydu</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one"><ns1:g example="1" id="secs">%1$d</ns1:g> saniye</item>
+        <item quantity="other"><ns1:g example="12" id="secs">%1$d</ns1:g> saniye</item>
+    </plurals>
+    <plurals name="workoutJump">
+        <item quantity="one">Atlama</item>
+        <item quantity="other">Atlama</item>
+    </plurals>
+    <plurals name="workoutPullUp">
+        <item quantity="one">Barfiks</item>
+        <item quantity="other">Barfiks</item>
+    </plurals>
+    <plurals name="workoutPushUp">
+        <item quantity="one">Şınav</item>
+        <item quantity="other">Şınav</item>
+    </plurals>
+    <plurals name="workoutStep">
+        <item quantity="one">Adım</item>
+        <item quantity="other">Adım</item>
+    </plurals>
+    <string name="OpenStreetMapAttribution">© OpenStreetMap\'e katkıda bulunanlar</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Eve gidiş yolunu göster"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Yukarı git"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Bitti"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"KAPAT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AÇ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"sil"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Üst Karakter+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"boşluk"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menü+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Ara…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Sorguyu temizle"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Arama sorgusu"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Ara"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Sorguyu gönder"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Sesli arama"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Şununla paylaş:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ile paylaş"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Daralt"</string>
+    <string name="abort">İptal</string>
+    <string name="aboutAuthor">Yazar</string>
+    <string name="aboutChangelog">Değişiklik günlüğü</string>
+    <string name="aboutContributors">Katkıda bulunanlar</string>
+    <string name="aboutHelpTranslating">Çeviriye yardım et</string>
+    <string name="aboutLinks">Bağlantılar</string>
+    <string name="aboutOpenSourceLibraries">Açık kaynaklı kütüphaneler</string>
+    <string name="aboutPrivacyPolicy">Gizlilik Politikası</string>
+    <string name="aboutReportBug">Hata bildir</string>
+    <string name="aboutSendFeedback">Geliştiriciye geri bildirim gönder</string>
+    <string name="aboutSourceCode">Kaynak kodlarını görüntüle</string>
+    <string name="aboutTitle">Hakkında</string>
+    <string name="aboutUnlistedContributors">FitoTrack\'in çevrilmesine ve genişletilmesine yardımcı olan listelenmemiş tüm katkıda bulunanlara teşekkürler!</string>
+    <string name="aboutVersion">Sürüm</string>
+    <string name="about_contact_us">İletişime geç</string>
+    <string name="about_facebook">Facebook\'ta beğen</string>
+    <string name="about_github">Github\'da beğen</string>
+    <string name="about_instagram">Instagram\'da takip et</string>
+    <string name="about_play_store">Play Store\'da puan ver</string>
+    <string name="about_twitter">Twitter\'da takip et</string>
+    <string name="about_website">Sitemizi ziyaret et</string>
+    <string name="about_youtube">Youtube\'da izle</string>
+    <string name="actionApply">Uygula</string>
+    <string name="actionCancelDownload">İndirmeyi iptal et</string>
+    <string name="actionDownloadMap">Harita indir</string>
+    <string name="actionGrant">İzin ver</string>
+    <string name="actionImport">İçe aktar</string>
+    <string name="actionImportMultiple">Birden fazla içe aktar</string>
+    <string name="actionPause">Duraklat</string>
+    <string name="actionResume">Devam ettir</string>
+    <string name="actionSave">Kaydet</string>
+    <string name="actionUploadToOSM">OSM\'ye yükle</string>
+    <string name="action_nfc_settings">NFC ayarlarına git</string>
+    <string name="add">Ekle</string>
+    <string name="add_interval">Aralık Ekle</string>
+    <string name="alreadyDownloading">Bir dosya zaten indiriliyor</string>
+    <string name="always_mode">Her zaman</string>
+    <string name="always_track_style">Her zaman</string>
+    <string name="and">ve</string>
+    <string name="announcementCountdown">Otomatik Başlatma Eylemleri (geri sayım, durum vs.)</string>
+    <string name="announcementGPSStatus">GPS Durumu</string>
+    <string name="announcementSuppressDuringCall">Arama sırasında beklet</string>
+    <string name="announcementWorkoutActions">Egzersiz Eylemleri (duraklatma, devam ettirme vb.)</string>
+    <string name="app_name">FitoTrack</string>
+    <string name="authenticationFailed">Kimlik doğrulama başarısız oldu.</string>
+    <string name="auto">Otomatik</string>
+    <string name="autoBackupTitle">Otomatik yedeklemeler</string>
+    <string name="autoExportBackupExplanation">Belirtilen aralıkta bir yedekleme buraya aktarılacak:</string>
+    <string name="autoExportBackupSummary">Yedeklemeleri otomatik olarak dışa aktar</string>
+    <string name="autoExportBackupTitle">Otomatik uygulama yedeklemeleri</string>
+    <string name="autoExportWorkoutExplanation">Yeni bir egzersiz kaydedildikten sonra, buraya bir GPX dışa aktarma kaydedilecek:</string>
+    <string name="autoExportWorkoutsSummary">Yeni kaydedilen egzersizleri dışa aktar</string>
+    <string name="autoPauseSummary">Egzersizleri otomatik olarak duraklatın ve devam ettirin</string>
+    <string name="autoPauseTitle">Otomatik duraklat</string>
+    <string name="autoStartCountdownMsg">Egzersiz başlama süresi</string>
+    <string name="autoStartCountdownMsgGps">GPS konumu yeterince doğru olduğunda egzersiz başlayacak</string>
+    <string name="autoStartCountdownMsgMove">Hareket etmeye başladığınızda egzersiz başlayacak</string>
+    <string name="avg">Ortalama</string>
+    <string name="avgSpeedInMotion">Ort. Hız (Hareket Halinde)</string>
+    <string name="avgSpeedTotalLong">Toplamda Ortalama Hız</string>
+    <string name="avgSpeedTotalShort">Ort. Hız (Toplam)</string>
+    <string name="backup">Yedekle</string>
+    <string name="bottomsheet_action_collapse">Alt sayfayı daralt</string>
+    <string name="bottomsheet_action_expand">Alt sayfayı genişlet</string>
+    <string name="bottomsheet_action_expand_halfway">Yarım genişlet</string>
+    <string name="bottomsheet_drag_handle_clicked">Sürükleme tutamacına iki kez dokunuldu</string>
+    <string name="bottomsheet_drag_handle_content_description">Sürükleme tutamacı</string>
+    <string name="bright_night">Parlak Gece</string>
+    <string name="calendarWeekYear">Takvim Haftası / Yılı</string>
+    <string name="calibrating">Kalibrasyon</string>
+    <string name="cancel">İptal</string>
+    <string name="cancelDownloadConfirmation">Geçerli indirmeyi iptal etmek istiyor musunuz\?</string>
+    <string name="cannotFindWorkout">Egzersiz bulunamıyor</string>
+    <string name="cannotStart">Başlatılamıyor</string>
+    <string name="character_counter_content_description">Girilen karakter: %1$d / %2$d</string>
+    <string name="character_counter_overflowed_content_description">Karakter sınırı aşıldı %1$d / %2$d</string>
+    <string name="chooseBackupFile">Yedekleme Dosyası Seç</string>
+    <string name="chooseMapHint">Lütfen bir harita dosyası seçin</string>
+    <string name="clear_text_end_icon_content_description">Metni temizle</string>
+    <string name="comment">Yorum</string>
+    <string name="configureHttpPostRequest">HTTP POST isteğini yapılandır</string>
+    <string name="connectHeartRateDevice">Kalp ritmi aygıtı bağla</string>
+    <string name="continue_">Devam et</string>
+    <string name="converting">Dönüştürülüyor</string>
+    <string msgid="6083905920877235314" name="copy">"Kopyala"</string>
+    <string name="create">Oluştur</string>
+    <string name="createIntervalSet">Yeni Aralık Kümesi Oluştur</string>
+    <string name="currentSpeed">Geçerli Hız</string>
+    <string name="currentTime">Geçerli Saat</string>
+    <string name="currentTimeStructure">%s %s</string>
+    <string name="customAutoStartDelay">Diğer</string>
+    <string name="customWorkoutTypesTitle">Özel Egzersiz Türleri</string>
+    <string name="cut">İlk/son 300 metreyi kes</string>
+    <string name="dark_theme">Koyu</string>
+    <string name="day">Gün</string>
+    <string name="dayInMonth">Ayın Günü</string>
+    <string name="debugPressureSensor">Basınç sensöründe hata ayıklama</string>
+    <string name="debugSensorsSummary">Günlük dosyasına yazılan sensör verilerini toplayın</string>
+    <string name="debugSensorsTitle">Sensörlerde hata ayıklama</string>
+    <string name="debugShareLogsSummary">Egzersiz kaydedicideki hataları bulmak için faydalı veriler içeren günlükleri paylaşın. Genellikle konum verileri içermezler.</string>
+    <string name="debugShareLogsTitle">Günlükleri paylaş</string>
+    <string name="delete">Sil</string>
+    <string name="deleteExportTargetConfirmation">Bu dışa aktarma hedefi silinsin mi\?</string>
+    <string name="deleteIntervalSet">Aralık Kümesini Sil</string>
+    <string name="deleteIntervalSetMessage">Aralık kümesini silmek istiyor musunuz\?</string>
+    <string name="deleteWorkout">Egzersizi Sil</string>
+    <string name="deleteWorkoutMessage">Egzersizi gerçekten silmek istiyor musunuz\?</string>
+    <string name="deleteWorkoutType">Egzersiz Türünü Sil</string>
+    <string name="deleteWorkoutTypeConfirmation">Bu egzersiz türünü gerçekten silmek istiyor musunuz\?</string>
+    <string name="description">Açıklama</string>
+    <string name="details">Ayrıntılar</string>
+    <string name="dialog_nfc_disabled">Egzersizleri başlatmak ve durdurmak üzere NFC etiketlerini kullanmak için önce aygıt ayarlarında NFC\'yi etkinleştirmeniz gerekir</string>
+    <string name="dialog_nfc_disabled_title">NFC şu anda devre dışı</string>
+    <string name="downloadCanceled">İndirme iptal edildi</string>
+    <string name="downloadFailed">İndirme başarısız</string>
+    <string name="downloadMapConfirmation">\\\"%s\\\" harita dosyası indirilsin mi\?</string>
+    <string name="downloadMapsSpecifyDirectory">Lütfen önce çevrim dışı haritalar için bir dizin belirtin</string>
+    <string name="downloadMapsTitle">Haritaları İndir</string>
+    <string name="downloadSuccess">İndirildi</string>
+    <string name="downloading">İndiriliyor…</string>
+    <string name="editDisplayedInformation">Görüntülenen bilgileri düzenle</string>
+    <string name="editDisplayedInformationHint">Egzersiz başlamadığı sürece, dört alandan birine tıklayarak görüntülenen değerleri düzenleyebilirsiniz.</string>
+    <string name="editStartEndHelp">Harita veya diyagramdan bir konum seçin. Ardından, yeni bir başlangıç veya bitiş noktası seçmek için oklardan birine tıklayın. İşiniz bittiğinde, değişiklikleri uygulamak için kaydet simgesine tıklayın.</string>
+    <string name="editWorkout">Egzersizi Düzenle</string>
+    <string name="editWorkoutStartEnd">Başlangıç/Bitişi Düzenle</string>
+    <string name="editWorkoutType">Egzersiz türünü düzenle</string>
+    <string name="edit_interval">Aralık Düzenle</string>
+    <string name="enable">Etkinleştir</string>
+    <string name="enterComment">Yorum Gir</string>
+    <string name="enterDescription">Bir açıklama girin</string>
+    <string name="enterName">Bir ad girin</string>
+    <string name="enterValidUrl">Geçerli bir HTTP URL\'si girin</string>
+    <string name="enterVerificationCode">Doğrulama Kodunu Girin</string>
+    <string name="enterWorkout">Egzersiz Gir</string>
+    <string name="error">Hata</string>
+    <string name="errorEnterValidDuration">Geçerli bir süre girin</string>
+    <string name="errorEnterValidNumber">Geçerli bir sayı girin</string>
+    <string name="errorExportFailed">Veri dışa aktarma başarısız oldu.</string>
+    <string name="errorGpxExportFailed">GPX dışa aktarma başarısız oldu.</string>
+    <string name="errorImportFailed">Veri içe aktarma başarısız oldu.</string>
+    <string name="errorWorkoutAddFuture">Egzersiz gelecekte olamaz</string>
+    <string name="error_icon_content_description">Hata</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Gelişmiş"</string>
+    <string name="exportAsGpxFile">GPX dosyası olarak dışa aktar</string>
+    <string name="exportData">Verileri Dışa Aktar</string>
+    <string name="exportDataSummary">Bu, tüm egzersizlerin bir yedeğini alır</string>
+    <string name="exportIntervalTitle">Yedekleme aralığı</string>
+    <string name="exportTargetDirectory">Dizin</string>
+    <string name="exportTargetHttpPost">HTTP POST isteği</string>
+    <string name="exporting">Dışa aktarılıyor</string>
+    <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
+    <string name="fileNotFound">Dosya bulunamadı</string>
+    <string name="finished">Bitti</string>
+    <string name="friday">Cuma</string>
+    <string name="gps">GPS</string>
+    <string name="gpsFound">GPS sinyali bulundu</string>
+    <string name="gpsLost">GPS sinyali kayboldu</string>
+    <string name="heartRateNotAvailable">Kalp ritmi şu anda kullanılabilir değil.</string>
+    <string name="heartRateSensorBattery">Sensör Pili</string>
+    <string name="height">Yükseklik</string>
+    <string name="height_map">Yükseklik Haritası</string>
+    <string name="help">Yardım</string>
+    <string name="hidden">Gizli</string>
+    <string name="hintAddWorkout">Bir egzersizi kaydetmek veya girmek için artı simgesine tıklayın.</string>
+    <string name="hintConfigureExportTargets">Dışa aktarılacak hedef dosyaları ekleyin.</string>
+    <string name="hintEditIntervalSet">Söylenecek aralıkları ekleyin.</string>
+    <string name="hintManageIntervalSets">Egzersizlerinizde kullanmak için bir aralık kümesi ekleyin.</string>
+    <string name="hintManageWorkoutTypes">Özel egzersiz türleri eklemek için artıya tıklayın.</string>
+    <string name="hintRestart">Değişiklikleri uygulamak için lütfen uygulamayı yeniden başlatın</string>
+    <string name="histogram">Histogram</string>
+    <string name="httpUrl">URL</string>
+    <string name="humanitarian_clean_map_but_sometimes_not_available">Humanitarian
+\nTemiz harita ancak her zaman kullanılabilir değil</string>
+    <string name="icon_content_description">İletişim kutusu simgesi</string>
+    <string name="identifiable_visibility">Tanımlanabilir</string>
+    <string name="imperial_unit_system">İngiliz</string>
+    <string name="imperial_with_meters_unit_system">Metre ile İngiliz</string>
+    <string name="importBackup">Veri Yedeklemesini İçe Aktar</string>
+    <string name="importBackupMessage">Şu anki verilerinizi saklamak istiyorsanız şimdi yedekleyin. Önceki yedekleme şimdi geri yüklensin mi\?</string>
+    <string name="importBackupSummary">Alınan bir yedeklemeyi geri yükleyin</string>
+    <string name="importMultipleGpxFiles">Birden fazla GPX dosyasını içe aktar</string>
+    <string name="importMultipleMessageSelectFolder">Lütfen içe aktarmak istediğiniz tüm GPX dosyalarını içeren bir klasör seçin.</string>
+    <string name="importWorkout">Egzersiz İçe Aktar</string>
+    <string name="importWorkoutMultipleQuestion">Bir GPX dosyasını mı yoksa birden fazla dosyayı mı içe aktarmak istiyorsunuz\?</string>
+    <string name="importingFiles">Dosyalar içe aktarılıyor</string>
+    <string name="in_the_diagram_screen_track_style">Diyagram ekranında</string>
+    <string name="inclination">Eğim</string>
+    <string name="info">Bilgi</string>
+    <string name="initialising">Başlatılıyor</string>
+    <string name="intervalAutoStartDelayTraining">Otomatik Egzersiz Başlatma Gecikmesi</string>
+    <string name="intervalAutoStartModeTraining">Otomatik Egzersiz Başlatma Modu</string>
+    <string name="intervalAutoTimeoutTraining">Otomatik Egzersiz Zaman Aşımı</string>
+    <string name="intervalSet">Aralık Kümesi</string>
+    <string name="intervalSetSelected">Aralık kümesi seçildi</string>
+    <string name="intervalSets">Aralık Kümeleri</string>
+    <string name="intervalTraining">Aralıklı Antrenman</string>
+    <string name="interval_name">Ad:</string>
+    <string name="intervalsIncludePauseSummary">Etkinleştirilirse, egzersizinizi duraklatsanız bile aralıklar devam edecektir.</string>
+    <string name="intervalsIncludePauseTitle">Aralıklı Antrenmana Duraklatma Süresini Dahil Et</string>
+    <string name="invalidNumberFormat">Geçersiz sayı biçimi.</string>
+    <string name="item_view_role_description">Sekme</string>
+    <string name="joule_unit">Joule</string>
+    <string name="kcal_unit">kcal</string>
+    <string name="launchError">Uygulama başlatılamadı</string>
+    <string name="length_in_minutes">Süre (dakika):</string>
+    <string name="light_theme">Açık</string>
+    <string name="loadingFile">Dosya yükleniyor</string>
+    <string name="locationData">Konum verileri</string>
+    <string name="lowerPaceLimit">Alt hız sınırı</string>
+    <string name="manageAutoStartDelaySummary">Otomatik egzersiz başlatmak için öntanımlı geri sayımı seçin</string>
+    <string name="manageAutoStartModeSummary">Otomatik egzersiz başlatma modunu değiştirin</string>
+    <string name="manageAutoTimeoutSummary">Otomatik egzersiz durdurma aralığını düzenleyin</string>
+    <string name="manageIntervalSets">Aralık Kümelerini Yönet</string>
+    <string name="manageIntervalsSummary">Egzersiz sırasında sesli geri bildirim ile kullanabileceğiniz aralık setlerini düzenleyin.</string>
+    <string name="mapStyle">Harita Tarzı</string>
+    <string name="mapnik_default_osm_mapstyle">Mapnik
+\nÖntanımlı OSM harita tarzı</string>
+    <string name="massExportGpxSummary">Tüm egzersizleri GPX belgeleri olarak içeren bir ZIP dosyası oluşturur</string>
+    <string name="massExportGpxTitle">Tüm egzersizleri GPX olarak dışa aktar</string>
+    <string name="material_clock_toggle_content_description">ÖÖ veya ÖS\'yi seçin</string>
+    <string name="material_hour_24h_suffix">%1$s saat</string>
+    <string name="material_hour_selection">Saat seçin</string>
+    <string name="material_hour_suffix">Saat %1$s</string>
+    <string name="material_minute_selection">Dakikayı seçin</string>
+    <string name="material_minute_suffix">%1$s dakika</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Zaman girişi için saat moduna geçin.</string>
+    <string name="material_timepicker_hour">Saat</string>
+    <string name="material_timepicker_minute">Dakika</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Zamanı seçin</string>
+    <string name="material_timepicker_text_input_mode_description">Zaman girişi için metin girişi moduna geçin.</string>
+    <string name="max">En yüksek</string>
+    <string name="merge">Birleştir</string>
+    <string name="metric_unit_system">Metrik</string>
+    <string name="metric_with_m_s_unit_system">m/s ile metrik</string>
+    <string name="min">En düşük</string>
+    <string name="monday">Pazartesi</string>
+    <string name="mondriaan">Mondriaan</string>
+    <string name="month">Ay</string>
+    <string name="monthYear">Ay / Yıl</string>
+    <string name="moveEndOfWorkout">Kesme bitişi</string>
+    <string name="moveStartOfWorkout">Kesme başlangıcı</string>
+    <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s içeriğini kaldır</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">%1$d adetten fazla yeni bildirim</string>
+    <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
+    <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
+    <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
+    <string name="mtrl_picker_cancel">İptal</string>
+    <string name="mtrl_picker_confirm">Tamam</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
+    <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
+    <string name="mtrl_picker_day_of_week_column_header">Gün sütunu: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Geçersiz biçim.</string>
+    <string name="mtrl_picker_invalid_format_example">Örnek: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Tarih biçimi: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Geçersiz aralık.</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$s yılına git</string>
+    <string name="mtrl_picker_out_of_range">İzin verilen aralığın dışında: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Başlangıç tarihi – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Bitiş tarihi</string>
+    <string name="mtrl_picker_range_header_selected">%1$s-%2$s</string>
+    <string name="mtrl_picker_range_header_title">Aralık Seçin</string>
+    <string name="mtrl_picker_range_header_unselected">Başlangıç tarihi - Bitiş tarihi</string>
+    <string name="mtrl_picker_save">Kaydet</string>
+    <string name="mtrl_picker_text_input_date_hint">Tarih</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
+    <string name="mtrl_picker_text_input_day_abbr">g</string>
+    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Gün seçmeye geçmek için dokunun</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Yıl seçmeye geçmek için dokunun</string>
+    <string name="mtrl_timepicker_cancel">İptal</string>
+    <string name="mtrl_timepicker_confirm">Tamam</string>
+    <string name="never_track_style">Hiçbir zaman</string>
+    <string name="nfcStartSummary">Etkinleştirilirse, bir NFC etiketi tarayarak egzersizleri başlatabilir ve durdurabilirsiniz</string>
+    <string name="nfcStartTitle">Başlamak için tara</string>
+    <string name="noAutoStartDelay">Yok</string>
+    <string name="noColoring">Renklendirme yok</string>
+    <string name="noComment">Yorum yok</string>
+    <string name="noGpsMessage">Lütfen egzersizinizi takip etmek için GPS\'i etkinleştirin.</string>
+    <string name="noGpsTitle">GPS devre dışı</string>
+    <string name="noSensorAvailable">Sensör yok</string>
+    <string name="noWorkoutStarted">Egzersiz Başlamadı</string>
+    <string name="no_workouts_recorded">Kaydedilen egzersiz yok</string>
+    <string name="no_workouts_recorded_for_this_activity">Bu etkinlik için egzersiz yok</string>
+    <string msgid="6573031135582639649" name="not_set">"Ayarlanmadı"</string>
+    <string name="nothingSelected">Hiçbir şey seçilmedi</string>
+    <string name="notimeout">Zaman Aşımı Yok</string>
+    <string name="offline_local_map_file_with_local_render_theme">Çevrim dışı
+\nYerel olarak oluşturulan temaya sahip yerel harita dosyası</string>
+    <string name="okay">Tamam</string>
+    <string name="only_on_headphones_mode">Yalnızca kulaklıklarda</string>
+    <string name="overwriteMapConfirmation">Mevcut \\\"%s\\\" harita dosyasının üzerine yazılsın mı\?</string>
+    <string name="password_toggle_content_description">Şifreyi göster</string>
+    <string name="per">/</string>
+    <string name="pink_mist">Pembe Sis</string>
+    <string name="popup_auto_start">Öntanımlı gecikmeyle</string>
+    <string name="popup_auto_start_delay">Özel gecikmeyle</string>
+    <string name="popup_auto_start_immediately">Hemen başla</string>
+    <string name="popup_auto_start_on_move">Hareket etmeye başladığımda</string>
+    <string name="popup_auto_start_wait_for_gps">GPS konumu kesin olduğunda</string>
+    <string name="prefShowOnLockScreenSummary">Aygıt kilitli olsa bile egzersiz bilgilerini göster.</string>
+    <string name="prefShowOnLockScreenTitle">Kilit ekranında görünür</string>
+    <string name="prefTrackStyleUsageTitle">Takip renklendirmeyi otomatik olarak kullan</string>
+    <string name="pref_announcement_mode">Duyuru Modu</string>
+    <string name="pref_announcements_config_summary">Sesli duyurular arasındaki süreyi ve mesafeyi seçin</string>
+    <string name="pref_announcements_config_title">Duyuru Tetikleyicisi</string>
+    <string name="pref_announcements_content">Duyuruların içeriği</string>
+    <string name="pref_announcements_pace_control_summary">Belirli bir hızın altında veya üstünde olduğunda uyar</string>
+    <string name="pref_announcements_pace_control_title">Hız uyarıları</string>
+    <string name="pref_auto_start_delay_title">Otomatik Başlatma Geri Sayımı</string>
+    <string name="pref_auto_start_mode_instant">Hemen başla</string>
+    <string name="pref_auto_start_mode_on_move">Hareket etmeye başlamayı bekle</string>
+    <string name="pref_auto_start_mode_title">Otomatik Başlatma Modu</string>
+    <string name="pref_auto_start_mode_unknown">Bilinmiyor (kullanmayın)</string>
+    <string name="pref_auto_start_mode_wait_for_gps">Doğru konumu bekle</string>
+    <string name="pref_auto_timeout_title">Otomatik Durdurma için Zaman Aralığı</string>
+    <string name="pref_energy_unit">Enerji birimi</string>
+    <string name="pref_map_directory">Çevrim Dışı Harita Dizini</string>
+    <string name="pref_render_theme_style">Oluşturma Tarzı</string>
+    <string name="pref_render_theme_style_info">Seçilen tema için menü yok.</string>
+    <string name="pref_step_length">Adım Uzunluğu</string>
+    <string name="pref_unit_system">Tercih edilen birim sistemi</string>
+    <string name="pref_voice_announcements_summary">Egzersiz sırasında sizi bilgilendiren sesli istemleri yapılandırın</string>
+    <string name="pref_weight">Kilonuz</string>
+    <string name="pref_weight_summary">Harcanan kalorileri hesaplamak için kilonuz gereklidir</string>
+    <string name="preferenceCategoryRenderThemeCategories">Kategoriler</string>
+    <string name="preferenceCategoryVoiceFeedback">Sesli geri bildirim</string>
+    <string name="preferenceCurrentSpeedAverageTimeSummary">Geçerli hızı ortalama bir değerle değiştirin</string>
+    <string name="preferenceCurrentSpeedAverageTimeTitle">Ortalama hız</string>
+    <string name="preferenceCurrentSpeedTime">Ortalama hız zaman aralığı</string>
+    <string name="preferenceDateFormat">Tarih Biçimi</string>
+    <string name="preferenceFirstDayOfWeek">Hafta başlangıcı</string>
+    <string name="preferenceTimeFormat">Saat Biçimi</string>
+    <string name="preferenceUseAverageForCurrentSpeed">Geçerli hız hesaplaması için son tek hız kaydı yerine, belirli bir zamandaki ortalama hızı kullan.</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" panoya kopyalandı."</string>
+    <string name="preferencesBackupSummary">Egzersiz verilerinizi yedekleyin/geri yükleyin</string>
+    <string name="preferencesBackupTitle">Veri Tabanı</string>
+    <string name="preferencesCategoryAppearance">Görünüm</string>
+    <string name="preferencesCategoryMap">Harita</string>
+    <string name="preferencesDebugTitle">Hata ayıklama</string>
+    <string name="preferencesRecordingSummary">Egzersiz kaydetmeyi yönetin</string>
+    <string name="preferencesRecordingTitle">Kaydetme</string>
+    <string name="preferencesUserInterfaceSummary">Uygulamayı kişiselleştirin</string>
+    <string name="preferencesUserInterfaceTitle">Kullanıcı Arayüzü</string>
+    <string name="private_visibility">Özel</string>
+    <string name="purple_rain">Mor Yağmur</string>
+    <string name="rainbow_warrior">Gökkuşağı Savaşçısı</string>
+    <string name="recordWorkout">Egzersizi Kaydet</string>
+    <string name="recordingActivityPermissionMessage">FitoTrack, iç mekan egzersizlerini kaydetmek üzere fiziksel etkinliğinizi izlemek için izne ihtiyaç duymaktadır.</string>
+    <string name="recordingPermissionNotGrantedMessage">FitoTrack, egzersiz sırasında hareketinizi takip etmek için konum iznine ihtiyaç duyar. FitoTrack ayrıca uygulama arka plandayken veya egzersizlerinizi kaydetmek için ekran kapalıyken de konum verilerini toplar. Konum verileri, paylaşmak için açık rızanız olmadığı sürece her zaman telefonunuzda kalır.</string>
+    <string name="recordingPermissionNotGrantedTitle">İzin verilmedi</string>
+    <string name="recordingStateIdle">Boşta</string>
+    <string name="recordingStatePaused">Duraklatıldı</string>
+    <string name="recordingStateRunning">Çalışıyor</string>
+    <string name="recordingStateStopped">Durduruldu</string>
+    <string name="replace">Değiştir</string>
+    <string name="replaceOrMergeMessage">Veri tabanı, yedekleme dosyasıyla değiştirilsin mi birleştirilsin mi\?</string>
+    <string name="restore">Geri yükle</string>
+    <string name="resumeWorkout">Egzersizi Devam Ettir</string>
+    <string name="resumeWorkoutConfirmation">Bu egzersize devam edilsin mi\? Egzersizin durdurulduğu zamandan bir duraklama eklenecektir.</string>
+    <string name="runningMigrations">Taşıma işlemleri çalıştırma</string>
+    <string name="saturday">Cumartesi</string>
+    <string name="save">Kaydet</string>
+    <string name="savedSuccessfully">Kaydedildi</string>
+    <string name="savingFailed">Kaydetme başarısız oldu</string>
+    <string name="scanFailed">Tarama başarısız oldu</string>
+    <string name="scanning">Taranıyor…</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Ara"</string>
+    <string name="sections">Bölümler</string>
+    <string name="selectBluetoothDevice">Bluetooth aygıtı seç</string>
+    <string name="selectColoring">Renklendirme seç</string>
+    <string name="selectExportTarget">Dışa aktarma hedefi seç</string>
+    <string name="selectIntervalSet">Aralık Kümesi Seç</string>
+    <string name="setDuration">Süreyi Ayarla</string>
+    <string name="setPreferencesMessage">Tercih ettiğiniz birim sistemini ve kilonuzu ayarlarda belirleyebilirsiniz.</string>
+    <string name="setPreferencesTitle">Tercihleri Ayarla</string>
+    <string name="settings">Ayarlar</string>
+    <string name="share">Paylaş</string>
+    <string name="shareFile">Dosya paylaş</string>
+    <string name="showIntervals">Aralıkları göster</string>
+    <string name="showWorkoutZoomControlsSummary">GPS egzersizlerini kaydederken haritada yakınlaştırma ve kaydırma denetimlerini etkinleştirin</string>
+    <string name="showWorkoutZoomControlsTitle">Yakınlaştırma ve kaydırma</string>
+    <string name="show_sum">Toplamı göster</string>
+    <string name="singleWorkout">Tek Egzersiz</string>
+    <string name="speechConfigNoSpeech">Duyuru Yok</string>
+    <string name="speedLastMinute">Ort. Hız (Son Dakika)</string>
+    <string name="speedLastMinuteSpoken">Son dakika içindeki hız</string>
+    <string name="start">Başlat</string>
+    <string name="statistics">İstatistikler</string>
+    <string name="statsFilter">Filtrele:</string>
+    <string name="stats_explore_title">Keşfet</string>
+    <string name="stats_history_title">Geçmiş</string>
+    <string name="stats_overview_title">Genel bakış</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop">Durdur</string>
+    <string name="stopRecordingQuestion">Kaydı Durdur\?</string>
+    <string name="stopRecordingQuestionMessage">Kaydetmeyi gerçekten durdurmak istiyor musunuz\?</string>
+    <string name="sum">Toplam</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="sunday">Pazar</string>
+    <string name="system_default">Sistem öntanımlı ayarı</string>
+    <string name="system_theme">Sistem</string>
+    <string name="takeBackups1">Her gün</string>
+    <string name="takeBackups14">Her iki haftada bir</string>
+    <string name="takeBackups2">Her iki günde bir</string>
+    <string name="takeBackups3">Her üç günde bir</string>
+    <string name="takeBackups7">Her hafta</string>
+    <string name="theme">Tema</string>
+    <string name="thursday">Perşembe</string>
+    <string name="timeHourPlural">Saat</string>
+    <string name="timeHourShort">sa</string>
+    <string name="timeHourSingular">Saat</string>
+    <string name="timeMinutePlural">Dakika</string>
+    <string name="timeMinuteShort">dak</string>
+    <string name="timeMinuteSingular">Dakika</string>
+    <string name="timeSecondsPlural">Saniye</string>
+    <string name="timeSecondsShort">sn</string>
+    <string name="timeSecondsSingular">Saniye</string>
+    <string name="trackStyle">Takip Etme Tarzı</string>
+    <string name="trackVisibilityPref">Takip Etme Görünürlüğü</string>
+    <string name="trackable_visibility">Takip edilebilir</string>
+    <string name="trackerRunning">Takip edici çalışıyor</string>
+    <string name="trackerWaitingMessage">Egzersize başlamak için bekleniyor</string>
+    <string name="trackingInfo">Takip Etme Bilgileri</string>
+    <string name="trackingInfoDescription">Çalışan takip edici hakkındaki bilgiler</string>
+    <string name="ttsAboveTargetSpeed">Çok hızlı</string>
+    <string name="ttsBelowTargetSpeed">Çok yavaş</string>
+    <string name="ttsLongSecondCountdownAnnouncement"> başlayana kadar <ns1:g example="5 seconds" id="secs">%1$s</ns1:g> </string>
+    <string name="ttsMinuteCountdownAnnouncement"> başlayana kadar <ns1:g example="12 minutes" id="mins">%1$s</ns1:g> </string>
+    <string name="ttsMinuteSecondCountdownAnnouncement"> başlayana kadar <ns1:g example="1 minute" id="mins">%1$s</ns1:g> ve <ns1:g example="7 seconds" id="secs">%2$s</ns1:g> </string>
+    <string name="ttsNotAvailable">Metinden konuşmaya (TextToSpeech) kullanılamıyor</string>
+    <string name="tuesday">Salı</string>
+    <string name="type">Tür</string>
+    <string name="unitFootPlural">Fit</string>
+    <string name="unitFootSingular">Fit</string>
+    <string name="unitHeartBeatsPerMinute">bpm</string>
+    <string name="unitHeartRateSensorBattery">%</string>
+    <string name="unitHertzLong">Hertz</string>
+    <string name="unitKJoule">Kilojul</string>
+    <string name="unitKcalLong">Kalori</string>
+    <string name="unitKilometersPerHour">Kilometre/saat</string>
+    <string name="unitKilometersPlural">Kilometre</string>
+    <string name="unitKilometersSingular">Kilometre</string>
+    <string name="unitMetersPerSecond">Metre/saniye</string>
+    <string name="unitMetersPlural">Metre</string>
+    <string name="unitMetersSingular">Metre</string>
+    <string name="unitMilesPerHour">Mil/saat</string>
+    <string name="unitMilesPlural">Mil</string>
+    <string name="unitMilesSingular">Mil</string>
+    <string name="unitYardsPlural">Yarda</string>
+    <string name="unitYardsSingular">Yarda</string>
+    <string name="unknown">Bilinmeyen</string>
+    <string name="unlockPhoneStopWorkout">Kaydı durdurmak için lütfen telefonunuzun kilidini açın</string>
+    <string name="upload">Karşıya yükle</string>
+    <string name="uploadFailed">Karşıya Yükleme Başarısız</string>
+    <string name="uploadFailedOsmNotAuthorized">Yetkili değil, tekrar deneyin</string>
+    <string name="uploadSuccessful">Karşıya Yükleme Başarılı</string>
+    <string name="uploading">Karşıya yükleniyor</string>
+    <string name="upperPaceLimit">Üst hız sınırı</string>
+    <string name="us_customary_unit_system">Amerikan Geleneksel</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"KAPALI"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"AÇIK"</string>
+    <string name="voiceAnnouncementsTitle">Sesli Duyurular</string>
+    <string name="waiting_gps">GPS bekleniyor</string>
+    <string name="wednesday">Çarşamba</string>
+    <string name="week">Hafta</string>
+    <string name="workoutAscent">Yükseliş</string>
+    <string name="workoutAutoStartAborted">Otomatik başlatma iptal edildi</string>
+    <string name="workoutAutoStarted">Egzersiz otomatik olarak başladı</string>
+    <string name="workoutAvgDistance">Ortalama Mesafe</string>
+    <string name="workoutAvgDurationLong">Ortalama Süre</string>
+    <string name="workoutAvgFrequencyLong">Ortalama Sıklık</string>
+    <string name="workoutAvgFrequencyShort">Ortalama Sıklık</string>
+    <string name="workoutAvgHeartRate">Ort. kalp ritmi</string>
+    <string name="workoutAvgIntensityShort">Ortalama Yoğunluk</string>
+    <string name="workoutAvgPauseDuration">Ortalama Duraklatma Süresi</string>
+    <string name="workoutAvgSpeedLong">Ortalama Hız</string>
+    <string name="workoutAvgSpeedShort">Ort. Hız</string>
+    <string name="workoutBurnedEnergy">Harcanan kalori</string>
+    <string name="workoutCount">Egzersiz sayısı</string>
+    <string name="workoutCurrentFrequency">Geçerli Sıklık</string>
+    <string name="workoutDate">Tarih</string>
+    <string name="workoutDescent">İniş</string>
+    <string name="workoutDiscarded">Egzersiz atıldı</string>
+    <string name="workoutDistance">Mesafe</string>
+    <string name="workoutDistanceSum">Mesafe toplamı</string>
+    <string name="workoutDuration">Süre</string>
+    <string name="workoutDurationSum">Süre toplamı</string>
+    <string name="workoutEdited">Bu egzersiz düzenlendi.</string>
+    <string name="workoutEndTime">Bitiş Saati</string>
+    <string name="workoutEnergyConsumption">Enerji Tüketimi</string>
+    <string name="workoutFrequency">Sıklık</string>
+    <string name="workoutGPXExportTitle">Egzersiz GPX dışa aktarmaları</string>
+    <string name="workoutHeartRate">Kalp Ritmi</string>
+    <string name="workoutImported">Egzersiz başarıyla içe aktarıldı</string>
+    <string name="workoutIntensity">Yoğunluk</string>
+    <string name="workoutMaxFrequency">Azami Sıklık</string>
+    <string name="workoutMaxHeartRate">En Yüksek Kalp Ritmi</string>
+    <string name="workoutMaxHeight">Azami yükseklik</string>
+    <string name="workoutMaxIntensity">Azami Yoğunluk</string>
+    <string name="workoutMinHeight">Asgari yükseklik</string>
+    <string name="workoutNumber">Egzersiz sayısı</string>
+    <string name="workoutPace">Hız</string>
+    <string name="workoutPauseDuration">Duraklatma Süresi</string>
+    <string name="workoutPauseDurationSum">Duraklatma süresi toplamı</string>
+    <string name="workoutPaused">Egzersiz duraklatıldı</string>
+    <string name="workoutRecordingTypeGps">GPS Egzersizleri</string>
+    <string name="workoutRecordingTypeIndoor">İç Mekan Egzersizleri</string>
+    <string name="workoutRepetitions">Tekrarlar</string>
+    <string name="workoutResumed">Egzersiz devam ettirildi</string>
+    <string name="workoutRoute">Güzergah</string>
+    <string name="workoutSets">Kümeler</string>
+    <string name="workoutSpeed">Hız</string>
+    <string name="workoutStartTime">Başlangıç Saati</string>
+    <string name="workoutStarted">Egzersiz başlatıldı</string>
+    <string name="workoutStatsHelpText">Bu ekran, egzersizlerin geçmiş istatistiklerini gösterir. Kullanmak için önce üzerine tıklayarak egzersiz türünü belirtmeniz gerekir. Daha sonra öğrenmek istediğiniz bilgileri ve zaman aralığını belirleyin.
+\n
+\nÖrneğin zaman aralığını \"Hafta\" olarak seçerseniz, her haftanın tüm egzersizleri ortalaması veya toplamı hesaplanarak tek bir veri noktasında birleştirilecektir.</string>
+    <string name="workoutStopped">Egzersiz durduruldu</string>
+    <string name="workoutTime">Zaman</string>
+    <string name="workoutTopSpeed">En Yüksek Hız</string>
+    <string name="workoutTotalEnergy">Toplam Enerji</string>
+    <string name="workoutTypeAdd">Ekle</string>
+    <string name="workoutTypeAll">Tümü</string>
+    <string name="workoutTypeCycling">Bisiklet Sürme</string>
+    <string name="workoutTypeEditIcon">Simge</string>
+    <string name="workoutTypeEditId">Kimlik</string>
+    <string name="workoutTypeEditIdErrorCharacters">İzin verilen karakterler: a–z, A–Z, 0–9, _, -</string>
+    <string name="workoutTypeEditIdErrorEmpty">Lütfen bir kimlik girin</string>
+    <string name="workoutTypeEditIdErrorUnique">Bu kimliği kullanan bir egzersiz türü zaten var</string>
+    <string name="workoutTypeEditMET">MET</string>
+    <string name="workoutTypeEditMinDistance">Örnek mesafesi</string>
+    <string name="workoutTypeEditName">Ad</string>
+    <string name="workoutTypeEditNameError">Lütfen bir ad girin</string>
+    <string name="workoutTypeHiking">Doğa Yürüyüşü</string>
+    <string name="workoutTypeInlineSkating">Paten Yapma</string>
+    <string name="workoutTypeOther">Diğer</string>
+    <string name="workoutTypePullUps">Barfiks</string>
+    <string name="workoutTypePushUps">Şınav</string>
+    <string name="workoutTypeRopeSkipping">İp Atlama</string>
+    <string name="workoutTypeRowing">Kürek Çekme</string>
+    <string name="workoutTypeRunning">Koşma</string>
+    <string name="workoutTypeSkateboarding">Kaykay Yapma</string>
+    <string name="workoutTypeSwimming">Yüzme</string>
+    <string name="workoutTypeTrampolineJumping">Trambolin Atlama</string>
+    <string name="workoutTypeTreadmill">Koşu Bandı</string>
+    <string name="workoutTypeWalking">Yürüme</string>
+    <string name="workout_statistics">Egzersiz İstatistikleri</string>
+    <string name="workouts">Egzersiz</string>
+    <string name="year">Yıl</string>
+    <string name="zoomWithVolumeButtonsSummary">Ses açma ve kısma denetimleri ile yakınlaştır ve uzaklaştır</string>
+    <string name="zoomWithVolumeButtonsTitle">Ses düğmeleriyle yakınlaştır</string>
+</resources>

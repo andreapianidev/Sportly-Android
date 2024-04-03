@@ -1,0 +1,591 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ Copyright (c) 2023 Jannis Scheibe <jannis@tadris.de>
+4  ~
+5  ~ This file is part of FitoTrack
+6  ~
+7  ~ FitoTrack is free software: you can redistribute it and/or modify
+8  ~     it under the terms of the GNU General Public License as published by
+9  ~     the Free Software Foundation, either version 3 of the License, or
+10  ~     (at your option) any later version.
+11  ~
+12  ~     FitoTrack is distributed in the hope that it will be useful,
+13  ~     but WITHOUT ANY WARRANTY; without even the implied warranty of
+14  ~     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+15  ~     GNU General Public License for more details.
+16  ~
+17  ~     You should have received a copy of the GNU General Public License
+18  ~     along with this program.  If not, see <http://www.gnu.org/licenses/>.
+19-->
+20<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+21    package="de.tadris.fitness.debug"
+22    android:versionCode="1530"
+23    android:versionName="15.3" >
+24
+25    <uses-sdk
+26        android:minSdkVersion="21"
+26-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml
+27        android:targetSdkVersion="33" />
+27-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml
+28
+29    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+29-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:24:5-79
+29-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:24:22-76
+30    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+30-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:25:5-81
+30-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:25:22-78
+31    <uses-permission
+31-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:26:5-28:38
+32        android:name="android.permission.BLUETOOTH"
+32-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:27:9-52
+33        android:maxSdkVersion="30" />
+33-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:28:9-35
+34    <uses-permission
+34-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:29:5-31:38
+35        android:name="android.permission.BLUETOOTH_ADMIN"
+35-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:30:9-58
+36        android:maxSdkVersion="30" />
+36-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:31:9-35
+37    <uses-permission
+37-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:32:5-34:58
+38        android:name="android.permission.BLUETOOTH_SCAN"
+38-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:33:9-57
+39        android:usesPermissionFlags="neverForLocation" />
+39-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:34:9-55
+40    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+40-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:35:5-76
+40-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:35:22-73
+41    <uses-permission android:name="android.permission.INTERNET" />
+41-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:36:5-67
+41-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:36:22-64
+42    <uses-permission android:name="android.permission.NFC" />
+42-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:37:5-62
+42-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:37:22-59
+43    <uses-permission android:name="android.permission.WAKE_LOCK" />
+43-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:38:5-68
+43-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:38:22-65
+44    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+44-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:39:5-77
+44-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:39:22-74
+45    <uses-permission
+45-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:40:5-42:38
+46        android:name="android.permission.READ_EXTERNAL_STORAGE"
+46-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:41:9-64
+47        android:maxSdkVersion="32" />
+47-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:42:9-35
+48    <uses-permission
+48-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:43:5-45:38
+49        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+49-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:44:9-65
+50        android:maxSdkVersion="32" />
+50-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:45:9-35
+51    <uses-permission android:name="android.permission.VIBRATE" />
+51-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:46:5-66
+51-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:46:22-63
+52    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+52-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:47:5-79
+52-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:47:22-76
+53    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+53-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:48:5-77
+53-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:48:22-74
+54
+55    <uses-feature
+55-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:50:5-52:35
+56        android:name="android.hardware.location.gps"
+56-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:51:9-53
+57        android:required="true" />
+57-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:52:9-32
+58    <uses-feature
+58-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:53:5-55:36
+59        android:name="android.hardware.sensor.barometer"
+59-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:54:9-57
+60        android:required="false" />
+60-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:55:9-33
+61    <uses-feature
+61-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:56:5-58:36
+62        android:name="android.hardware.bluetooth"
+62-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:57:9-50
+63        android:required="false" />
+63-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:58:9-33
+64    <uses-feature
+64-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:59:5-61:36
+65        android:name="android.hardware.bluetooth_le"
+65-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:60:9-53
+66        android:required="false" />
+66-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:61:9-33
+67
+68    <queries>
+68-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:63:5-67:15
+69        <intent>
+69-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:64:9-66:18
+70            <action android:name="android.intent.action.TTS_SERVICE" />
+70-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:65:13-72
+70-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:65:21-69
+71        </intent>
+72    </queries>
+73
+74    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+74-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:24:5-79
+74-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:24:22-76
+75    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+75-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:25:5-81
+75-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:25:22-78
+76
+77    <permission
+77-->[androidx.core:core:1.9.0] /Users/andreapiani/.gradle/caches/transforms-3/b270d1a26e91fe5547d283a56cc4ab3b/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+78        android:name="de.tadris.fitness.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+78-->[androidx.core:core:1.9.0] /Users/andreapiani/.gradle/caches/transforms-3/b270d1a26e91fe5547d283a56cc4ab3b/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+79        android:protectionLevel="signature" />
+79-->[androidx.core:core:1.9.0] /Users/andreapiani/.gradle/caches/transforms-3/b270d1a26e91fe5547d283a56cc4ab3b/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+80
+81    <uses-permission android:name="de.tadris.fitness.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+81-->[androidx.core:core:1.9.0] /Users/andreapiani/.gradle/caches/transforms-3/b270d1a26e91fe5547d283a56cc4ab3b/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+81-->[androidx.core:core:1.9.0] /Users/andreapiani/.gradle/caches/transforms-3/b270d1a26e91fe5547d283a56cc4ab3b/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+82
+83    <application
+83-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:69:5-171:19
+84        android:allowBackup="true"
+84-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:70:9-35
+85        android:appCategory="productivity"
+85-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:71:9-43
+86        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+86-->[androidx.core:core:1.9.0] /Users/andreapiani/.gradle/caches/transforms-3/b270d1a26e91fe5547d283a56cc4ab3b/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+87        android:debuggable="true"
+88        android:icon="@mipmap/ic_launcher"
+88-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:72:9-43
+89        android:label="@string/app_name"
+89-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:73:9-41
+90        android:roundIcon="@mipmap/ic_launcher_round"
+90-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:74:9-54
+91        android:supportsRtl="true"
+91-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:75:9-35
+92        android:testOnly="true"
+93        android:theme="@style/AppTheme"
+93-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:76:9-40
+94        android:usesCleartextTraffic="true" >
+94-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:77:9-44
+95        <activity
+95-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:79:9-81:40
+96            android:name="de.tadris.fitness.ui.settings.DebugPressureActivity"
+96-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:80:13-62
+97            android:exported="false" />
+97-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:81:13-37
+98        <activity
+98-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:82:9-84:40
+99            android:name="de.tadris.fitness.ui.settings.SensorDebugActivity"
+99-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:83:13-60
+100            android:exported="false" />
+100-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:84:13-37
+101        <activity
+101-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:85:9-103:20
+102            android:name="de.tadris.fitness.ui.ImportGpxActivity"
+102-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:86:13-49
+103            android:exported="true"
+103-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:87:13-36
+104            android:label="@string/importWorkout" >
+104-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:88:13-50
+105            <intent-filter>
+105-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:89:13-95:29
+106                <action android:name="android.intent.action.VIEW" />
+106-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:90:17-69
+106-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:90:25-66
+107
+108                <category android:name="android.intent.category.DEFAULT" />
+108-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:92:17-76
+108-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:92:27-73
+109
+110                <data android:mimeType="application/octet-stream" />
+110-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:94:17-69
+110-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:94:23-66
+111            </intent-filter>
+112            <intent-filter>
+112-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:96:13-102:29
+113                <action android:name="android.intent.action.SEND" />
+113-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:97:17-69
+113-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:97:25-66
+114
+115                <category android:name="android.intent.category.DEFAULT" />
+115-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:92:17-76
+115-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:92:27-73
+116
+117                <data android:mimeType="application/*" />
+117-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:94:17-69
+117-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:94:23-66
+118            </intent-filter>
+119        </activity>
+120        <activity android:name="de.tadris.fitness.ui.settings.ConfigureExportTargetsActivity" />
+120-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:104:9-80
+120-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:104:19-77
+121        <activity android:name="de.tadris.fitness.ui.settings.DownloadMapsActivity" />
+121-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:105:9-70
+121-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:105:19-67
+122        <activity android:name="de.tadris.fitness.ui.record.RecordIndoorWorkoutActivity" />
+122-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:106:9-75
+122-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:106:19-72
+123        <activity android:name="de.tadris.fitness.ui.settings.EditWorkoutTypeActivity" />
+123-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:107:9-73
+123-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:107:19-70
+124        <activity android:name="de.tadris.fitness.ui.settings.ManageWorkoutTypesActivity" />
+124-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:108:9-76
+124-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:108:19-73
+125        <activity android:name="de.tadris.fitness.ui.ShareFileActivity" />
+125-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:109:9-58
+125-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:109:19-55
+126        <activity android:name="de.tadris.fitness.ui.settings.AboutActivity" />
+126-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:110:9-63
+126-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:110:19-60
+127        <activity android:name="de.tadris.fitness.ui.settings.EditIntervalSetActivity" />
+127-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:111:9-73
+127-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:111:19-70
+128        <activity android:name="de.tadris.fitness.ui.settings.ManageIntervalSetsActivity" />
+128-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:112:9-76
+128-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:112:19-73
+129        <activity android:name="de.tadris.fitness.ui.settings.FitoTrackSettingsActivity" />
+129-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:113:9-75
+129-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:113:19-72
+130        <activity android:name="de.tadris.fitness.ui.workout.EnterWorkoutActivity" />
+130-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:114:9-69
+130-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:114:19-66
+131        <activity
+131-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:115:9-117:52
+132            android:name="de.tadris.fitness.ui.workout.ShowWorkoutFullscreenMapActivity"
+132-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:116:13-72
+133            android:screenOrientation="portrait" />
+133-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:117:13-49
+134        <activity android:name="de.tadris.fitness.ui.workout.ShowWorkoutMapDiagramActivity" />
+134-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:118:9-78
+134-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:118:19-75
+135        <activity
+135-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:119:9-121:52
+136            android:name="de.tadris.fitness.ui.workout.ShowGpsWorkoutActivity"
+136-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:120:13-62
+137            android:screenOrientation="portrait" />
+137-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:121:13-49
+138        <activity
+138-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:122:9-124:52
+139            android:name="de.tadris.fitness.ui.workout.ShowIndoorWorkoutActivity"
+139-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:123:13-65
+140            android:screenOrientation="portrait" />
+140-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:124:13-49
+141        <activity
+141-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:125:9-129:47
+142            android:name="de.tadris.fitness.ui.record.RecordGpsWorkoutActivity"
+142-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:126:13-63
+143            android:launchMode="singleTop"
+143-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:127:13-43
+144            android:screenOrientation="portrait"
+144-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:128:13-49
+145            android:showOnLockScreen="true" />
+145-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:129:13-44
+146        <activity
+146-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:130:9-132:52
+147            android:name="de.tadris.fitness.ui.ListWorkoutsActivity"
+147-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:131:13-52
+148            android:screenOrientation="portrait" />
+148-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:132:13-49
+149        <activity
+149-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:133:9-142:20
+150            android:name="de.tadris.fitness.ui.LauncherActivity"
+150-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:134:13-48
+151            android:exported="true"
+151-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:135:13-36
+152            android:screenOrientation="portrait" >
+152-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:136:13-49
+153            <intent-filter>
+153-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:137:13-141:29
+154                <action android:name="android.intent.action.MAIN" />
+154-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:138:17-69
+154-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:138:25-66
+155
+156                <category android:name="android.intent.category.LAUNCHER" />
+156-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:140:17-77
+156-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:140:27-74
+157            </intent-filter>
+158        </activity>
+159        <activity android:name="de.tadris.fitness.ui.workout.AggregatedWorkoutStatisticsActivity" />
+159-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:143:9-84
+159-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:143:19-81
+160        <activity
+160-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:144:9-147:52
+161            android:name="de.tadris.fitness.ui.statistics.StatisticsActivity"
+161-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:145:13-61
+162            android:configChanges="orientation|screenSize|keyboardHidden"
+162-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:146:13-74
+163            android:screenOrientation="portrait" />
+163-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:147:13-49
+164        <activity
+164-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:148:9-151:53
+165            android:name="de.tadris.fitness.ui.statistics.DetailStatsActivity"
+165-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:149:13-62
+166            android:exported="true"
+166-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:150:13-36
+167            android:screenOrientation="landscape" />
+167-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:151:13-50
+168        <activity
+168-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:152:9-155:52
+169            android:name="de.tadris.fitness.ui.workout.ShareWorkoutActivity"
+169-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:153:13-60
+170            android:configChanges="orientation|screenSize|keyboardHidden"
+170-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:154:13-74
+171            android:screenOrientation="portrait" />
+171-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:155:13-49
+172        <activity android:name="de.tadris.fitness.ui.workout.EditWorkoutStartEndActivity" />
+172-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:156:9-76
+172-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:156:19-73
+173
+174        <provider
+175            android:name="androidx.core.content.FileProvider"
+175-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:159:13-62
+176            android:authorities="de.tadris.fitness.debug.fileprovider"
+176-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:160:13-64
+177            android:exported="false"
+177-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:161:13-37
+178            android:grantUriPermissions="true" >
+178-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:162:13-47
+179            <meta-data
+179-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:163:13-165:53
+180                android:name="android.support.FILE_PROVIDER_PATHS"
+180-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:164:17-67
+181                android:resource="@xml/filepaths" />
+181-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:165:17-50
+182        </provider>
+183
+184        <service
+184-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:168:9-170:56
+185            android:name="de.tadris.fitness.recording.RecorderService"
+185-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:169:13-54
+186            android:foregroundServiceType="location" />
+186-->/Users/andreapiani/Progetti Android/Sportly - Sport Tracker/app/src/main/AndroidManifest.xml:170:13-53
+187
+188        <provider
+188-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:29:9-37:20
+189            android:name="androidx.startup.InitializationProvider"
+189-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:30:13-67
+190            android:authorities="de.tadris.fitness.debug.androidx-startup"
+190-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:31:13-68
+191            android:exported="false" >
+191-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:32:13-37
+192            <meta-data
+192-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:34:13-36:52
+193                android:name="androidx.work.WorkManagerInitializer"
+193-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:35:17-68
+194                android:value="androidx.startup" />
+194-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:36:17-49
+195            <meta-data
+195-->[androidx.emoji2:emoji2:1.2.0] /Users/andreapiani/.gradle/caches/transforms-3/d1735c872afea04148904d9dcaaead07/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+196                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+196-->[androidx.emoji2:emoji2:1.2.0] /Users/andreapiani/.gradle/caches/transforms-3/d1735c872afea04148904d9dcaaead07/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+197                android:value="androidx.startup" />
+197-->[androidx.emoji2:emoji2:1.2.0] /Users/andreapiani/.gradle/caches/transforms-3/d1735c872afea04148904d9dcaaead07/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+198            <meta-data
+198-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/andreapiani/.gradle/caches/transforms-3/13e497b7eaaadcc2b20f8c9992f4a897/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+199                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+199-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/andreapiani/.gradle/caches/transforms-3/13e497b7eaaadcc2b20f8c9992f4a897/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+200                android:value="androidx.startup" />
+200-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/andreapiani/.gradle/caches/transforms-3/13e497b7eaaadcc2b20f8c9992f4a897/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+201        </provider>
+202
+203        <service
+203-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:39:9-45:35
+204            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+204-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:40:13-88
+205            android:directBootAware="false"
+205-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:41:13-44
+206            android:enabled="@bool/enable_system_alarm_service_default"
+206-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:42:13-72
+207            android:exported="false" />
+207-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:43:13-37
+208        <service
+208-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:46:9-52:35
+209            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+209-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:47:13-84
+210            android:directBootAware="false"
+210-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:48:13-44
+211            android:enabled="@bool/enable_system_job_service_default"
+211-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:49:13-70
+212            android:exported="true"
+212-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:50:13-36
+213            android:permission="android.permission.BIND_JOB_SERVICE" />
+213-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:51:13-69
+214        <service
+214-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:53:9-59:35
+215            android:name="androidx.work.impl.foreground.SystemForegroundService"
+215-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:54:13-81
+216            android:directBootAware="false"
+216-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:55:13-44
+217            android:enabled="@bool/enable_system_foreground_service_default"
+217-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:56:13-77
+218            android:exported="false" />
+218-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:57:13-37
+219
+220        <receiver
+220-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:61:9-66:35
+221            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+221-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:62:13-88
+222            android:directBootAware="false"
+222-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:63:13-44
+223            android:enabled="true"
+223-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:64:13-35
+224            android:exported="false" />
+224-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:65:13-37
+225        <receiver
+225-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:67:9-77:20
+226            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+226-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:68:13-106
+227            android:directBootAware="false"
+227-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:69:13-44
+228            android:enabled="false"
+228-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:70:13-36
+229            android:exported="false" >
+229-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:71:13-37
+230            <intent-filter>
+230-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:73:13-76:29
+231                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+231-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:74:17-87
+231-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:74:25-84
+232                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+232-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:75:17-90
+232-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:75:25-87
+233            </intent-filter>
+234        </receiver>
+235        <receiver
+235-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:78:9-88:20
+236            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+236-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:79:13-104
+237            android:directBootAware="false"
+237-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:80:13-44
+238            android:enabled="false"
+238-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:81:13-36
+239            android:exported="false" >
+239-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:82:13-37
+240            <intent-filter>
+240-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:84:13-87:29
+241                <action android:name="android.intent.action.BATTERY_OKAY" />
+241-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:85:17-77
+241-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:85:25-74
+242                <action android:name="android.intent.action.BATTERY_LOW" />
+242-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:86:17-76
+242-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:86:25-73
+243            </intent-filter>
+244        </receiver>
+245        <receiver
+245-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:89:9-99:20
+246            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+246-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:90:13-104
+247            android:directBootAware="false"
+247-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:91:13-44
+248            android:enabled="false"
+248-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:92:13-36
+249            android:exported="false" >
+249-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:93:13-37
+250            <intent-filter>
+250-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:95:13-98:29
+251                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+251-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:96:17-83
+251-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:96:25-80
+252                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+252-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:97:17-82
+252-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:97:25-79
+253            </intent-filter>
+254        </receiver>
+255        <receiver
+255-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:100:9-109:20
+256            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+256-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:101:13-103
+257            android:directBootAware="false"
+257-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:102:13-44
+258            android:enabled="false"
+258-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:103:13-36
+259            android:exported="false" >
+259-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:104:13-37
+260            <intent-filter>
+260-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:106:13-108:29
+261                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+261-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:107:17-79
+261-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:107:25-76
+262            </intent-filter>
+263        </receiver>
+264        <receiver
+264-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:110:9-121:20
+265            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+265-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:111:13-88
+266            android:directBootAware="false"
+266-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:112:13-44
+267            android:enabled="false"
+267-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:113:13-36
+268            android:exported="false" >
+268-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:114:13-37
+269            <intent-filter>
+269-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:116:13-120:29
+270                <action android:name="android.intent.action.BOOT_COMPLETED" />
+270-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:117:17-79
+270-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:117:25-76
+271                <action android:name="android.intent.action.TIME_SET" />
+271-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:118:17-73
+271-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:118:25-70
+272                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+272-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:119:17-81
+272-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:119:25-78
+273            </intent-filter>
+274        </receiver>
+275        <receiver
+275-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:122:9-131:20
+276            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+276-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:123:13-99
+277            android:directBootAware="false"
+277-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:124:13-44
+278            android:enabled="@bool/enable_system_alarm_service_default"
+278-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:125:13-72
+279            android:exported="false" >
+279-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:126:13-37
+280            <intent-filter>
+280-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:128:13-130:29
+281                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+281-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:129:17-98
+281-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:129:25-95
+282            </intent-filter>
+283        </receiver>
+284        <receiver
+284-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:132:9-142:20
+285            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+285-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:133:13-78
+286            android:directBootAware="false"
+286-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:134:13-44
+287            android:enabled="true"
+287-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:135:13-35
+288            android:exported="true"
+288-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:136:13-36
+289            android:permission="android.permission.DUMP" >
+289-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:137:13-57
+290            <intent-filter>
+290-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:139:13-141:29
+291                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+291-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:140:17-88
+291-->[androidx.work:work-runtime:2.8.0] /Users/andreapiani/.gradle/caches/transforms-3/99fdce5fb2054e120a095821ffedbae1/transformed/work-runtime-2.8.0/AndroidManifest.xml:140:25-85
+292            </intent-filter>
+293        </receiver>
+294
+295        <service
+295-->[androidx.room:room-runtime:2.5.0] /Users/andreapiani/.gradle/caches/transforms-3/5dfad14c90f8eab7821f8d0c4654a82b/transformed/room-runtime-2.5.0/AndroidManifest.xml:24:9-28:63
+296            android:name="androidx.room.MultiInstanceInvalidationService"
+296-->[androidx.room:room-runtime:2.5.0] /Users/andreapiani/.gradle/caches/transforms-3/5dfad14c90f8eab7821f8d0c4654a82b/transformed/room-runtime-2.5.0/AndroidManifest.xml:25:13-74
+297            android:directBootAware="true"
+297-->[androidx.room:room-runtime:2.5.0] /Users/andreapiani/.gradle/caches/transforms-3/5dfad14c90f8eab7821f8d0c4654a82b/transformed/room-runtime-2.5.0/AndroidManifest.xml:26:13-43
+298            android:exported="false" />
+298-->[androidx.room:room-runtime:2.5.0] /Users/andreapiani/.gradle/caches/transforms-3/5dfad14c90f8eab7821f8d0c4654a82b/transformed/room-runtime-2.5.0/AndroidManifest.xml:27:13-37
+299
+300        <uses-library
+300-->[androidx.window:window:1.0.0] /Users/andreapiani/.gradle/caches/transforms-3/8f2ff71ea72d4f0da5538e4f2052d74f/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+301            android:name="androidx.window.extensions"
+301-->[androidx.window:window:1.0.0] /Users/andreapiani/.gradle/caches/transforms-3/8f2ff71ea72d4f0da5538e4f2052d74f/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+302            android:required="false" />
+302-->[androidx.window:window:1.0.0] /Users/andreapiani/.gradle/caches/transforms-3/8f2ff71ea72d4f0da5538e4f2052d74f/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+303        <uses-library
+303-->[androidx.window:window:1.0.0] /Users/andreapiani/.gradle/caches/transforms-3/8f2ff71ea72d4f0da5538e4f2052d74f/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+304            android:name="androidx.window.sidecar"
+304-->[androidx.window:window:1.0.0] /Users/andreapiani/.gradle/caches/transforms-3/8f2ff71ea72d4f0da5538e4f2052d74f/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+305            android:required="false" />
+305-->[androidx.window:window:1.0.0] /Users/andreapiani/.gradle/caches/transforms-3/8f2ff71ea72d4f0da5538e4f2052d74f/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+306    </application>
+307
+308</manifest>

@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "de.tadris.fitness.app-mergeDebugResources-42:/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/andreapiani/.gradle/caches/transforms-3/27ffb8079329146c4dd988f0248e6339/transformed/rangebar-1.0.0/res/values-v11/values.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "165",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "297"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "138"
+                    }
+                }
+            ]
+        }
+    ]
+}

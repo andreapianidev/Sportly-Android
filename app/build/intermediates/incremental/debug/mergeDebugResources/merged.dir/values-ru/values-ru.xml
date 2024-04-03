@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="importedWorkouts">
+        <item quantity="one">Импортирована %d тренировка</item>
+        <item quantity="few">Импортированы %d тренировки</item>
+        <item quantity="many">Импортировано %d тренировок</item>
+        <item quantity="other">Импортировано %d тренировок</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one"><ns1:g example="1" id="mins">%1$d</ns1:g> минута</item>
+        <item quantity="few"><ns1:g example="2" id="mins">%1$d</ns1:g> минуты</item>
+        <item quantity="many"><ns1:g example="5" id="mins">%1$d</ns1:g> минут</item>
+        <item quantity="other"><ns1:g example="5" id="mins">%1$d</ns1:g> минут</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d новое уведомление</item>
+    <item quantity="few">%d новых уведомления</item>
+    <item quantity="many">%d новых уведомлений</item>
+    <item quantity="other">%d нового уведомления</item>
+  </plurals>
+    <plurals name="satelliteCount">
+        <item quantity="one">%d спутник</item>
+        <item quantity="few">%d спутника</item>
+        <item quantity="many">%d спутников</item>
+        <item quantity="other">%d спутников</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one"><ns1:g example="1" id="secs">%1$d</ns1:g> секунда</item>
+        <item quantity="few"><ns1:g example="2" id="secs">%1$d</ns1:g> секунды</item>
+        <item quantity="many"><ns1:g example="12" id="secs">%1$d</ns1:g> секунд</item>
+        <item quantity="other"><ns1:g example="12" id="secs">%1$d</ns1:g> секунд</item>
+    </plurals>
+    <plurals name="workoutJump">
+        <item quantity="one">Прыжок</item>
+        <item quantity="few">Прыжка</item>
+        <item quantity="many">Прыжков</item>
+        <item quantity="other">Прыжков</item>
+    </plurals>
+    <plurals name="workoutPullUp">
+        <item quantity="one">Подтягивание</item>
+        <item quantity="few">Подтягивания</item>
+        <item quantity="many">Подтягиваний</item>
+        <item quantity="other">Подтягиваний</item>
+    </plurals>
+    <plurals name="workoutPushUp">
+        <item quantity="one">Отжимание</item>
+        <item quantity="few">Отжимания</item>
+        <item quantity="many">Отжиманий</item>
+        <item quantity="other">Отжиманий</item>
+    </plurals>
+    <plurals name="workoutStep">
+        <item quantity="one">Шаг</item>
+        <item quantity="few">Шага</item>
+        <item quantity="many">Шагов</item>
+        <item quantity="other">Шагов</item>
+    </plurals>
+    <string name="OpenStreetMapAttribution">© Участники OpenStreetMap</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Ещё"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Выберите приложение"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ВЫКЛ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ВКЛ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Ввод"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Пробел"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Меню +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Введите запрос"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Поделиться с помощью"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Поделиться с помощью <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="abort">Отмена</string>
+    <string name="aboutAuthor">Автор</string>
+    <string name="aboutChangelog">Список изменений</string>
+    <string name="aboutContributors">Участники</string>
+    <string name="aboutHelpTranslating">Помощь в переводе</string>
+    <string name="aboutLinks">Ссылки</string>
+    <string name="aboutOpenSourceLibraries">Библиотеки с открытым исходным кодом</string>
+    <string name="aboutPrivacyPolicy">Политика конфиденциальности</string>
+    <string name="aboutReportBug">Сообщить о проблеме</string>
+    <string name="aboutSendFeedback">Отправить отзыв разработчику</string>
+    <string name="aboutSourceCode">Просмотреть исходный код</string>
+    <string name="aboutTitle">О приложении</string>
+    <string name="aboutUnlistedContributors">Спасибо всем участникам, не включенным в список, за помощь с переводом и расширением FitoTrack!</string>
+    <string name="aboutVersion">Версия</string>
+    <string name="about_contact_us">Связаться с нами</string>
+    <string name="about_facebook">Нравится в Facebook</string>
+    <string name="about_github">Ответвление на GitHub</string>
+    <string name="about_instagram">Следите за нами в Instagram</string>
+    <string name="about_play_store">Оцените нас на Play Store</string>
+    <string name="about_twitter">Подпишитесь на нас в Twitter</string>
+    <string name="about_website">Посетите наш веб-сайт</string>
+    <string name="about_youtube">Смотрите нас на Youtube</string>
+    <string name="actionApply">Принять</string>
+    <string name="actionCancelDownload">Отменить скачивание</string>
+    <string name="actionDownloadMap">Скачать карту</string>
+    <string name="actionGrant">Предоставить</string>
+    <string name="actionImport">Импортировать</string>
+    <string name="actionImportMultiple">Импортировать несколько</string>
+    <string name="actionPause">Пауза</string>
+    <string name="actionResume">Возобновить</string>
+    <string name="actionSave">Сохранить</string>
+    <string name="actionUploadToOSM">Загрузить в OSM</string>
+    <string name="action_nfc_settings">Перейти к настройке NFC</string>
+    <string name="add">Добавить</string>
+    <string name="add_interval">Добавить интервал</string>
+    <string name="alreadyDownloading">Файл уже скачивается</string>
+    <string name="always_mode">Всегда</string>
+    <string name="always_track_style">Всегда</string>
+    <string name="and">и</string>
+    <string name="announcementCountdown">Действия при автоматическом запуске (обратный отсчет, состояние и др.)</string>
+    <string name="announcementGPSStatus">Статус GPS</string>
+    <string name="announcementSuppressDuringCall">Не воспроизводить во время вызова</string>
+    <string name="announcementWorkoutActions">Действия с тренировкой (пауза, возобновление и др.)</string>
+    <string name="app_name">FitoTrack</string>
+    <string name="authenticationFailed">Ошибка аутентификации.</string>
+    <string name="auto">Автоматически</string>
+    <string name="autoBackupTitle">Автоматическое резервное копирование</string>
+    <string name="autoExportBackupExplanation">С указанной частотой резервная копия данных будет экспортироваться сюда:</string>
+    <string name="autoExportBackupSummary">Автоматический экспорт резервных копий данных</string>
+    <string name="autoExportBackupTitle">Автоматическое резервное копирование данных приложения</string>
+    <string name="autoExportWorkoutExplanation">После завершения записи новой тренировки она будет экспортирована в GPX-файл, который будет сохранен здесь:</string>
+    <string name="autoExportWorkoutsSummary">Экспорт новых записей тренировок</string>
+    <string name="autoPauseSummary">Автоматически приостанавливать и продолжать тренировки</string>
+    <string name="autoPauseTitle">Автоматическая пауза</string>
+    <string name="autoStartCountdownMsg">Начало тренировки через</string>
+    <string name="autoStartCountdownMsgGps">Начало тренировки после установления местоположения по GPS с достаточной точностью</string>
+    <string name="autoStartCountdownMsgMove">Начало тренировки после начала движения</string>
+    <string name="avg">Средн.</string>
+    <string name="avgSpeedInMotion">Средн. скорость (в движении)</string>
+    <string name="avgSpeedTotalLong">Средняя скорость общая</string>
+    <string name="avgSpeedTotalShort">Средн. скорость (общая)</string>
+    <string name="backup">Резервная копия</string>
+    <string name="bottomsheet_action_collapse">Свернуть нижний экран</string>
+    <string name="bottomsheet_action_expand">Развернуть нижний экран</string>
+    <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
+    <string name="bottomsheet_drag_handle_clicked">Двойное нажатие на маркер перемещения</string>
+    <string name="bottomsheet_drag_handle_content_description">Маркер перемещения</string>
+    <string name="bright_night">Светлая ночь</string>
+    <string name="calendarWeekYear">Календарная неделя / год</string>
+    <string name="calibrating">Калибровка</string>
+    <string name="cancel">Отмена</string>
+    <string name="cancelDownloadConfirmation">Вы хотите отменить текущее скачивание\?</string>
+    <string name="cannotFindWorkout">Не удается найти тренировку</string>
+    <string name="cannotStart">Невозможно начать</string>
+    <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
+    <string name="character_counter_overflowed_content_description">Превышено ограничение на количество символов (%1$d из %2$d)</string>
+    <string name="chooseBackupFile">Выберите файл резервной копии</string>
+    <string name="chooseMapHint">Пожалуйста, выберите файл карты</string>
+    <string name="clear_text_end_icon_content_description">Очистить текстовое поле</string>
+    <string name="comment">Комментарий</string>
+    <string name="configureHttpPostRequest">Настройка HTTP POST запроса</string>
+    <string name="connectHeartRateDevice">Подключите устройство для измерения частоты сердечных сокращений</string>
+    <string name="continue_">Продолжить</string>
+    <string name="converting">Преобразование</string>
+    <string msgid="6083905920877235314" name="copy">"Копировать"</string>
+    <string name="create">Создать</string>
+    <string name="createIntervalSet">Создать новый набор интервалов</string>
+    <string name="currentSpeed">Текущая скорость</string>
+    <string name="currentTime">Текущее время</string>
+    <string name="currentTimeStructure">%s %s</string>
+    <string name="customAutoStartDelay">Другое</string>
+    <string name="customWorkoutTypesTitle">Пользовательские типы тренировок</string>
+    <string name="cut">Обрезать первые/последние 300 м</string>
+    <string name="dark_theme">Темная</string>
+    <string name="day">День</string>
+    <string name="dayInMonth">День в месяце</string>
+    <string name="debugPressureSensor">Отладка датчика атмосферного давления</string>
+    <string name="debugSensorsSummary">Сбор данных датчиков в файл с диагностическими записями</string>
+    <string name="debugSensorsTitle">Отладка датчиков</string>
+    <string name="debugShareLogsSummary">Поделиться диагностическими записями, которые содержат полезные данные для поиска ошибок при записи тренировок. Обычно они не содержат данные о местоположении.</string>
+    <string name="debugShareLogsTitle">Поделиться диагностическими записями</string>
+    <string name="delete">Удалить</string>
+    <string name="deleteExportTargetConfirmation">Удалить это целевое расположение для экспорта\?</string>
+    <string name="deleteIntervalSet">Удалить набор интервалов</string>
+    <string name="deleteIntervalSetMessage">Вы хотите удалить набор интервалов\?</string>
+    <string name="deleteWorkout">Удалить тренировку</string>
+    <string name="deleteWorkoutMessage">Вы действительно хотите удалить тренировку\?</string>
+    <string name="deleteWorkoutType">Удалить тип тренировки</string>
+    <string name="deleteWorkoutTypeConfirmation">Вы действительно хотите удалить этот тип тренировки\?</string>
+    <string name="description">Описание</string>
+    <string name="details">Подробности</string>
+    <string name="dialog_nfc_disabled">Чтобы использовать метки NFC для запуска и остановки тренировок, необходимо сначала включить NFC в настройках устройства</string>
+    <string name="dialog_nfc_disabled_title">В настоящее время NFC отключен</string>
+    <string name="downloadCanceled">Скачивание отменено</string>
+    <string name="downloadFailed">Ошибка скачивания</string>
+    <string name="downloadMapConfirmation">Скачать файл карты %s\?</string>
+    <string name="downloadMapsSpecifyDirectory">Пожалуйста, сначала выберите папку для хранения автономных карт</string>
+    <string name="downloadMapsTitle">Скачать карты</string>
+    <string name="downloadSuccess">Скачано</string>
+    <string name="downloading">Скачивание…</string>
+    <string name="editDisplayedInformation">Изменить отображаемую информацию</string>
+    <string name="editDisplayedInformationHint">До начала тренировки можно выбрать отображаемые значения тапом по одному из четырех индикаторов.</string>
+    <string name="editStartEndHelp">Выберите точку на карте или графике. Затем тапните одну из стрелок, чтобы сделать выбранную точку новым началом или концом. Когда закончите, тапните значок сохранения, чтобы применить изменения.</string>
+    <string name="editWorkout">Изменить тренировку</string>
+    <string name="editWorkoutStartEnd">Подрезка начала/конца</string>
+    <string name="editWorkoutType">Изменить тип тренировки</string>
+    <string name="edit_interval">Изменить интервал</string>
+    <string name="enable">Включить</string>
+    <string name="enterComment">Добавить комментарий</string>
+    <string name="enterDescription">Введите описание</string>
+    <string name="enterName">Введите название</string>
+    <string name="enterValidUrl">Введите корректный HTTP URL</string>
+    <string name="enterVerificationCode">Введите код подтверждения</string>
+    <string name="enterWorkout">Добавить тренировку</string>
+    <string name="error">Ошибка</string>
+    <string name="errorEnterValidDuration">Введите корректную продолжительность</string>
+    <string name="errorEnterValidNumber">Введите корректное число</string>
+    <string name="errorExportFailed">Ошибка в экспорте данных.</string>
+    <string name="errorGpxExportFailed">Ошибка в экспорте GPX.</string>
+    <string name="errorImportFailed">Ошибка в импорте данных.</string>
+    <string name="errorWorkoutAddFuture">Тренировка не может быть в будущем</string>
+    <string name="error_icon_content_description">Ошибка</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Дополнительно"</string>
+    <string name="exportAsGpxFile">Экспорт в виде GPX-файла</string>
+    <string name="exportData">Экспорт данных</string>
+    <string name="exportDataSummary">Создание резервной копии всех тренировок</string>
+    <string name="exportIntervalTitle">Интервал резервного копирования</string>
+    <string name="exportTargetDirectory">Папка</string>
+    <string name="exportTargetHttpPost">HTTP POST запрос</string>
+    <string name="exporting">Экспорт</string>
+    <string name="exposed_dropdown_menu_content_description">Показать раскрывающееся меню</string>
+    <string name="fileNotFound">Файл не найден</string>
+    <string name="finished">Завершено</string>
+    <string name="friday">Пятница</string>
+    <string name="gps">GPS</string>
+    <string name="gpsFound">Сигнал GPS найден</string>
+    <string name="gpsLost">Сигнал GPS потерян</string>
+    <string name="heartRateNotAvailable">Частота сердечных сокращений в настоящее время недоступна.</string>
+    <string name="heartRateSensorBattery">Батарея датчика</string>
+    <string name="height">Высота</string>
+    <string name="height_map">Карта высот</string>
+    <string name="help">Помощь</string>
+    <string name="hidden">Скрытый</string>
+    <string name="hintAddWorkout">Нажмите на плюс для записи или добавления тренировки.</string>
+    <string name="hintConfigureExportTargets">Добавить целевые расположения для экспорта файлов.</string>
+    <string name="hintEditIntervalSet">Добавить интервалы, которые будут произнесены.</string>
+    <string name="hintManageIntervalSets">Добавить набор интервалов для использования в тренировках.</string>
+    <string name="hintManageWorkoutTypes">Нажмите на плюс для добавления собственных типов тренировок.</string>
+    <string name="hintRestart">Пожалуйста, перезапустите приложение для применения изменений</string>
+    <string name="histogram">Гистограмма</string>
+    <string name="httpUrl">URL</string>
+    <string name="humanitarian_clean_map_but_sometimes_not_available">Гуманитарный
+\nЧистая карта, но не всегда доступно</string>
+    <string name="icon_content_description">Значок диалогового окна</string>
+    <string name="identifiable_visibility">Идентифицируемый</string>
+    <string name="imperial_unit_system">Имперская</string>
+    <string name="imperial_with_meters_unit_system">Имперская с метрами</string>
+    <string name="importBackup">Импорт данных</string>
+    <string name="importBackupMessage">Сначала создайте резервную копию текущих данных, если хотите сохранить их. Восстановить предыдущие данные из резервной копии сейчас\?</string>
+    <string name="importBackupSummary">Восстановление данных из резервной копии</string>
+    <string name="importMultipleGpxFiles">Импортировать несколько GPX-файлов</string>
+    <string name="importMultipleMessageSelectFolder">Пожалуйста, выберите папку, содержащую все GPX-файлы, которые Вы хотите импортировать.</string>
+    <string name="importWorkout">Импортировать тренировку</string>
+    <string name="importWorkoutMultipleQuestion">Вы хотите импортировать один файл GPX или несколько\?</string>
+    <string name="importingFiles">Импорт файлов</string>
+    <string name="in_the_diagram_screen_track_style">На экране с графиком</string>
+    <string name="inclination">Отклонение</string>
+    <string name="info">Информация</string>
+    <string name="initialising">Инициализация</string>
+    <string name="intervalAutoStartDelayTraining">Задержка автоматического запуска тренировок</string>
+    <string name="intervalAutoStartModeTraining">Режимы автоматического запуска тренировок</string>
+    <string name="intervalAutoTimeoutTraining">Автоматический таймаут тренировки</string>
+    <string name="intervalSet">Набор интервалов</string>
+    <string name="intervalSetSelected">Набор интервалов выбран</string>
+    <string name="intervalSets">Наборы интервалов</string>
+    <string name="intervalTraining">Интервальные тренировки</string>
+    <string name="interval_name">Название:</string>
+    <string name="intervalsIncludePauseSummary">Если включено, интервалы будут продолжаться, даже если Вы делаете паузы в тренировке.</string>
+    <string name="intervalsIncludePauseTitle">Включить время паузы в интервальные тренировки</string>
+    <string name="invalidNumberFormat">Неверный формат числа.</string>
+    <string name="item_view_role_description">Вкладка</string>
+    <string name="joule_unit">Джоуль</string>
+    <string name="kcal_unit">ккал</string>
+    <string name="launchError">Не удалось запустить приложение</string>
+    <string name="length_in_minutes">Продолжительность (минуты):</string>
+    <string name="light_theme">Светлая</string>
+    <string name="loadingFile">Загрузка файла</string>
+    <string name="locationData">Данные о местоположении</string>
+    <string name="lowerPaceLimit">Нижний предел темпа</string>
+    <string name="manageAutoStartDelaySummary">Выберите обратный отсчет времени по умолчанию для автоматического начала тренировки</string>
+    <string name="manageAutoStartModeSummary">Изменить режим автоматического запуска тренировок</string>
+    <string name="manageAutoTimeoutSummary">Задать время до автоматической остановки тренировки</string>
+    <string name="manageIntervalSets">Управление наборами интервалов</string>
+    <string name="manageIntervalsSummary">Отредактируйте наборы интервалов, которые можно использовать во время тренировки с голосовой обратной связью.</string>
+    <string name="mapStyle">Стиль карты</string>
+    <string name="mapnik_default_osm_mapstyle">Mapnik
+\nСтиль OSM по умолчанию</string>
+    <string name="massExportGpxSummary">Создается ZIP-файл, содержащий все тренировки в виде GPX-файлов</string>
+    <string name="massExportGpxTitle">Экспорт всех тренировок в виде GPX-файлов</string>
+    <string name="material_clock_toggle_content_description">Выберите AM (до полудня) или PM (после полудня)</string>
+    <string name="material_hour_24h_suffix">%1$s ч.</string>
+    <string name="material_hour_selection">Выберите час</string>
+    <string name="material_hour_suffix">%1$s ч.</string>
+    <string name="material_minute_selection">Выберите минуты</string>
+    <string name="material_minute_suffix">%1$s мин.</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Чтобы ввести время, перейдите в режим часов.</string>
+    <string name="material_timepicker_hour">Час</string>
+    <string name="material_timepicker_minute">Минуты</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Выбор времени</string>
+    <string name="material_timepicker_text_input_mode_description">Чтобы ввести время, перейдите в режим ввода текста.</string>
+    <string name="max">Макс.</string>
+    <string name="merge">Объединить</string>
+    <string name="metric_unit_system">Метрическая</string>
+    <string name="metric_with_m_s_unit_system">Метрическая с м/с</string>
+    <string name="min">Мин.</string>
+    <string name="monday">Понедельник</string>
+    <string name="mondriaan">Мондрианский</string>
+    <string name="month">Месяц</string>
+    <string name="monthYear">Месяц / Год</string>
+    <string name="moveEndOfWorkout">Подрезать конец</string>
+    <string name="moveStartOfWorkout">Подрезать начало</string>
+    <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить \"%1$s\"</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Новых уведомлений больше %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Перейти к следующему месяцу</string>
+    <string name="mtrl_picker_a11y_prev_month">Перейти к предыдущему месяцу</string>
+    <string name="mtrl_picker_announce_current_selection">Выбранный элемент: %1$s</string>
+    <string name="mtrl_picker_cancel">Отмена</string>
+    <string name="mtrl_picker_confirm">ОК</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Выберите дату</string>
+    <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
+    <string name="mtrl_picker_day_of_week_column_header">Столбец со днями недели: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Недействительный формат.</string>
+    <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Используйте: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Недопустимый диапазон.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Перейти к %1$s году</string>
+    <string name="mtrl_picker_out_of_range">Вне диапазона: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Дата начала – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – дата окончания</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Выберите диапазон дат</string>
+    <string name="mtrl_picker_range_header_unselected">Дата начала – дата окончания</string>
+    <string name="mtrl_picker_save">Сохранить</string>
+    <string name="mtrl_picker_text_input_date_hint">Дата</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Дата окончания</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Дата начала</string>
+    <string name="mtrl_picker_text_input_day_abbr">д</string>
+    <string name="mtrl_picker_text_input_month_abbr">м</string>
+    <string name="mtrl_picker_text_input_year_abbr">г</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Перейти в режим выбора дней</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Нажмите, чтобы перейти к выбору дня</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Перейти в режим ввода текста</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Нажмите, чтобы перейти к выбору года</string>
+    <string name="mtrl_timepicker_cancel">Отмена</string>
+    <string name="mtrl_timepicker_confirm">ОК</string>
+    <string name="never_track_style">Никогда</string>
+    <string name="nfcStartSummary">Если включено, можно начинать и прекращать тренировки, сканируя метку NFC</string>
+    <string name="nfcStartTitle">Сканирование для запуска</string>
+    <string name="noAutoStartDelay">Нет</string>
+    <string name="noColoring">Не окрашивать</string>
+    <string name="noComment">Комментарий отсутствует</string>
+    <string name="noGpsMessage">Пожалуйста, включите GPS для отслеживания тренировки.</string>
+    <string name="noGpsTitle">GPS отключен</string>
+    <string name="noSensorAvailable">Нет доступного датчика</string>
+    <string name="noWorkoutStarted">Тренировка не началась</string>
+    <string name="no_workouts_recorded">Записанные тренировки отсутствуют</string>
+    <string name="no_workouts_recorded_for_this_activity">Нет тренировок этого типа</string>
+    <string msgid="6573031135582639649" name="not_set">"Не указано"</string>
+    <string name="nothingSelected">Ничего не выбрано</string>
+    <string name="notimeout">Нет тайм-аута</string>
+    <string name="offline_local_map_file_with_local_render_theme">Офлайн
+\nФайл автономной карты с локальным рендерингом</string>
+    <string name="okay">Применить</string>
+    <string name="only_on_headphones_mode">Только в наушниках</string>
+    <string name="overwriteMapConfirmation">Переписать существующий файл карты %s\?</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
+    <string name="per">в</string>
+    <string name="pink_mist">Розовый туман</string>
+    <string name="popup_auto_start">С задержкой по умолчанию</string>
+    <string name="popup_auto_start_delay">С настраиваемой задержкой</string>
+    <string name="popup_auto_start_immediately">Начинать немедленно</string>
+    <string name="popup_auto_start_on_move">Когда я начинаю движение</string>
+    <string name="popup_auto_start_wait_for_gps">При точном определении местоположения по GPS</string>
+    <string name="prefShowOnLockScreenSummary">Показывать информацию о тренировке, даже если устройство заблокировано.</string>
+    <string name="prefShowOnLockScreenTitle">Отображение на экране блокировки</string>
+    <string name="prefTrackStyleUsageTitle">Автоматическая окраска трека</string>
+    <string name="pref_announcement_mode">Режим оповещения</string>
+    <string name="pref_announcements_config_summary">Выберите время и дистанцию между голосовыми оповещениями</string>
+    <string name="pref_announcements_config_title">Триггер оповещения</string>
+    <string name="pref_announcements_content">Содержание оповещений</string>
+    <string name="pref_announcements_pace_control_summary">Предупреждать, когда скорость ниже или выше указанной</string>
+    <string name="pref_announcements_pace_control_title">Предупреждения о темпе</string>
+    <string name="pref_auto_start_delay_title">Обратный отсчет автозапуска</string>
+    <string name="pref_auto_start_mode_instant">Начинать немедленно</string>
+    <string name="pref_auto_start_mode_on_move">Дожидаться начала движения</string>
+    <string name="pref_auto_start_mode_title">Режим автозапуска</string>
+    <string name="pref_auto_start_mode_unknown">Неизвестно (не использовать)</string>
+    <string name="pref_auto_start_mode_wait_for_gps">Дожидаться точного определения положения</string>
+    <string name="pref_auto_timeout_title">Время до автоматической остановки</string>
+    <string name="pref_energy_unit">Единица энергии</string>
+    <string name="pref_map_directory">Папка для автономных карт</string>
+    <string name="pref_render_theme_style">Стиль рендеринга</string>
+    <string name="pref_render_theme_style_info">Для выбранной темы меню недоступно.</string>
+    <string name="pref_step_length">Длина шага</string>
+    <string name="pref_unit_system">Система единиц измерения</string>
+    <string name="pref_voice_announcements_summary">Настройте голосовые подсказки для информирования во время тренировки</string>
+    <string name="pref_weight">Ваш вес</string>
+    <string name="pref_weight_summary">Вес нужен для расчета количества сожженных калорий</string>
+    <string name="preferenceCategoryRenderThemeCategories">Категории</string>
+    <string name="preferenceCategoryVoiceFeedback">Голосовая обратная связь</string>
+    <string name="preferenceCurrentSpeedAverageTimeSummary">Заменить текущую скорость на усредненную</string>
+    <string name="preferenceCurrentSpeedAverageTimeTitle">Усредненная скорость</string>
+    <string name="preferenceCurrentSpeedTime">Временной интервал усредненной скорости</string>
+    <string name="preferenceDateFormat">Формат даты</string>
+    <string name="preferenceFirstDayOfWeek">Начало недели</string>
+    <string name="preferenceTimeFormat">Формат времени</string>
+    <string name="preferenceUseAverageForCurrentSpeed">Для расчета текущей скорости использовать среднюю скорость за определенное время вместо последней единичной записи скорости.</string>
+    <string msgid="6685851473431805375" name="preference_copied">"Текст \"<ns1:g id="SUMMARY">%1$s</ns1:g>\" скопирован в буфер обмена"</string>
+    <string name="preferencesBackupSummary">Создание и восстановление резервной копии тренировок</string>
+    <string name="preferencesBackupTitle">Данные</string>
+    <string name="preferencesCategoryAppearance">Внешний вид</string>
+    <string name="preferencesCategoryMap">Карта</string>
+    <string name="preferencesDebugTitle">Отладка</string>
+    <string name="preferencesRecordingSummary">Управление записью тренировок</string>
+    <string name="preferencesRecordingTitle">Запись</string>
+    <string name="preferencesUserInterfaceSummary">Персонализация приложения</string>
+    <string name="preferencesUserInterfaceTitle">Интерфейс пользователя</string>
+    <string name="private_visibility">Личный</string>
+    <string name="purple_rain">Пурпурный дождь</string>
+    <string name="rainbow_warrior">Радужный воин</string>
+    <string name="recordWorkout">Записать тренировку</string>
+    <string name="recordingActivityPermissionMessage">Приложению FitoTrack требуется разрешение на отслеживание физической активности для записи тренировок в помещении.</string>
+    <string name="recordingPermissionNotGrantedMessage">Приложению FitoTrack требуется разрешение на доступ к информации о местоположении для отслеживания Вашего передвижения во время тренировок. Также для записи тренировок приложение FitoTrack получает информацию о местоположении в фоновом режиме и при выключенном экране. Информация о местоположении всегда остается в Вашем телефоне, пока Вы не выразите явное согласие на ее передачу третьим лицам.</string>
+    <string name="recordingPermissionNotGrantedTitle">Разрешения не предоставлены</string>
+    <string name="recordingStateIdle">Простой</string>
+    <string name="recordingStatePaused">На паузе</string>
+    <string name="recordingStateRunning">Запущено</string>
+    <string name="recordingStateStopped">Остановлено</string>
+    <string name="replace">Заменить</string>
+    <string name="replaceOrMergeMessage">Заменить или объединить базу данных с резервной копией\?</string>
+    <string name="restore">Восстановить</string>
+    <string name="resumeWorkout">Возобновить тренировку</string>
+    <string name="resumeWorkoutConfirmation">Возобновить тренировку\? Будет добавлена пауза с того момента, когда тренировка была остановлена.</string>
+    <string name="runningMigrations">Запуск миграций</string>
+    <string name="saturday">Суббота</string>
+    <string name="save">Сохранить</string>
+    <string name="savedSuccessfully">Сохранено</string>
+    <string name="savingFailed">Ошибка сохранения</string>
+    <string name="scanFailed">Ошибка сканирования</string>
+    <string name="scanning">Сканирование…</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Поиск"</string>
+    <string name="sections">Разделы</string>
+    <string name="selectBluetoothDevice">Выберите устройство Bluetooth</string>
+    <string name="selectColoring">Выберите окраску</string>
+    <string name="selectExportTarget">Выберите целевое расположение для экспорта</string>
+    <string name="selectIntervalSet">Выберите набор интервалов</string>
+    <string name="setDuration">Установить продолжительность</string>
+    <string name="setPreferencesMessage">Вы можете выбрать систему единиц измерения и ввести свой вес в настройках.</string>
+    <string name="setPreferencesTitle">Установка предпочтений</string>
+    <string name="settings">Настройки</string>
+    <string name="share">Поделиться</string>
+    <string name="shareFile">Поделиться файлом</string>
+    <string name="showIntervals">Показать интервалы</string>
+    <string name="showWorkoutZoomControlsSummary">Включить управление масштабированием и перемещением карты во время записи GPS-тренировок</string>
+    <string name="showWorkoutZoomControlsTitle">Масштабирование и перемещение</string>
+    <string name="show_sum">Показать сумму</string>
+    <string name="singleWorkout">Одиночная тренировка</string>
+    <string name="speechConfigNoSpeech">Нет оповещений</string>
+    <string name="speedLastMinute">Средн. скорость (последняя минута)</string>
+    <string name="speedLastMinuteSpoken">Скорость за последнюю минуту</string>
+    <string name="start">Начать</string>
+    <string name="statistics">Статистика</string>
+    <string name="statsFilter">Фильтр:</string>
+    <string name="stats_explore_title">Изучение</string>
+    <string name="stats_history_title">История</string>
+    <string name="stats_overview_title">Обзор</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="stop">Остановить</string>
+    <string name="stopRecordingQuestion">Остановить запись\?</string>
+    <string name="stopRecordingQuestionMessage">Вы действительно хотите остановить запись\?</string>
+    <string name="sum">Сумма</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="sunday">Воскресенье</string>
+    <string name="system_default">Как в системе по умолчанию</string>
+    <string name="system_theme">Системная</string>
+    <string name="takeBackups1">Ежедневно</string>
+    <string name="takeBackups14">Каждую 2-ю неделю</string>
+    <string name="takeBackups2">Каждый 2-й день</string>
+    <string name="takeBackups3">Каждый 3-й день</string>
+    <string name="takeBackups7">Еженедельно</string>
+    <string name="theme">Тема</string>
+    <string name="thursday">Четверг</string>
+    <string name="timeHourPlural">Часов</string>
+    <string name="timeHourShort">ч</string>
+    <string name="timeHourSingular">Час</string>
+    <string name="timeMinutePlural">Минут</string>
+    <string name="timeMinuteShort">мин</string>
+    <string name="timeMinuteSingular">Минута</string>
+    <string name="timeSecondsPlural">Секунды</string>
+    <string name="timeSecondsShort">с</string>
+    <string name="timeSecondsSingular">Секунда</string>
+    <string name="trackStyle">Стиль трека</string>
+    <string name="trackVisibilityPref">Видимость трека</string>
+    <string name="trackable_visibility">Отслеживаемый</string>
+    <string name="trackerRunning">Отслеживание запущено</string>
+    <string name="trackerWaitingMessage">Ожидание начала тренировки</string>
+    <string name="trackingInfo">Информация об отслеживании</string>
+    <string name="trackingInfoDescription">Информация о запущенном отслеживании</string>
+    <string name="ttsAboveTargetSpeed">Слишком быстро</string>
+    <string name="ttsBelowTargetSpeed">Слишком медленно</string>
+    <string name="ttsLongSecondCountdownAnnouncement"> <ns1:g example="5 seconds" id="secs">%1$s</ns1:g> до запуска </string>
+    <string name="ttsMinuteCountdownAnnouncement"> <ns1:g example="12 minutes" id="mins">%1$s</ns1:g> до запуска </string>
+    <string name="ttsMinuteSecondCountdownAnnouncement"> <ns1:g example="1 minute" id="mins">%1$s</ns1:g> и <ns1:g example="7 seconds" id="secs">%2$s</ns1:g> до запуска </string>
+    <string name="ttsNotAvailable">Синтезатор речи недоступен</string>
+    <string name="tuesday">Вторник</string>
+    <string name="type">Тип</string>
+    <string name="unitFootPlural">Футов</string>
+    <string name="unitFootSingular">Фут</string>
+    <string name="unitHeartBeatsPerMinute">уд/мин</string>
+    <string name="unitHeartRateSensorBattery">%</string>
+    <string name="unitHertzLong">Герц</string>
+    <string name="unitKJoule">Килоджоуль</string>
+    <string name="unitKcalLong">Калории</string>
+    <string name="unitKilometersPerHour">Километров в час</string>
+    <string name="unitKilometersPlural">Километров</string>
+    <string name="unitKilometersSingular">Километр</string>
+    <string name="unitMetersPerSecond">Метров в секунду</string>
+    <string name="unitMetersPlural">Метров</string>
+    <string name="unitMetersSingular">Метр</string>
+    <string name="unitMilesPerHour">Миль в час</string>
+    <string name="unitMilesPlural">Миль</string>
+    <string name="unitMilesSingular">Миля</string>
+    <string name="unitYardsPlural">Ярдов</string>
+    <string name="unitYardsSingular">Ярд</string>
+    <string name="unknown">Неизвестно</string>
+    <string name="unlockPhoneStopWorkout">Пожалуйста, разблокируйте телефон для остановки записи</string>
+    <string name="upload">Загрузить</string>
+    <string name="uploadFailed">Ошибка загрузки</string>
+    <string name="uploadFailedOsmNotAuthorized">Не авторизован, попробуйте еще раз</string>
+    <string name="uploadSuccessful">Загрузка завершена успешно</string>
+    <string name="uploading">Загрузка</string>
+    <string name="upperPaceLimit">Верхний предел темпа</string>
+    <string name="us_customary_unit_system">США</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"ВЫКЛ."</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ВКЛ."</string>
+    <string name="voiceAnnouncementsTitle">Голосовые оповещения</string>
+    <string name="waiting_gps">Ожидание GPS</string>
+    <string name="wednesday">Среда</string>
+    <string name="week">Неделя</string>
+    <string name="workoutAscent">Подъем</string>
+    <string name="workoutAutoStartAborted">Автоматический запуск прерван</string>
+    <string name="workoutAutoStarted">Тренировка запущена автоматически</string>
+    <string name="workoutAvgDistance">Среднее расстояние</string>
+    <string name="workoutAvgDurationLong">Средняя продолжительность</string>
+    <string name="workoutAvgFrequencyLong">Средняя частота</string>
+    <string name="workoutAvgFrequencyShort">Средн. частота</string>
+    <string name="workoutAvgHeartRate">Средн. частота сердцебиения</string>
+    <string name="workoutAvgIntensityShort">Средн. интенсивность</string>
+    <string name="workoutAvgPauseDuration">Средняя продолжительность паузы</string>
+    <string name="workoutAvgSpeedLong">Средняя скорость</string>
+    <string name="workoutAvgSpeedShort">Средн. скорость</string>
+    <string name="workoutBurnedEnergy">Сожжённые калории</string>
+    <string name="workoutCount">Количество тренировок</string>
+    <string name="workoutCurrentFrequency">Текущая частота</string>
+    <string name="workoutDate">Дата</string>
+    <string name="workoutDescent">Спуск</string>
+    <string name="workoutDiscarded">Тренировка отменена</string>
+    <string name="workoutDistance">Расстояние</string>
+    <string name="workoutDistanceSum">Суммарное расстояние</string>
+    <string name="workoutDuration">Продолжительность</string>
+    <string name="workoutDurationSum">Суммарная продолжительность</string>
+    <string name="workoutEdited">Эта тренировка отредактирована.</string>
+    <string name="workoutEndTime">Время окончания</string>
+    <string name="workoutEnergyConsumption">Потребление энергии</string>
+    <string name="workoutFrequency">Частота</string>
+    <string name="workoutGPXExportTitle">Экспорт тренировок в GPX</string>
+    <string name="workoutHeartRate">Частота сердцебиения</string>
+    <string name="workoutImported">Тренировка успешно импортирована</string>
+    <string name="workoutIntensity">Интенсивность</string>
+    <string name="workoutMaxFrequency">Макс. частота</string>
+    <string name="workoutMaxHeartRate">Максимальная частота сердцебиения</string>
+    <string name="workoutMaxHeight">Макс. высота</string>
+    <string name="workoutMaxIntensity">Макс. интенсивность</string>
+    <string name="workoutMinHeight">Мин. высота</string>
+    <string name="workoutNumber">Количество тренировок</string>
+    <string name="workoutPace">Темп</string>
+    <string name="workoutPauseDuration">Продолжительность паузы</string>
+    <string name="workoutPauseDurationSum">Суммарная продолжительность паузы</string>
+    <string name="workoutPaused">Тренировка приостановлена</string>
+    <string name="workoutRecordingTypeGps">GPS тренировки</string>
+    <string name="workoutRecordingTypeIndoor">Тренировки в помещении</string>
+    <string name="workoutRepetitions">Повторы</string>
+    <string name="workoutResumed">Тренировка возобновлена</string>
+    <string name="workoutRoute">Маршрут</string>
+    <string name="workoutSets">Наборы</string>
+    <string name="workoutSpeed">Скорость</string>
+    <string name="workoutStartTime">Время начала</string>
+    <string name="workoutStarted">Тренировка началась</string>
+    <string name="workoutStatsHelpText">На этом экране отображается статистика истории тренировок. Для ее использования сначала выберите тип тренировки тапом по нему. Затем выберите интересующие сведения и временной интервал.
+\n
+\nНапример, если выбрать временной интервал \"Неделя\", то все тренировки каждой недели будут объединены в единицу данных с расчетом среднего или суммарного значения для каждой недели.</string>
+    <string name="workoutStopped">Тренировка остановлена</string>
+    <string name="workoutTime">Время</string>
+    <string name="workoutTopSpeed">Максимальная скорость</string>
+    <string name="workoutTotalEnergy">Общая энергия</string>
+    <string name="workoutTypeAdd">Добавить</string>
+    <string name="workoutTypeAll">Все</string>
+    <string name="workoutTypeCycling">Велосипед</string>
+    <string name="workoutTypeEditIcon">Значок</string>
+    <string name="workoutTypeEditId">Идентификатор</string>
+    <string name="workoutTypeEditIdErrorCharacters">Допустимые символы: a–z, A–Z, 0–9, _, -</string>
+    <string name="workoutTypeEditIdErrorEmpty">Пожалуйста, введите идентификатор</string>
+    <string name="workoutTypeEditIdErrorUnique">Тип тренировки с таким идентификатором уже существует</string>
+    <string name="workoutTypeEditMET">MET</string>
+    <string name="workoutTypeEditMinDistance">Интервал расстояния</string>
+    <string name="workoutTypeEditName">Название</string>
+    <string name="workoutTypeEditNameError">Пожалуйста, введите название</string>
+    <string name="workoutTypeHiking">Пеший туризм</string>
+    <string name="workoutTypeInlineSkating">Роликовые коньки</string>
+    <string name="workoutTypeOther">Другое</string>
+    <string name="workoutTypePullUps">Подтягивания</string>
+    <string name="workoutTypePushUps">Отжимания</string>
+    <string name="workoutTypeRopeSkipping">Скакалка</string>
+    <string name="workoutTypeRowing">Гребля</string>
+    <string name="workoutTypeRunning">Бег</string>
+    <string name="workoutTypeSkateboarding">Скейтборд</string>
+    <string name="workoutTypeSwimming">Плавание</string>
+    <string name="workoutTypeTrampolineJumping">Прыжки на батуте</string>
+    <string name="workoutTypeTreadmill">Беговая дорожка</string>
+    <string name="workoutTypeWalking">Ходьба</string>
+    <string name="workout_statistics">Статистика тренировок</string>
+    <string name="workouts">Тренировки</string>
+    <string name="year">Год</string>
+    <string name="zoomWithVolumeButtonsSummary">Кнопки увеличения и уменьшения громкости управляют увеличением и уменьшением масштаба</string>
+    <string name="zoomWithVolumeButtonsTitle">Масштабирование кнопками громкости</string>
+</resources>

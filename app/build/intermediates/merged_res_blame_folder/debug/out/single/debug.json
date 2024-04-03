@@ -1,0 +1,670 @@
+[
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_other.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_other.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_view_short_stats.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/view_short_stats.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_person.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_person.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_manage_workout_types.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_manage_workout_types.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_privacy.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_privacy.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/menu_enter_workout_menu.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/menu/enter_workout_menu.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_enter_workout.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_enter_workout.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable_ic_push_ups.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable/ic_push_ups.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_bluetooth_connecting.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_bluetooth_connecting.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_american_football.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_american_football.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-mdpi_ic_ride.png.flat",
+        "source": "de.tadris.fitness.app-pngs-40:/drawable-mdpi/ic_ride.png"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_show_workout.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_show_workout.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable_ic_cross_country_ski.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable/ic_cross_country_ski.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_view_time_span_selection.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/view_time_span_selection.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable_logo_foreground.png.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable/logo_foreground.png"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_wheelchair.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_wheelchair.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_view_export_target.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/view_export_target.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_bluetooth_connected.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_bluetooth_connected.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_manage_interval_sets.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_manage_interval_sets.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-xxhdpi_ic_ride.png.flat",
+        "source": "de.tadris.fitness.app-pngs-40:/drawable-xxhdpi/ic_ride.png"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_dialog_upload_osm.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/dialog_upload_osm.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-ldpi_ic_ride.png.flat",
+        "source": "de.tadris.fitness.app-pngs-40:/drawable-ldpi/ic_ride.png"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-xxxhdpi_ic_inline_skating.png.flat",
+        "source": "de.tadris.fitness.app-pngs-40:/drawable-xxxhdpi/ic_inline_skating.png"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_view_workout.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/view_workout.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_show_workout_map_diagram.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_show_workout_map_diagram.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_history.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_history.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_motor_cycle.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_motor_cycle.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/xml_preferences_backup.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/xml/preferences_backup.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_motorsports.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_motorsports.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/menu_show_workout_menu.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/menu/show_workout_menu.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_record_workout.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_record_workout.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/mipmap_ic_launcher.png.flat",
+        "source": "de.tadris.fitness.app-main-46:/mipmap/ic_launcher.png"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/xml_preferences_user_interface.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/xml/preferences_user_interface.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_bike_scooter.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_bike_scooter.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_bug_report.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_bug_report.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_dialog_current_speed.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/dialog_current_speed.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_arrow_right.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_arrow_right.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/xml_preferences_recording.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/xml/preferences_recording.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_view_interval.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/view_interval.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable_ic_trampoline_jumping.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable/ic_trampoline_jumping.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-hdpi_ic_inline_skating.png.flat",
+        "source": "de.tadris.fitness.app-pngs-40:/drawable-hdpi/ic_inline_skating.png"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_section_entry.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/section_entry.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_dialog_pace_control_range_picker.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/dialog_pace_control_range_picker.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_download_maps.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_download_maps.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_clock.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_clock.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/mipmap_ic_launcher_round.png.flat",
+        "source": "de.tadris.fitness.app-main-46:/mipmap/ic_launcher_round.png"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_fragment_stats_experimental.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/fragment_stats_experimental.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_marker_view.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/marker_view.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_edit_interval_set.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_edit_interval_set.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_rowing.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_rowing.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/menu_record_menu.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/menu/record_menu.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_view_interval_set.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/view_interval_set.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_short_stats_item.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/short_stats_item.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_pool.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_pool.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-xhdpi_ic_ride.png.flat",
+        "source": "de.tadris.fitness.app-pngs-40:/drawable-xhdpi/ic_ride.png"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_share.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_share.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/menu_share_workout_menu.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/menu/share_workout_menu.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_hiking.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_hiking.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/xml_preferences_voice_announcements.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/xml/preferences_voice_announcements.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_view_workout_type_selection.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/view_workout_type_selection.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_handball.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_handball.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/menu_start_popup_menu.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/menu/start_popup_menu.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_fragment_stats_explore.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/fragment_stats_explore.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_show_workouts_aggregated.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_show_workouts_aggregated.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_sensor_debug.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_sensor_debug.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable_ic_swap_vertical.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable/ic_swap_vertical.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_dialog_duration_picker.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/dialog_duration_picker.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/menu_workout_stats_menu.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/menu/workout_stats_menu.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-xxhdpi_ic_inline_skating.png.flat",
+        "source": "de.tadris.fitness.app-pngs-40:/drawable-xxhdpi/ic_inline_skating.png"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_group.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_group.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_car.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_car.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_wheelchair_fast.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_wheelchair_fast.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_save.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_save.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/xml_filepaths.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/xml/filepaths.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_run.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_run.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_downhill_ski.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_downhill_ski.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable_notification.png.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable/notification.png"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_show_entry.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/show_entry.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_debug_pressure.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_debug_pressure.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable_ic_record_24dp.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable/ic_record_24dp.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_changes.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_changes.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-mdpi_ic_inline_skating.png.flat",
+        "source": "de.tadris.fitness.app-pngs-40:/drawable-mdpi/ic_inline_skating.png"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_view_workout_type.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/view_workout_type.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_share_workout.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_share_workout.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/xml_preferences_debug.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/xml/preferences_debug.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_code.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_code.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_dialog_add_interval.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/dialog_add_interval.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_dialog_picker.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/dialog_picker.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_list_workouts.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_list_workouts.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/menu_edit_interval_set_menu.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/menu/edit_interval_set_menu.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable_logo_background.png.flat",
+        "source": "de.tadris.fitness.app-debug-45:/drawable/logo_background.png"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable_logo_small.png.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable/logo_small.png"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_list.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_list.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable_logo_combined.png.flat",
+        "source": "de.tadris.fitness.app-debug-45:/drawable/logo_combined.png"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_library_books.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_library_books.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/xml_text_toggle_info.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/xml/text_toggle_info.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_stats_title.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/stats_title.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-hdpi_ic_ride.png.flat",
+        "source": "de.tadris.fitness.app-pngs-40:/drawable-hdpi/ic_ride.png"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_bluetooth_off.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_bluetooth_off.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_edit_workout_type.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_edit_workout_type.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_statistics.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_statistics.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_enter_workout_line.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/enter_workout_line.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_pull_ups.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_pull_ups.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/raw_geoids.csv.flat",
+        "source": "de.tadris.fitness.app-main-46:/raw/geoids.csv"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_delete.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_delete.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_arrow_left.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_arrow_left.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_user_interface.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_user_interface.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_email.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_email.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable_share_workout_background_up.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable/share_workout_background_up.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_ball.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_ball.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_edit.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_edit.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi-v24_ic_inline_skating.xml.flat",
+        "source": "de.tadris.fitness.app-pngs-40:/drawable-anydpi-v24/ic_inline_skating.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_bike.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_bike.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_walk.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_walk.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/menu_workout_map_menu.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/menu/workout_map_menu.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_follow_sign.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_follow_sign.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_record_indoor_workout.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_record_indoor_workout.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/anim_fade_in.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/anim/fade_in.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable_ic_map_zoomout.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable/ic_map_zoomout.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/anim_stay.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/anim/stay.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_help.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_help.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_storage.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_storage.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_statistics_detail.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_statistics_detail.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_distance.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_distance.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_resume.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_resume.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_pause.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_pause.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-xxxhdpi_ic_ride.png.flat",
+        "source": "de.tadris.fitness.app-pngs-40:/drawable-xxxhdpi/ic_ride.png"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_view_icon.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/view_icon.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/xml_preferences_main.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/xml/preferences_main.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_main.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/menu_edit_workout_type_menu.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/menu/edit_workout_type_menu.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable_ic_rope_skipping.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable/ic_rope_skipping.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable_ic_skateboarding.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable/ic_skateboarding.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_fragment_stats_history.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/fragment_stats_history.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_gps_no_fix.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_gps_no_fix.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/menu_list_workout_menu.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/menu/list_workout_menu.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_map_zoomin.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_map_zoomin.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_fragment_stats_overview.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/fragment_stats_overview.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_settings.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout-land_activity_show_workout_map_diagram.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout-land/activity_show_workout_map_diagram.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_moped.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_moped.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi-v24_ic_ride.xml.flat",
+        "source": "de.tadris.fitness.app-pngs-40:/drawable-anydpi-v24/ic_ride.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_dialog_auto_timeout_picker.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/dialog_auto_timeout_picker.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_dialog_spoken_updates_picker.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/dialog_spoken_updates_picker.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-xhdpi_ic_inline_skating.png.flat",
+        "source": "de.tadris.fitness.app-pngs-40:/drawable-xhdpi/ic_inline_skating.png"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_e_bike.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_e_bike.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_bluetooth.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_bluetooth.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable_share_workout_background_down.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable/share_workout_background_down.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_language.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_language.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_e_scooter.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_e_scooter.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_dialog_configure_http_post.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/dialog_configure_http_post.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_add_white.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_add_white.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_apply.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_apply.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/menu_edit_workout_start_end_menu.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/menu/edit_workout_start_end_menu.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_text_toggle.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/text_toggle.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-ldpi_ic_inline_skating.png.flat",
+        "source": "de.tadris.fitness.app-pngs-40:/drawable-ldpi/ic_inline_skating.png"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_dialog_progress.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/dialog_progress.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_configure_export_targets.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_configure_export_targets.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_golf.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_golf.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_view_sections_list.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/view_sections_list.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/xml_preferences_render_theme.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/xml/preferences_render_theme.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/layout_activity_show_workout_map.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/layout/activity_show_workout_map.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/menu_show_indoor_workout_menu.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/menu/show_indoor_workout_menu.xml"
+    },
+    {
+        "merged": "de.tadris.fitness.app-merged_res-44:/drawable-anydpi_ic_gps_fixed.xml.flat",
+        "source": "de.tadris.fitness.app-main-46:/drawable-anydpi/ic_gps_fixed.xml"
+    }
+]
